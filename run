@@ -200,19 +200,20 @@ Pipe Vault:
 	-Save.
 	-Ignore the yoshi screen and continue SW.
 
-
-
-
-
-
-
-
-
-	Moleville is same
-	Buy: Punch Glove, Cymbals, Finger Shot, 4 Work Pants
+Moleville:
+        -Sell: Honey Syrups
+	-Buy: 2x Maple Syrup, Punch Glove, Cymbals, 4 Work Pants
 		Mario: Punch Glove, Work Pants, Jump Shoes
-		Mallow: Cymbals, Work Pants, Antidote Pin
-		Geno: Finger Shot, Work Pants, Wake Up Pin
+		Mallow: Cymbals, Work Pants, Wake Up Pin
+		Geno: Finger Shot, Work Pants, Trueform Pin
+        -Use: All Flower Items (go back through and edit these in)
+        -Head to the Inn and Save
+        -Run North, enter the Mine, continue forward
+
+
+
+
+
 
 	***CROCO 2
 		Attack with Geno and Mallow
