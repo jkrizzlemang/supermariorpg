@@ -298,8 +298,10 @@ Marrymore
         -Head to Star Hill
 
 Star Hill:
-        -Pretty linear, interact with flowers to open star gates
-	-Go North on final screen for a free Star objective
+        -Pretty linear, interact with flowers to open star gates:
+                 -(From one to the next) Down, Right, Left, Up, Right
+                 -(From one to the next) Upper right, down, left, left, up-right, up-left
+                 -(From one to the next) Down, left, up-right, up-left, down-right, up-right (star), down-right	-Go North on final screen for a free Star objective
 
 Seaside Town: same
 	Buy Experience Booster
