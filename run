@@ -202,7 +202,6 @@ Moleville:
 		Mario: Punch Glove, Work Pants, Jump Shoes
 		Mallow: Cymbals, Work Pants, Wake Up Pin
 		Geno: Finger Shot, Work Pants, Trueform Pin
-        -Use: All Flower Items (go back through and edit these in)
         -Head to the Inn and Save
         -Run North, enter the Mine, continue forward
         -Linear, jump on trampoline
@@ -303,18 +302,17 @@ Star Hill:
                  -(From one to the next) Upper right, down, left, left, up-right, up-left
                  -(From one to the next) Down, left, up-right, up-left, down-right, up-right (star), down-right	-Go North on final screen for a free Star objective
 
-Seaside Town: same
-	Buy Experience Booster
-	Bombs: 1-1-7-8
-	PLUS
-
-	Party:
-	Mario: Work Pants, Exp. Booster
-	Koopa: Work Pants
-	Geno: Work Pants
-	-----------------------------------------
-	Peach: no equips
-	Mallow: Work Pants, Amulet
+Seaside Town: 
+        -Enter bottom door of Item Shop
+        -Note: Have at least 75 coins left here
+        -Buy 3 Fire Bombs, 8 Ice Bombs and 8 Fright Bombs
+        -Sell KeroKero Colas, Flower Tabs/Jars, and any of the early game items
+	-Go to the NW house and talk to the Elder.
+        -Go upstairs and buy Experience Booster
+        -EQUIP
+	          Mario: EXP Booster
+	          Mallow: Amulet
+        -Leave zone
 
 Sea: Get chests
 	Star - Ability Swap (Peach/Mallow)
