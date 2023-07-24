@@ -209,10 +209,9 @@ Moleville:
         -Chase Croco and fight bandits for Flower Tabs (use attacks only)
         -Wait for Croco to enter a room and then fight
         -CROCO 2
-		Attack with Geno
-                Attack/Heal with Mallow
+		Attack/Revive with Geno
+                Attack/Heal/Revive with Mallow
 		Jump with Mario
-		Revive on first turn, none after
         -Go back to trampoline and enter NW room and follow Linear until you see traintracks
         -Follow traintrack path, talk to mole, stay on lower path for a Frog Coin
         -Go to the upper path, hit the chest for a star, do not go backwards or hit the next chest.
@@ -220,11 +219,13 @@ Moleville:
         -Skip the chest near the save block, jump onto the tall stack to get the flower chest
         -Use the chest near the save block for a full restore mushroom and save.
 	-Punchinello
+                Note: Mallow should Able Juice Geno if Sandstormed
 		Mario: Jump
                 Mallow: Thunderbolt if bombs, else Attack
                 Geno: Attack
         -Minecart section doesn't matter, but:
                 -Jump at first track for coins, then just stay bottom
+        -Buy Pick Me Ups until you have 5 in inventory
 
 Booster Pass:
         -Interact with the second Artichoke here for a Frog Coin
@@ -251,13 +252,20 @@ Booster Tower:
         -In the SE corner, jump for a hidden mushroom recovery chest.
         -Jump up the yellow blocks for a Frog Coin.
         -Jump on top of this chest for another hidden chest that has a Goodie Bag.
-        -Try to leave through the SW door and then win the Amulet by staying hidden.
-	EQUIP:
+        -Try to leave through the SW door and then win the Amulet by staying hidden:
+                -(From bottom) Avoid 3rd curtain, then stand behind it
+                -(From bottom) 1st, 2nd, 1st, 1st, 1st, 1st, run to 3/4
+	        -(From bottom) 4th, 1st, 2nd, 3rd, 1st, 3rd
+        EQUIP:
 		Mario: Amulet
 		Bowser: Work Pants, Zoom Shoes
-	KNIFE GUY / GRATE GUY
+        -Swap Mallow out for Bowser
+	-KNIFE GUY / GRATE GUY
+                Note: Geno should always Attack Grate Guy
+                Note: If Terrorize doesn't affect Knife Guy, Terrorize again and swap all characters towards Knife Guy
+                Note: If Bowser gets put to sleep, have Geno attack Knife Guy. If Mario gets put to sleep or silenced before Knife Guy dies, Able Juice.
 		Knife Guy: Attack / Terrorize / Fire Orb
-		Grate Guy: Attack / Attack / Attack/Jump
+		Grate Guy: Attack / Attack / Jump/Attack
         -During the hill minigame, jump on shysters and barrels to reach Peach for Flowers (I got 9)
 
 Marrymore
@@ -273,14 +281,21 @@ Marrymore
         -Go NE to the Church and talk to the yellow Toad outside
         -Go around the Church to the NE and button hook back for secret entrance
         -Linear, save, Linear, jump on Boosters head for Crown
-        -Cake Boss:
+        -Bundt:
+                -Note: You want to enter the second phase with Genos attack, so Defend with Mario and Bowser (after first wiggle?)
+                -Note: If Sandstorm and Blizzard are used together, have Bowser/Geno use a Froggie Drink
+                -Note: If Sandstorm is used, Able Juice Mario only
                 -Mario Jumps, others attack or revives
                 -Raspberry has 600 HP (don't waste items)
         -Leave zone, go to Mushroom Kingdom Castle and follow Linear story
         -Head to Tadpole Pond and talk to Frogfucious
         -Go SE and stand on grey stone to play (movements from top):
                 -0, 2, 5, 2, 1, 4, 3, 2
-        -Leave zone, go to Moleville to open new map and then go to Star Hill
+        -Leave zone, go to Moleville to open new map and reenter Booster Pass
+        -Head NW and enter the new mine
+        -Hug the lower left corner of the platform and jump to the end to get a KeroKero Cola, Flower, and Frog Coin
+        -Drop off the edge and leave the zone South
+        -Head to Star Hill
 
 Star Hill:
         -Pretty linear, interact with flowers to open star gates
