@@ -315,9 +315,6 @@ Sea:
 	-Enter Sunken Ship
 
 SUNKEN SHIP:
-	Mario and Koopa swap accessories (XP on Koopa)
-	Party Switch: Koopa -> Mallow
-
 	Party Looks Like:
 	Mario: Work Pants
 	Mallow: Work Pants, Amulet
@@ -349,7 +346,7 @@ SUNKEN SHIP:
 	Equip: Geno and Mallow swap accessories
 		   Mallow and Peach swap armor
 
-	Party:
+	Party Looks Like:
 	Mario: Unarmed, Work Pants, Amulet
 	Koopa: Unarmed, Work Pants, Exp. Booster
 	Geno: Unarmed, Work Pants, none
@@ -362,15 +359,10 @@ SUNKEN SHIP:
 	
 	-Leave room and come back for 50 coins
 	-Follow linear path, go down whirpool, follow linear until large group of barrles in North.  Hop behind and enter door for Safety Ring.
-	
-	Party Switch: Bowser -> Peach
-	Mario swaps accessory with Peach
-	Peach equips Amulet
-	Peach swaps accessory with Geno (Safety Ring on Peach)
 
-	Party:
+	Party Looks Like:
 	Mario: Unarmed, Work Pants, Exp. Booster
-	Peach: Unarmed, Work Pants, Safety Badge
+	Peach: Unarmed, Work Pants, Safety Ring
 	Geno: Unarmed, Work Pants, Amulet
 	-----------------------------------------
 	Koopa: Unarmed, Work Pants, none
@@ -379,14 +371,20 @@ SUNKEN SHIP:
 	BEFORE JOHNNY
 	Mario and Geno switch accessories (Amulet on Mario)
 	Geno and Koopa switch accessories (XP booster on Koopa)
+
+	JOHNNY
+		-Mario: Jump
+		-Geno: Boost Mario and then Attack adds (leave one up)
+		-Bowser: Attack adds (leave one up)
 	
 	BEFORE YARID
 	Mario and Geno switch accessories 
 	Geno and Peach switch accessories (Safety ring on Geno, Amulet on Peach)
 	
-	
-	***YARIDOVICH
-	Same fight
+	YARIDOVICH
+		-Mario: Jump/Attack
+		-Mallow: Shocker
+		-Peach: Heals/Defend
 	
 	AFTER YARID
 		Sell Equips to get over 400 coins, sell Flower Box if you don't have enough for some reason. Use Flower Box otherwise.
