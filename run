@@ -7,68 +7,104 @@ Level Ups:	pick SP for Mario except 6,9,12,15 (attack)
 		pick ATK for Bowser until 14 then HP
 
 Bowser's Keep:
-	-Pick a fight with one of the initial two Terrapins and use Jump (to start stacking it's power)
-	-Jump on all (to start stacking it's power)
+	-Note that Jump increases power by 1 every two times it's used to a certain cap.  So going to start stacking it early.
+	-Pick a fight with one of the initial two Terrapins and use untimed Jump.
+	-Forced Terrapin fight, use untimed Jump
 
 	-BOWSER:
-		-Jump once on Bowser (to stack it's power)
-		-Normal Jump 2x on KinkLink
+		-Untimed Jump once on Bowser
+		-Untimed Jump 2x on KinkLink
+
+Mario's Pad:
+	-Save and talk to Toad
+	-Say you already know about timed hits
 
 Mushroom Way:
-	-Get 2 coin chests in first screen
-	-Save Toad with normal Punch
-	-Defeat Goomba on flower with normal Punch
-	-Grab normal flower on left (11 FP)
-	-Save toad on right with normal jump
-	-Use Flower Tab
-	-Heal Mushroom in chest
-	-HAMMER BROS
-		Jump
-		Jump on other bro
-		Jump
-		Jump
+	-COMBAT:
+		-Goomba: untimed attack
+		-Sky Troopa: timed (?) Jump
+		-Spikey: avoid, otherwise two timed attacks
+	-First screen:
+		-Fight everything except Spikey, grab both chests and save toad
+		-Fight respawning goombas and use Jump until you have 3 or less FP left
+	-Second screen:
+		-Kill the Goomba on the flower
+		-Jump left off the flower for Flower in chest
+		-Jump right off the flower and save toad
+		-Use Flower Tab
+		-Heal Mushroom in chest
+	-Third screen:
+		-Rush to end.  If you fight before the boss, don't use any FP.
+		-HAMMER BROS:
+			-Jump Bro 1
+			-Jump Bro 2
+			-Jump
+			-Jump
 	
 Mushroom Kingdom: 
 	-Equip hammer
-	-Use Flower Jar
-	-Go to Shop basement for 2 hidden chests (one above NPC and get Signal Ring, one in far right corner) (3/39)
-	-Buy Shirt, Pants, Jump Shoes, Antidote Pin
+	-Go to Inn and save
+	-Go to castle and immediately jump on Toad's head and then above the door he opens for Frog Coin (PERMANENTLY MISSABLE, reload if you miss it)
+	-Follow Toad for story
+	-When leaving the castle, enter the right room and then south for three chest.  Open left to right.
+	-Go to the Shop basement for 2 hidden chests (one above NPC and get Signal Ring, one in far right corner for Flower)
+	-Buy Shirt, Pants, Jump Shoes and optionally, Antidote Pin (sell some things if you have to)
 	-EQUIP
 		Mario: Shirt, Jump Shoes
 		Mallow: Pants, Antidote Pin
-	-Save at Inn
-	-Go to castle and jump on Toad's head and then above door for Frog Coin (2/39, DO NOT MISS)
-	-Follow Toad for story
 
 Bandit's Way:
-	-Take south path and save
-	-Croaka Cola on spinning flower aimed right (4/39)
-	-Head up to last intersection, take right, grab the Mushroom above K-9 enemy (is this necessary?)
-	-Star Chest coming up soon, hit level 2 here if not already.
-        -Take the platforms over to Star chest (Kill as many K-9's as possible)
-		-If you die after this, you can get the Star again (at least in the original)
-	-Rotate platforms to other chest for Flower
-	-Grab Mushroom chest if caught Croco twice but got into battles
-	-Croco 1: 
-                -Mario Jumps, Mallow defends/heals/honey syrups
+	-COMBAT:
+		-Goomba - Mario untimed Attack, Mallow untimed Attack?
+		-Sky Troopa - Avoid, otherwise Jump and Thunderbolt
+		-Spikey - Mario timed attack. Mallow Thunderbolt.
+		-Frogog - Jump and then Attack or Thunderbolt
+		-K-9 - Avoid, Jump or Thunderbolt
+	-Note: Head back to Mario's Pad to heal/restore FP if you need to
+	-First Screen:
+		-Take South path and save
+	-Second Screen:
+		-Follow platforms over to East side		
+		-Jump off spinning flower facing East for Croaka Cola
+	-Third Screen:
+		-(is xp worth grinding here?)
+		-Chest in upper-right corner is a full heal
+	-Fourth Screen:
+		-Chest is a Star chest.  Grab it and run into as many K-9s on screen as possible
+		-Afterwards, rotate platforms to the other chest for Flower
+	-Fifth Screen:
+		-Ignore chest for now
+		-Chase Croco around and get him twice
+		-If you are missing any FP/Health, grab the chest at the starting area
+		-Chase Croco and get him again
+		-CROCO 1:
+                	-Mario uses Fire Orb once, then Jumps for rest
+			-Mallow Thunderbolts (attacks in remake?), otherwise defends/heals/honey syrups
 
 Mushroom Kingdom 2:
-	-Note: Mario attacks and Mallow specials here until told otherwise
+	-COMBAT:
+		-Shyster - Can slowly farm Mario Jump power here or Thunderbolt
 	-Defeat Shyster chasing mushroom guard
-	-Defeat Shyster chasing blue hat, talk, give wallet back.
-	-Defeat Shysters in big house in upper left.
+	-Defeat Shyster chasing blue citizen, talk afterwards and give wallet back for Flower Tab.
+	-Defeat Shyster jumping against the house to West
+	-Defeat Shysters downstairs and upstairs in big house in upper left for Flower Tab.
+	-Go to Item Shop and buy Antidote Pin if you couldn't before.
+		-Equip to Mallow.
 	-Go into the Inn and save.
-	-In castle, save Toad immediately, go left and defeat all enemies and talk to Toad (choose "You Bet") and use Flower Tab.
-        -Talk to old Toad here and save.
-	-Go to right room and then up.  Talk to guard for Wake Up Pin
+	-Go to castle, save the Toad immediately, go left and defeat all enemies and talk to Toad (choose "You Bet") for Flower Tab.
+        -Talk to the older Toad by the bed here at any time to full heal and then save.
+	-Note for the rest: anytime you are out of FP, use one of your Flower Tabs/Jars to refresh it completely.
+	-Go back downstairs, enter the right room and then go up into another room.  Talk to guard for Wake Up Pin
 	-EQUIP
 		Mallow: Wake Up Pin
-	-Go into the main room and spam combat (clear out the north room first) and Mario timed jumps on enemies unti you run out of FP.  Have Mallow defend.  Use a Flower Tab to regen your FP and repeat.
-	-Once out of Flower Tabs and FP, go to South room and collect chests from left to right
-        -Save again
-	-Claymorton: (480 HP, should have 15 FP)
-		Mario/Mallow: Jump / Thunderbolt
-	-Talk to Item Shop
+	-Go to main hall and kill Shyster near doorway.
+	-Enter the door to the North and kill both Shysters.
+	-Go back into the main hall and spam combat.  Mario timed jumps on enemies unti you run out of FP.  Have Mallow defend.  Use a Flower Tab to regen your FP and repeat.
+	-Once out of Flower Tabs and FP, go to the East Room and then the South room and collect chests from left to right.
+        -Save again.
+	-CLAYMORTON: (480 HP, should have 15 FP)
+		-Jump and Thunderbolt
+	-Talk to Item Shop owner
 
 Kero Sewers:
 	-Enter pipe and Save
