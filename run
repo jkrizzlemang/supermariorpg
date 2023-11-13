@@ -171,18 +171,22 @@ Midas River:
         -At the next split, go right and run into the rock for another Flower.
 
 Tadpole Pond:
-	-Step on gray switch ahead
-	-Talk to Frogfucius to give Cricket Pie
-	-EQUIP
-                Mario: Koopa Shell, Jump Shoes
-		Mallow: Froggie Stick
-	-Path to SE
-	-Stand on gray stone to play (movements from top):
-		- 5, 4, 0, 1, 2, 1, 2, 1
-		- https://youtu.be/gO1EtQ3PV3E?t=36
-	-Leave and head all the way West
-	-Buy 2 Tadpola Cola
-	-Buy 2 Sleepy Bombs, 1 Energizer
+	-First Screen:
+		-Step on gray switch ahead
+		-Talk to Frogfucius again to give Cricket Pie
+		-EQUIP
+	                Mario: Koopa Shell, Jump Shoes
+			Mallow: Froggie Stick, Wake Up Pin
+		-Go to East
+	-Second Screen:
+		-Stand on gray stone to play (movements from top):
+			- 5, 4, 0, 1, 2, 1, 2, 1
+			- https://youtu.be/gO1EtQ3PV3E?t=36
+		-Leave screen
+	-(Back on) First Screen:
+		-Go to West
+		-Buy 2 Tadpola Cola
+		-Buy 2 Sleepy Bombs, 1 Energizer
 
 Rose Way
 	-SHYGUY BATTLES (these fights are routed into the experience)
