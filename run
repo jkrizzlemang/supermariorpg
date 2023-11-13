@@ -220,14 +220,38 @@ Rose Town:
         -Go to Inn in SW corner
 
 Forest Maze: 
-	-On the first screen, jump in SW corner for Croaka Cola (8/39)
-	-Skip everything until back outside and jump in NW corner for Frog Coin (9/39)
-	-First stump right row, jump around in bottom for hidden Flower
-        -Second stump left row, jump in North alcove hidden chest with... nothing.
-	-Enter the end stump and jump behind Wiggler for Croaka Cola (12/39)
-	-Jump on Wiggler
-	-Head NW and follow linear path until you see Geno in the maze
-	-Next go NW, SW, SW, NW.  Enter the stump and open the furthest West last.
+	-COMBAT:
+		-Wiggler - Avoid, otherwise Jump, Thunderbolt
+		-Amanita - Attack (shouldn't need to Thunderbolt)
+		-Rat Funk - Attack, Thunderbolt
+		-Buzzer - Attack, Thunderbolt
+		-Octolot - Jump, Thunderbolt
+		-Guerrilla - Jump, Thunderbolt
+	-First Screen:
+		-Grab Mushroom
+		-Jump in SW corner for Croaka Cola
+	-Second Screen:
+		-Mushroom or enemy?
+	-Third Screen:
+		-Linear
+	-Fourth Screen:
+		-Jump in NW corner for Frog Coin
+	-Fifth Screen (counting all of these as Fifth Screen):
+		-First stump right row, jump around in bottom for hidden chest with Flower
+		-Second stump left row, jump in North alcove hidden chest with... nothing.
+		-Far back stump and jump behind Wiggler for Croaka Cola
+		-Jump on Wiggler
+		-Head NW and follow linear path until you see Geno in the maze
+	-Sixth Screen:
+		-Linear
+	-Seventh Screen:
+		-Mushroom or enemy? x3
+	-Eighth Screen:
+		-Save.
+		-Jump in corner to left of exit for Red Essence
+	-Ninth Screen:
+		-Go NW, SW, SW, NW.
+		-Enter the stump and open the furthest West chest last for a Frog Coin, 3 Flowers and a full heal.
 	-Leave and exit SW to reset
         -Go SE, NE, NE, SE, NE, NW
 	-EQUIP
@@ -238,17 +262,46 @@ Forest Maze:
 	-Bowyer
                 Note: Always use Tadpola Cola after Static E
                 Note: Proper Geno Beam is 90 dmg
-		[G] Attack / Jump / Energizer on Geno
-		[G] Attack / Jump / Attack
-		Geno Beam, Mario use Pick Me Up/Tadpola Cola if needed, otherwise Jump, Mallow use Honey Syrup/Pick Me Up (if revived by Mario then defend)
-                Geno Beam, have one character use a Tadpola Cola, the other use Honey Syrup.
-		Geno Beam / Heal Geno or defend / Heal Geno or Defend
-		Geno Beam / Jump / Defend/Heal/Syrup
+		Geno Attack, Jump, Energizer on Geno
+		Geno Attack, Jump, Attack
+		Rest of fight: Geno Beam, Jump, Mallow in healer role/Attack
 
 Rose Town 2:
         -Visit Inn and talk to Gaz for Finger Shot
-        -EQUIP
-                GENO: Finger Shot, Trueform Pin
+	-Note that you can use this Inn to heal for free now in addition to Mario's Pad
+	-Go to Shop and buy Fearless Pin
+	-EQUIP
+                GENO: Finger Shot, Fearless Pin
+	-Go to NW house (jump on mans head), go upstairs and hit the green button.
+	-Admit to your thievery for a Frog Coin.
+
+Moleville:
+We have exactly one thing to do in Moleville right now. Head to the item store
+and do some shopping.
+
+Mario - Buy the Punch Glove and Work Pants. Sell most of the Mushrooms you have
+and buy Mid Mushrooms. You will want about 6 of each. Ditching some of those
+Honey Syrups for a Maple Syrup or two wouldn't be awful. I would suggest buying
+exactly one Able Juice, but you'll have to get it at Rose Town instead of here.
+Mallow - Buy the Cymbals and Work Pants. Sell all of your Mushrooms, and stock
+up on Maple Syrup. This will be a big item for you for the rest of the game.
+Geno - Buy the Work Pants. Sell most of the Mushrooms you have and buy Mid
+Mushrooms. You will want about 6 of each. You might want to pick up a Maple
+Syrup or two as well.
+Bowser/Toadstool - I'm including them just so I can get another chance to say
+this. Buy Work Pants! If you're doing the Bowser challenge, they will be your
+main armor for most of the game. Even if you're doing some other challenge,
+they will help you outspeed Shy Ranger later, and they are nice to have in
+Nimbus Land. Seriously, a pair of Work Pants needs to have a permanent spot
+in your inventory.
+
+Once you're done buying a nice pair of Work Pants (and other, less important
+items), you have a choice. You could push onward or go to the Pipe Vault. I
+would suggest going to the Pipe Vault if you are doing Mario, Mallow, or Geno's
+challenges, but wait to head there if you intend to do Bowser's or Toadstool's
+challenge so you can clear it out with them. Regardless of what you do, I'm
+putting the section for this place right now.
+
 
 Pipe Vault:
         -Linear until double pipes, enter far pipe.
