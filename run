@@ -189,8 +189,12 @@ Tadpole Pond:
 		-Buy 2 Sleepy Bombs, 1 Energizer
 
 Rose Way
-	-SHYGUY BATTLES (these fights are routed into the experience)
-	         -Jump on Shyguy / Thunderbolt
+	-COMBAT:
+		-Shy Guy - Jump, Thunderbolt
+		-Starslap - Attack, Thunderbolt
+		-Crook - Attack, Thunderbolt
+		-Arachne - Jump, Thunderbolt
+		-Snapdragon - Run if there are too many.  Otherwise, Jump, Attack
         -Ride 1st platform and switch
         -Ride 2nd platform and switch
         -Ride 3rd platform until it stops at Flower
@@ -198,7 +202,10 @@ Rose Way
         -Battle both Shy guy groups and grab chest
 	-Ride this platform to NE exit.  Travel through this area.
         -Ride platforms to West to grab coins then back and down to SE
-	-If you need to heal/FP, one of the chests has a mushroom (always Northwest?).  Open the rest of the chests and fight as much as wanted.
+	-Grab all chests except Northwest.
+	-Grind this room if lower than level 6.
+	-Grab Northwest chest for full heal.
+	-Note that these chests should respawn if you leave.
 
 Rose Town:
         -Run NW and jump on guys head and into building for two Flower chests
