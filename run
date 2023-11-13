@@ -155,28 +155,20 @@ Kero Sewers:
                 	-Mario: Jump
 			-Mallow: Thunderbolt, Honey Syrups or Picks Up Mario
 
-Midas River: 
-	-Right for Frog Coin
-	-Left for Frog Coin and pass rock
-	-Left at split but hug right wall until past another rock for another Frog Coin.
-	-Run into rock for Frog Coin
-	-Trampoline and hug right wall and take right split for Frog Coin.
-	-For River Course:
-		-If the first coin you see is overtop of the barrel you need to jump to it
-		-Otherwise you need to let the barrels hit
-	-Should get 5 Frog Coins here
-	-Save
-        -Talk to the guy here and pay to go again.
-        -At the split, go left and run into the rock for a Flower.
+Midas River:
+	-Since Frog Coins are a little more plentiful in the remake:
+        -At the first split, go left and run into the rock for a Flower.
         -At the next split, go right and run into the rock for another Flower.
+	For the barrel jumping event:
+		-up down down (x3?), up up down
 
-Tadpole Pond:
+Tadpole Pond:h
 	-First Screen:
 		-Step on gray switch ahead
 		-Talk to Frogfucius again to give Cricket Pie
 		-EQUIP
 	                Mario: Koopa Shell, Jump Shoes
-			Mallow: Froggie Stick, Wake Up Pin
+			Mallow: Froggie Stick, Trueform Pin
 		-Go to East
 	-Second Screen:
 		-Stand on gray stone to play (movements from top):
@@ -190,29 +182,38 @@ Tadpole Pond:
 
 Rose Way
 	-COMBAT:
+		-Crook - (Always attack these first for the coins) Attack, Thunderbolt
 		-Shy Guy - Jump, Thunderbolt
 		-Starslap - Attack, Thunderbolt
-		-Crook - Attack, Thunderbolt
 		-Arachne - Jump, Thunderbolt
 		-Snapdragon - Run if there are too many.  Otherwise, Jump, Attack
-        -Ride 1st platform and switch
-        -Ride 2nd platform and switch
-        -Ride 3rd platform until it stops at Flower
-        -Ride 3rd platform back one and switch
-        -Battle both Shy guy groups and grab chest
-	-Ride this platform to NE exit.  Travel through this area.
-        -Ride platforms to West to grab coins then back and down to SE
-	-Grab all chests except Northwest.
-	-Grind this room if lower than level 6.
-	-Grab Northwest chest for full heal.
-	-Note that these chests should respawn if you leave.
+        -First Screen:
+		-Ride 1st platform and switch
+	        -Ride 2nd platform and switch (don't grab full heal mushroom)
+	        -Ride 3rd platform until it stops at Flower
+	        -Ride 3rd platform back one and switch
+	-Second Screen:
+        	-Battle both Shy guy groups and grab chest
+			-If the platforms get out of sync here, leave and come back to reset them
+	-(Back to) First Screen:
+		-Ride this platform to NE exit.  Travel through this area.
+        	-Ride platforms to the West to grab coins and full heal mushroom then back and down to SE
+	-Third Screen:
+		-Note in this room if you run out of FP, grab the Northern chest for a full heal
+		-Note to fight everything in this room.
+		-Grab first chest you see
+		-Take Southern path and grab both chests
+		-Grab the chest to the North
+		-Grab the last chest to the Northwest (full heal)
+	-Fourth Screen:
+		-Linear story
+	-Note that you should be beyond level 6, but if not, head back a screen and fight the Shyguys until you are.  Can also grind 20 coins at a time here.
 
 Rose Town:
 	-Note to not talk to any of the NPCs here
         -Run NW and jump on guys head and into building for two Flower chests
-	-Note for the next step, DO NOT hit the green button
-	-Go upstairs and collect the Frog Coin on the Northern post of the bed
-	-Leave, and go through the chimney of the Item Shop and Jump in NW corner for Frog Coin
+	-Leave the house, DO NOT go upstairs
+	-Go through the chimney of the Item Shop and Jump in NW corner for Frog Coin
         -Buy a Fearless Pin, Wake Up Pin, Thick Shirt and Thick Pants (sell Mushrooms if needed or Honey Syrup down to 3)
         -EQUIP
                Mario: Thick Shirt, Trueform Pin
@@ -231,27 +232,27 @@ Forest Maze:
 		-Grab Mushroom
 		-Jump in SW corner for Croaka Cola
 	-Second Screen:
-		-Mushroom or enemy?
+		-Grab Mushroom
 	-Third Screen:
-		-Linear
+		-Grab First Mushroom
+		-Avoid all other Mushrooms
 	-Fourth Screen:
-		-Jump in NW corner for Frog Coin
+		-Jump NW of stump for Frog Coin
 	-Fifth Screen (counting all of these as Fifth Screen):
-		-First stump right row, jump around in bottom for hidden chest with Flower
+		-First stump right row, jump around in bottom alcove for hidden chest with Flower
 		-Second stump left row, jump in North alcove hidden chest with... nothing.
 		-Far back stump and jump behind Wiggler for Croaka Cola
 		-Jump on Wiggler
-		-Head NW and follow linear path until you see Geno in the maze
 	-Sixth Screen:
-		-Linear
+		-Grab first Mushroom
 	-Seventh Screen:
-		-Mushroom or enemy? x3
-	-Eighth Screen:
-		-Save.
-		-Jump in corner to left of exit for Red Essence
+		-Take North path and avoid all Mushrooms
+	-Eight Screen:
+		-Linear
 	-Ninth Screen:
 		-Go NW, SW, SW, NW.
 		-Enter the stump and open the furthest West chest last for a Frog Coin, 3 Flowers and a full heal.
+			-Note that we got these specific items because of our exact actions in Rose Town
 	-Leave and exit SW to reset
         -Go SE, NE, NE, SE, NE, NW
 	-EQUIP
@@ -260,88 +261,146 @@ Forest Maze:
 	-Use Flower Tab
 	-Save
 	-Bowyer
-                Note: Always use Tadpola Cola after Static E
-                Note: Proper Geno Beam is 90 dmg
-		Geno Attack, Jump, Energizer on Geno
-		Geno Attack, Jump, Attack
-		Rest of fight: Geno Beam, Jump, Mallow in healer role/Attack
+                Note: Always use Tadpola Cola after Static Electricity
+		While Nothing is Locked: Geno Attack, Jump, Attack
+		While A is locked: Geno Beam, Jump, Defend/Heal
+		While Y is locked: Attack
 
 Rose Town 2:
         -Visit Inn and talk to Gaz for Finger Shot
 	-Note that you can use this Inn to heal for free now in addition to Mario's Pad
+	-Go to NW house (jump on mans head), go upstairs and hit the green button and collect a hidden chest on the Northern post of the bed for Frog Coin
+	-Talk to man and tell him the treasures aren't okay and that you got carried away to get a Frog Coin
 	-Go to Shop and buy Fearless Pin
 	-EQUIP
-                GENO: Finger Shot, Fearless Pin
-	-Go to NW house (jump on mans head), go upstairs and hit the green button.
-	-Admit to your thievery for a Frog Coin.
-
-Moleville:
-We have exactly one thing to do in Moleville right now. Head to the item store
-and do some shopping.
-
-Mario - Buy the Punch Glove and Work Pants. Sell most of the Mushrooms you have
-and buy Mid Mushrooms. You will want about 6 of each. Ditching some of those
-Honey Syrups for a Maple Syrup or two wouldn't be awful. I would suggest buying
-exactly one Able Juice, but you'll have to get it at Rose Town instead of here.
-Mallow - Buy the Cymbals and Work Pants. Sell all of your Mushrooms, and stock
-up on Maple Syrup. This will be a big item for you for the rest of the game.
-Geno - Buy the Work Pants. Sell most of the Mushrooms you have and buy Mid
-Mushrooms. You will want about 6 of each. You might want to pick up a Maple
-Syrup or two as well.
-Bowser/Toadstool - I'm including them just so I can get another chance to say
-this. Buy Work Pants! If you're doing the Bowser challenge, they will be your
-main armor for most of the game. Even if you're doing some other challenge,
-they will help you outspeed Shy Ranger later, and they are nice to have in
-Nimbus Land. Seriously, a pair of Work Pants needs to have a permanent spot
-in your inventory.
-
-Once you're done buying a nice pair of Work Pants (and other, less important
-items), you have a choice. You could push onward or go to the Pipe Vault. I
-would suggest going to the Pipe Vault if you are doing Mario, Mallow, or Geno's
-challenges, but wait to head there if you intend to do Bowser's or Toadstool's
-challenge so you can clear it out with them. Regardless of what you do, I'm
-putting the section for this place right now.
-
+                Geno: Finger Shot, Fearless Pin
 
 Pipe Vault:
-        -Linear until double pipes, enter far pipe.
-	-Enter next pipe, should see a row of coins.  Jump in front of the upper walkway to reveal a platform.  Go up platform and jump at 4th block to find a Frog Coin and 8th block for another Frog Coin.  Grab Flower Chest.
-	-Run back and grab all the coins while running, then press down at the last second to grab Frog Coin.
-	-Hit the trampoline, then enter the next pipe to see a mole with four pipes.  Play the minigame and tie the score needed twice for a Flower Tab and Flower Jar (go for three times for a Frog Coin).  You can usually bounce off one goomba to another for two points each time.
-	-Linear, hit the treasure for a Flower.  Hit the other chest twice for 20 coins.
-	-Run behind the save block and jump for Frog Coin.
-	-Save.
-	-Ignore the yoshi screen and continue SW.
+	-Skip this area temporarily
 
 Moleville:
-        -Sell: Honey Syrups
-	-Buy: 2x Maple Syrup, Punch Glove, Cymbals, 4 Work Pants (yes 4)
-		Mario: Punch Glove, Work Pants, Jump Shoes
-		Mallow: Cymbals, Work Pants, Wake Up Pin
-		Geno: Finger Shot, Work Pants, Trueform Pin
-        -Run North, enter the Mine, continue forward
-        -Linear, jump on trampoline
-        -Chase Croco and fight bandits for Flower Tabs (use attacks only)
-        -Wait for Croco to enter a room and then fight
-        -CROCO 2
-		Attack/Revive with Geno
-                Attack/Heal/Revive with Mallow
-		Jump with Mario
-        -Go back to trampoline and enter NW room and follow Linear until you see traintracks
-        -Follow traintrack path, talk to mole, stay on lower path for a Frog Coin
-        -Go to the upper path, hit the chest for a star, do not go backwards or hit the next chest.
-        -Once the Star runs out, go back and hit the chest for 150 coins
-        -Skip the chest near the save block, jump onto the tall stack to get the flower chest
-        -Use the chest near the save block for a full restore mushroom and save.
-	-Punchinello
-                Note: Mallow should Able Juice Geno if Sandstormed
-		Mario: Jump
-                Mallow: Thunderbolt if bombs, else Attack
-                Geno: Attack
-        -Minecart section doesn't matter, but:
-                -Jump at first track for coins, then just stay bottom
+	-Go to Item Shop and buy Punch Glove, Cymbals, and 4 Work Pants (yes 4)
+	-EQUIP
+		-Mario: Punch Glove, Work Shirt, Jump Shoes
+		-Mallow: Cymbals, Work Pants, Fearless Pin
+		-Geno: Finger Shot, Work Pants, Fearless Pin
 
-Booster Pass:
+Pipe Vault:
+	-COMBAT:
+		-Goomba - untimed Attack
+		-Spikey - Jump/Attack
+		-Frogog - Attack/Thunderbolt
+		-Sparky - Attack
+		-Piranha Plant - Jump, Thunderbolt, Geno Beam
+		-Shy Ranger - Always runs away
+        -Note it's just best to avoid all combat here, xp-wise.
+	-First Screen:
+		-Enter pipe
+	-Second Screen:
+		-Linear
+	-Third Screen:
+		-Thwomp is on the 4th step and lands on a timer
+		-Enter the far pipe
+	-Fourth Screen:
+		-Enter the pipe directly in front of you
+	-Fifth Screen:
+		-Jump in the space before the ledge to reveal a platform
+		-Jump up to the ledge and jump above where the second coin is below for a hidden chest with Frog Coin
+		-Jump above where the fourth coin is below for a hidden chest with Frog Coin
+		-Grab last chest for Flower
+		-Go back down, run while grabbing the coins and at the end hold down on joystick to slide for Frog Coin
+	-(Back at) Fourth Screen:
+		-Enter next pipe
+	-Sixth Screen:
+		-Play the minigame and TIE the score needed twice for a Flower Tab and Flower Jar (can do more for Frog Coins, but not worth it).  Really easy if you bounce off one goomba to another for two to four points each time.
+	-(Back at) Fourth Screen:
+		-Enter next pipe
+	-Seventh Screen:
+		-Linear
+	-Eighth Screen:
+		-Linear
+	-Ninth Screen:
+		-Ride platform up to chest with Flower
+		-Jump on platform and let it reposition itself.  Once it's under Chest, jump 3 times and wait.  Repeat.
+	-Tenth Screen:
+		-Run behind Save block and jump for Frog Coin
+	-Menu button, Map, Moleville
+
+Moleville:
+	-(Optional) Menu > Map > Mario's Pad full heal if needed
+        -Run North, enter the Mine
+
+Mole Mines:
+	-COMBAT:
+		-Crook - (Kill every one of these you see) Jump, Thunderbolt, Geno Beam
+		-Magmite - Jump, Thunderbolt, Geno Beam
+		-Bob-Omb - Jump, Thunderbolt, Geno Beam (alternatively just defend)
+		-Magma Bubble - Attack
+		-Cluster - Jump, Attack, Geno Beam
+		-Enigma - Jump, Attack, Geno Beam
+	-First Screen:
+		-Jump on the moles shoulders and continue forward
+	-Second Screen:
+		-Linear
+	-Third Screen:
+		-Jump down and enter door
+	-Fourth Screen:   
+		-Jump on trampoline
+		-Enter room to right
+	-Fifth Screen:
+		-Linear
+	-Sixth Screen:
+		-Linear
+	-Seventh Screen:
+		-Note that we don't want to fight Croco until we have fought all three Crooks around this map.
+		-Leave through the Southwest exit
+	-Eight Screen:
+		-Linear
+	-Ninth Screen:
+		-Fight Crook 1 (if 3 or less, Jump and attack.  If more than 3, Jump, Thunderbolt, attack)
+	-(Back to) Fourth Screen:
+		-Fight Crook 2 (if 3 or less, Jump and attack.  If more than 3, Jump, Thunderbolt, attack)
+		-Enter room to right
+	-(Back to) Fifth Screen:
+		-Fight Crook 3 (if 3 or less, Jump and attack.  If more than 3, Jump, Thunderbolt, attack)
+		-If you aren't level 7, grind
+        	-If you are below 12 FP, use a Flower Tab
+		-Wait for Croco to enter whatever room you are in and then fight him
+        	-CROCO 2
+			Mario: Jump
+			Mallow: Attack/Heal/Revive with Mallow
+			Geno: Attack/Revive
+		-Whatever room you are in, go left until you see the traintracks with a door.  Enter it.
+	-Tenth Screen:
+		-Linear
+	-Eleventh Screen:
+		-Talk to mole
+	-12th Screen:
+		-Take the lower door
+	-13th Screen:
+		-Follow the train track for a frog coin
+	-(Back at) 12th Screen:
+        	-Take the upper door
+	-13th Screen:
+		-Jump over the enemies to get to a chest (Star)
+		-Grab the chest and hit the chest for a star.  Do not go backwards and don't stop for the chest.
+        -16th Screen:
+		-Go back a screen and grab the chest for 150 coins and then go back to this screen
+		-Ignore the first chest and save point
+		-Grab the chest before the door for a Flower
+		-Grab the chest near the save point
+		-Save.
+	-17th Screen:
+		-Dodge the Bom-Ombs and fight Punchinello
+		-Punchinello:
+                	Note: Mallow should Able Juice Geno if Sandstormed
+			Note: Ignore the Bombs
+			Mario: Jump
+                	Mallow: Attack
+                	Geno: Geno Boost self and then Attack
+        -Minecart section doesn't matter, if you took your hands off the controller for 5 minutes you'd only lose 80 coins, which is 4 resets of the Rose Way farm)
+
+Pass:
         -Interact with the second Artichoke here for a Frog Coin
         -Head all the way NW and jump on the Artichoke for a hidden Flower
         -Head all the way NE and up, before leaving jump in the NW section of the platform for a Rock Candy
