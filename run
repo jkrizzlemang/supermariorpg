@@ -568,75 +568,83 @@ Seaside Town:
 	-Once you have 1425 coins, enter the bottom door of Item Shop
         -Buy 3 Fire Bombs, 3 Ice Bombs (original is 8 Ice Bombs and 8 Fright Bombs)
 
-Sea: 
-	-Grab Star chest and kill as many as possible
-	-Enter North room and get back chests first and then last chest
-	-Enter whirlpool and go North room for chest
-	-Enter Sunken Ship
+Sea:
+	-COMBAT:
+		-Zeostar - Jump, Thunderbolt, Attack
+		-Bloober - Jump, Thunderbolt, Attack
+		-Leuko - Jump, Attack
+		-Crusty - Jump, Thunderbolt, Attack
+		-Mr. Kipper - Jump, Thunderbolt, Attack
+	-First Screen:
+		-Exit SE
+	-Second Screen:
+		-Grab Star chest and kill as many as possible
+	-Third Screen:
+		-Exit NW
+	-Fourth Screen:
+		-Ignore first Chest and open two back chests for Flower and Frog Coin
+	-(Back to) Third Screen:
+		-Exit SW
+	-Fifth Screen:
+		-Enter whirlpool and go North room for chest with Max Mushroom
+		-Drop down and exit SW
+	-Sixth Screen:
+		-Enter whirlpool and then enter Sunken Ship
 
- Buy Sailor armor if your
-character is not Bowser, and buy some Hurly Gloves if it is Bowser. Next exit
-via the eastern exit, and you'll be in a place with actual enemies to remind
-you that this is a dungeon. Also, if you're doing Mario's challenge, put on
-the Jump Shoes. If you're using Bowser, replace those Zoom Shoes with the
-Amulet.
+Sunken Ship:
+	-COMBAT:
+	-Dry Bones - Jump, Thunderbolt, Geno Beam, Terrorize, Sleepy Time
+	-Greaper - Jump, Shocker, Attack
+	-Reacher - Jump, Shocker, Geno Beam, Terrorize
+	-Alley Rat - Jump, Thunderbolt, Attack
+	-Gorgon - Jump, Thunderbolt, Attack
+	-Straw Head - Jump, Thunderbolt, Attack
 
-Enemies:
-
-Zeostar - Magic takes them out easily, especially thunder magic from Mallow.
-Bloober - They're just like the Zeostars. Magic, especially Mallow's thunder
-spells, will take them out fast.
-Leuko - Use physicals to take them out except with Mario. He uses Jump.
-Crusty - Magic is the way to go here again. Mario needs to watch out for their
-jump immunity if he's not wearing his Jump Shoes.
-Mr. Kipper - He's like most of the monsters here. Magic, especially Mallow's
-thunder spells, tears him apart.
-
-Wow, this place bucks some trends. Notably, Mallow dominates here with his
-thunder spells. You'll definitely want to be at level 10 before you leave, but
-you likely won't do much fighting due to this place being short and having a
-Star.
-
-Speaking of the Star, you'll find one in the first chest you see. Use it to
-take out every enemy in that room and the next room; it's not only possible but
-fairly simple to do so. This will almost certainly let you hit level 10, and
-for Mallow that's a glorious day. He finally has Shocker!
-
-After using the Star to destroy everything, exit via the northwest to find
-three chests. The nearest one has a healing Mushroom, and the farther two have
-a Flower and a frog coin. You can jump back down to the save point and discover
-that this area is a loop if you want. Make your way back to the previous room
-and go out the other exit to progress.
-
-Jump into the water in this room, dive down with the whirlpool, and then use
-the cave to reach the top of the cliff to find a chest with a Max Mushroom.
-That's a very nice find for Mario, Geno, or Bowser. Once you have that, exit
-the room via the land based exit to find yourself outside with a bunch of
-whirlpools. Just jump into one, go to the bottom, and enter the Sunken Ship via
-the "pipe" on the mast. That's it; this dungeon is clear.
-
-SUNKEN SHIP:
-	Party Looks Like:
-	Mario: Work Pants
-	Mallow: Work Pants, Amulet
-	Geno: Work Pants
-	-----------------------------------------
-	Peach: no equips
-	Koopa: Work Pants, Exp. Booster
-
-	-Linear, when going through door where there are J boxes, jump into the gap for Flower
-	-In room with many doors, enter second one and stop trampolines close to boxes for Flower
-	-Go to next room, kill Drybones (have to use Special move) and get coins from chest
-	-Enter first door here and slowly collect coins
-	-Dodge around enemy at door 6
-	-Save
+	-First Screen:
+		-Go NW
+	-Second Screen:
+		-Linear
+	-Third Screen:
+		-Linear
+	-Fourth Screen:
+		-Jump behind the J boxes for a Flower
+		-Grab the chest near the end for coins
+	-Fifth Screen:
+		-Sneak behind the second Greaper here
+	-Sixth Screen:
+		-Have to hit each block as the trampoline is starting to come back from the right.  Rewards a Flower
+	-(Back to) Fifth Screen:
+		-Exit SW
+	-Seventh Screen:
+		-Jump down, kill Dry Bones (Thunderbolt) and grab chest for coins
+	-Eighth Screen:
+		-Sneak behind the first Greaper here
+	-Ninth Screen:
+		-Slowly collect the coins as they spawn
+	-(Back to) Eighth Screen
+		-Sneak behind Greaper at end of hallway
+	-Ninth Screen:
+		-Save
+	-Tenth Screen:
+		-Hit the boxes so the selected letters spell "PEARLS"
 	-KING CALAMARI
-		-Fire Bombs on Tentacles
-		-Mario: Super Flame
-		-Bowser: Attack
-		-Geno: Attack
+		-If you took the time to farm those coins earlier and bought Fire Bombs:
+			-Use Fire Bomb (finish off with Attack)
+			-Use Fire Bomb (finish off with Attack)
+			-Use Fire Bomb (finish off with Jump, Shocker, and Geno Beam)
+		-Otherwise:
+			-Mario: Fireball/Super Fireball (left to right)
+			-Mallow: Shocker (left to right)
+			-Geno: Geno Boost and then Attack (left to right)
+			-Bowser: Keep Terrorize up then Attack (left to right)
+			-Peach: Attack (right to left)
+	-11th Screen:
+		-Linear
+	-12th Screen:
+		-Jump up and through top door
+	-13th Screen:
+		-
 
-	-Upper ledge door
 	-Continue to room with two chests, jump on barrels near door and then to ledge with chests for 200 coins
 	-In the next room, go one square up from the bottom edge and jump in the middle for a box switch.
 	-Jump onto other mario's head to meet at the middle and jump to chest
@@ -681,6 +689,297 @@ SUNKEN SHIP:
 	BEFORE YARID
 	Mario and Geno switch accessories 
 	Geno and Peach switch accessories (Safety ring on Geno, Amulet on Peach)
+
+
+
+The next room involves you and a doppelganger who do a fine job of cutting each 
+other off. Jump in the bottom center of the room to hit a switch, and then leap
+from the head of the doppelganger to reach a hidden chest with a Kerokerocola.
+
+Proceed onward. The two elevated chests you passed by contain 100 coins a
+piece. You likely have maxed out money or very nearly maxed out money by now so
+you don't have to bother with them, but jumping from any of the elevated points
+in that room will let you get up there. Anyway, proceed until you see a Dry
+Bones standing in a gap in some crates. Jump over him and loot the hidden room
+behind the crates to get a Frog Coin. Then retreat a room and go down the
+stairs to a room with two chests and a save point. Save first, and then get the
+near chest to find a healing Mushroom. The farther chest contains Hidon, a fake
+treasure chest enemy. Be sure you have the Amulet equipped.
+
+Optional Boss 3 - Hidon
+
+Mario strategy - Jump tears Hidon to shreds. Super Jump can work too if you are
+in that sort of a mood. Use Jump to take out all the Goombettes once Hidon is
+gone. This is the sort of easy fight that everybody loves.
+
+Mallow strategy - Okay, for this fight to be possible, you're going to need an
+Energizer and the Rock Candy from Booster Pass. It's a really good thing that
+the save point is so close too since this also will take a good amount of luck.
+Start the fight with the Energizer, and then use the Rock Candy twice. Yes, you
+absolutely have to get a freebie on the Rock Candy, or you can forget about
+winning this fight. Actually, a Rock Candy is worth more than the 17 EXP, 100
+coins, and Safety Badge that you get for winning this fight. Unless you are
+dedicated to trying over and over again until you get the freebie twice, you
+can forget this fight. Of course, if you do get the freebie twice, that's
+always cool. You are right next to the save point, and the battle is only three
+turns long. It's not too bad to just try over and over again until luck is on
+your side.
+
+Geno strategy - Start the battle with Geno Boost, and then lay into Hidon with
+Geno Beam. Ignore his minions and just hammer away at him. He only has 600 HP
+so it should not take too long. Geno Beam will also be the method of choice to
+wipe out the Goomettes once he is gone.
+
+Bowser strategy - You are going to think I'm joking, but I'm not. Hidon
+counters physicals with either his physical attack or the very dangerous Carni
+Kiss. Physical attacks are out of the question. However, you do have one way to
+cause magic damage to him. Yes, that's right. You are going to use Terrorize
+over and over again until Hidon falls. It seems fantastically stupid, but it
+works. If any Goombettes remain after Hidon falls, some good old fashioned
+Bowser physicals will make quick work of them. You'll likely use quite a few
+Mid Mushrooms during this fight, and you will probably need a Maple Syrup as
+well.
+
+Toadstool strategy - Follow Mallow's strategy to the letter, but I'm really
+going to stress this with Toadstool. The Rock Candy is worth more than winning
+this fight. Do not lose the Rock Candy; only accept a fight in which you get
+two freebies. Toadstool needs item attacks more than the other characters; you
+don't want to lose the best item attack that easily.
+
+If you have to restock on some items, now would be a good time to head back to
+the merchant and buy up. The chest which used to contain Hidon will have 100
+coins when you return so you can make back all your shopping money really
+easily. Once you're finished with this whole ordeal, proceed through the door
+past Hidon, and then immediately run through the next door. This dungeon's end
+is in sight!
+
+In this room, jump into the whirlpool to head underwater, and then go back to
+the previous room via the underwater door to get quite a few frog coins. Then
+proceed onward to a submerged staircase teeming with enemies. Fight your way
+through if you wish, and then you'll be in a very large, water filled room.
+Behind the barrels in the northwestern corner is a secret room containing the
+Safety Ring. The Safety Ring is the single most important accessory in this
+challenge. I can't stress it enough. GET THE SAFETY RING. You will probably not
+be finishing the game if you don't get it, and it's a long trip back here if
+you forget it. The Safety Ring gives the same stat bonuses as the Fearless Pin
+except it also gives +5 to speed. It nullifies all status ailments. Yes, it
+just rendered all other status protection items obsolete, including that Safety
+Badge that you just got. It also makes you immune to instant death, and it
+grants immunity to a wide variety of enemy specials as well. It certainly does
+not protect you from all enemy specials or even most of them, but it does
+protect you from quite a few of them. Really, this item is completely awesome.
+
+After you're finished getting the Safety Ring, proceed up the barrels to the
+surface of the water. Cross the water to the southwest corner of the room to
+find a frog coin, and then exit the room via the door near where you surfaced.
+You'll be confronted by a group of four Bandana Reds. These are not very strong
+enemies. Magic tears them apart, especially Mallow's Thunderbolt. All status
+effects work on them as well so Toadstool can use Sleepy Time to help herself
+out a bit, and Bowser gets to play with Terrorize. Once they are fallen, you
+will see a chest you could grab. Do not grab it. Make sure you are at full
+health and run up the stairs to see the single best line in the game:
+
+WHAT THE? How dare you dodge the barrel!
+
+Seriously, that's brilliant. I hope whoever wrote that line got a promotion for
+it. Anyway, continuing up the staircase will end with you engaged in fisticuffs
+with five Bandana Reds. Fighting five of them is not much different from
+fighting four of them so just flatten them. Afterward, they will open the door
+behind them to Johnny's room. Johnny is the boss; don't rush in.
+
+If you are going to run back to the save point near Hidon, do so before
+grabbing that chest. Either way, before you go into Johnny's room, open the
+chest to get a healing Mushroom. Full HP and FP is helpful in a boss fight. You
+will want to concern yourself with your level and equipment. I was at level 12
+for the Johnny fight, but level 11 works for the most part. If you are doing
+Toadstool's challenge, you will really want to be at level 12. The fight is a
+whole lot longer at level 11 since you have 7 less attack, and you are doing
+very little damage to Johnny anyway. As per equipment, everyone should equip
+the Amulet. In order to speed up the fight, Toadstool should also equip the
+Work Pants. If you were a FOOL and sold the Work Pants, the fight is just going
+to be that much longer.
+
+Boss 12- Jonathan "Johnny" Jones
+
+Note: Clever people will try to kill all of the Bandana Blues after Mario dies
+to prevent the 1v1 fight. They'll be punished by Johnny using more powerful
+attacks. It doesn't matter if Mario is alive or not; do not, under any
+circumstances, kill all four Bandana Blues.
+
+Mario strategy - Use Jump to take out three of the Bandana Blues and then focus
+on Johnny. You can use Super Jump over Jump against Johnny if you want; it
+really does not matter. Just be sure to leave the last Bandana Blue standing.
+This will prevent Johnny from using any attack other than his physical, and it
+will prevent the 1v1 fight. You might be wondering why the 1v1 fight is so bad,
+but I have to inform you that Johnny becomes an entirely different monster.
+Notably, he gains elemental immunities to jump and fire. Of course, he also
+uses many of the more powerful techniques that Johnny ordinarily uses if you
+kill all of his minions. Really, the whole ordeal is just that much easier if
+you leave a Bandana Blue alive. Actually, it's really easy. I doubt you'll need
+more than one Mid Mushroom.
+
+Mallow strategy - This fight is all about Shocker. Start by roasting three of
+the Bandana Blues with Shocker, and then set into Johnny with Shocker. You will
+definitely want to spare one of the Bandana Blues; this keeps Johnny stuck
+using just his physical attack, and it prevents the 1v1 fight with Mario. You
+will probably have to heal a few times with HP Rain and use a few Maple Syrups,
+but Johnny should go down pretty easily.
+
+Geno strategy - As always, open the fight with Geno Boost. The Bandana Blues
+are just stronger versions of the Bandana Reds; Geno Beam will easily take them
+out. Be absolutely sure to leave one of them alive; this prevents the 1v1 fight
+with Mario from triggering and also limits what moves Johnny will use. After
+he's down to one ally, just hammer Johnny with Geno Beam. Be sure to use Mid
+Mushrooms to heal if you need them, and use Max Mushrooms if you have to (try
+to avoid it). This should not be very hard.
+
+Bowser strategy - Open up with Terrorize to inflict fear upon the Bandana Blues
+and then take out three of them with your physical attacks. Don't kill the last
+one as this keeps Johnny just using his physical attack, and it absolutely
+prevents the 1v1 fight with Mario from triggering. Once three of the Bandana
+Blues are dead, just lay into Johnny with physicals. He has good physical
+defense, but you have Bowser level attacks. Since the only attacks you will see
+in this fight are physicals, Bowser should do quite well. Heal with a Mid
+Mushroom if you have a problem. Note that Johnny himself can be inflicted with
+fear so feel free to use Terrorize a second time to speed up the fight.
+However, do not use it a third time as this carries a high risk of killing the
+last Bandana Blue. This should not be very difficult at all; just follow this
+strategy, and it should be easy.
+
+Toadstool strategy - If you have a Bad Mushroom, start the fight by using it on 
+Johnny. Otherwise or afterward, open with an Energizer, and then take out three
+of the Bandana Blues with your physical attack. Then start on Johnny with the
+same plan. This will take a very long time, and you will have to heal with
+Therapy quite a few times. Still, Johnny has no real ability to threaten you,
+and if you equipped yourself exactly as I told you to and further are at level
+12 (or higher, of course), this should not take an unbearably long time. Also,
+the Bandana Blues can be put to sleep with Sleepy Time. You certainly don't
+have to do it, but you can open the fight with Sleepy Time if you want. It
+might make the start a bit easier. The Work Pants hurt your defense a lot, and
+the Bandana Blues ganging up on you can make life hard. Using a Bracer or a
+Yoshi-Ade can also help if the start of the fight is too rough.
+
+You get a boatload of experience points for defeating Johnny, and then you get
+the precious Star Piece. That was very much so hard earned, but you're not
+finished earning it yet. Use the trampoline in the next room and return to
+Seaside Town.
+
+Now here our good friend the elder reveals himself to be Yaridovich, a member
+of the Smithy gang. Gee, I never would have guessed. As strange as it is, you
+should agree to hand over the Star Piece the first time he asks. This gets you
+a Flower Box later. He'll take off, and you should make tracks for the inn and
+save. You'll want to equip the Safety Ring with most characters, but Toadstool
+really needs the +7 attack from the Amulet. Toadstool would really like the +10
+attack from the Work Pants as well, but you won't survive this fight unless you
+equip the Nautica Dress. Yeah, this is going to be long. Yes, this is the real
+boss you have to defeat to earn this Star Piece; he's easily the hardest boss
+you'll have fought so far. Be sure you are well stocked on items; you will have
+to use more Mushrooms with the non-healers than you have had to use in the
+past. Also, everyone except Geno will want either a Bracer or a Yoshi-Ade.
+Toadstool will need an Energizer as well if she does not have the Yoshi-Ade.
+
+Boss 13 - Yaridovich
+
+Mario strategy - Open up with a Bracer, and then get to giving Yaridovich a
+healthy beating via Jump or Super Jump. Yaridovich has the potential to do some
+serious damage to Mario, but Mario's offensive insanity should manage to beat
+Yaridovich down fairly effectively. Don't switch targets after the mirage; that
+ensures that you always target the real thing. Just be sure to not take any
+stupid chances when it comes to healing; this should end well.
+
+Mallow strategy - Start things off with a Bracer, and then start hammering
+Yaridovich with Shocker. Yaridovich is weak to thunder, and Mallow is the
+perfect character to exploit that. Yaridovich still has decent magic defense so
+it will take a while, but that thunder weakness really does help Mallow out a
+lot. You'll also need to heal a good amount with HP Rain, and you'll probably
+have to use some Maple Syrup to keep up your spell spamming during this fight.
+Just keep at it and keep healed, and Yaridovich should fall easily enough.
+Do remember to not switch targets after he summons the mirage; it would be a
+terrible waste to use Shocker on the false Yaridovich.
+
+Geno strategy - Open with Geno Boost, and then begin to lay into Yaridovich
+with physicals. Heal with Mid Mushrooms or Max Mushrooms when your health gets
+low; this will likely happen quite a few times. Yaridovich has 1500 HP, and he
+can summon a mirage. Your cursor automatically targets the real Yaridovich so
+you can just focus on him the whole time without confusion. The Safety Ring
+will protect you from Flame Stone and some of the spells the mirage uses, but
+it won't protect you from his signature move, Water Blast. The fight will be
+long and arduous (compared to everything else so far), but you should be able
+to win.
+
+Bowser strategy - Start the fight with a Bracer, and then simply use physical
+attacks. Yaridovich is immune to fear so Terrorize is not any help at all in
+this fight. You'll likely need to heal quite a bit with Mid and Max Mushrooms;
+Bowser's poor magic defense is really highlighted during this fight.
+Yaridovich's 85 defense and 1500 HP will make this quite long. You
+automatically target the real Yaridovich after he summons his mirage; don't
+foolishly switch targets. The good news is that Yaridovich does not have a
+whole lot of FP; your ability to repeatedly attack rises greatly once he runs
+out. Just keep at it, and this fight shouldn't be too bad. It's the hardest so
+far, but it's quite manageable.
+
+Toadstool strategy - Okay, everyone else has a very short fight in comparison
+with what Toadstool has to endure. Start the fight with either a Yoshi-Ade or
+a Bracer -> Energizer combo. Then use your physical until Yaridovich falls.
+That sounds nice and simple, but the damage you do will be very sad. Therapy
+again ensures that you are not likely to die; it's just a war of attrition.
+Luckily, Yaridovich's poor FP will kick in, and his ability to damage you will
+decline greatly one he runs out. You can use attacking items to speed this up
+if you have them to spare, but Yaridovich's 1500 HP means that it will largely
+come down to a very slow physical attack spam fest. Have fun, and remember not
+to switch targets when the mirage appears. You automatically target the real
+one.
+
+Now you have the fifth Star Piece for real. Yes, you certainly did earn it, and
+you also have earned the right to explore the real town. Take the key and
+unlock the previously guarded door to free the townspeople. The elder will be
+so kind as to give you a Flower Box since you didn't let him get tortured. Of
+course, if you refused to give up the Star Piece, you will have a lesser
+reward. Now let's explore the various shops.
+
+The first shop on the left is Beetles R Us. Here you can invest 150 coins for
+access to the beetle races. The beetle races are a great way to harvest
+ordinary coins; in my opinion, it's the best way. You likely have 999 coins
+right now so you should make the investment now. Later on, if you need some
+cash, this will pay off.
+
+The second and third doors lead to the weapon and armor shops. The armor shop
+just sells old stuff, but you can get some new weapons at the weapon shop. Buy
+the new weapons for everyone who has something except Mario. Mario's weapon
+here isn't any stronger than the Masher. However, it is less random. I prefer
+the Masher so I wouldn't waste the coins, but if you really dislike how random
+the Masher is, it's fine to get this otherwise forgettable shell.
+
+The fourth door is a "health food store" that just sells some basic healing
+items. It's a good place to restock if Yaridovich drained you, but otherwise
+it's nothing special.
+
+The fifth door leads you to Mushroom Boy. You can give him regular Mushrooms,
+and he'll randomly give you nothing, a Maple Syrup, a Rock Candy, or a Flower
+Tab. I tend to find him way too annoying and random to deal with, but you
+could, in theory, get 99 FP right now or stock up on Rock Candies. It's up to
+you whether to mess with him or not.
+
+The sixth door leads to an accessory shop. They sell the various status
+protection pins that are outdated by the Safety Ring as well as Zoom Shoes
+which you already have. You can forget this place for the most part.
+
+Once you're finished with your shopping, you need to talk to the elder. He'll
+direct you toward Land's End which is going to be your next dungeon.
+
+Also, if you are doing Mario, Geno, or Bowser's challenges, you very likely are
+going to be looking to replace some Mushrooms. Your HP is starting to get too
+high to really rely on Mid Mushrooms; go the extra mile and harvest Max
+Mushrooms from Star Hill. Mid Mushrooms are still useful, and you should still
+carry a few, but begin the transition toward using mostly Max Mushrooms. It
+will make things easier for you in the long run. Also, on that note, you would
+be well advised to make sure you have a few Bracers or Yoshi-Ades. They will
+be useful in the future, and there's no time to collect them like the present!
+
+Well, with all that business taken care of, let's head over to our next
+dungeon, Land's End.
+
+
 
 SEASIDE TOWN:
 -Give up star immediately to fake Elder
