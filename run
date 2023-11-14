@@ -739,6 +739,13 @@ Land's End:
 		-Kriffid - Jump, Thunderbolt, Attack
 		-Shy Away - Jump, Attack
 
+	-Note that there is a random spawn in this whole map that looks like a green cloud and makes a noise.  If you wish to fight it:
+		-EQUIP:
+			-Mario: Safety Ring
+		-Jump into the green floating cloud to fight the miniboss Mokura.  Hit it with Jump and then Jump/Attack
+			-This might be a random spawn, reload area until you get it if you want.
+		-EQUIP:
+			-Mario: Jump Shoes
 	-First Screen:
 		-Swap Peach out for Mallow
 		-EQUIP
@@ -750,7 +757,7 @@ Land's End:
 		-Take cannon again to land on the second hidden platform.  Ride it to jump and grab a chest for Frog Coin
 		-Take cannon again and jump to platform.  Jump in the Western corner for Croaka Cola
 	-Third Screen:
-		-Linear.  This room is a good farm, come back here if you aren't level 14 by the end of this map.
+		-Linear.
 	-Fourth Screen:
 		-Save
 		-Follow the bottom edge until you find a row of three flowers.  Jump from the far flower to the second flower for a hidden chest with Frog Coin
@@ -782,6 +789,7 @@ Land's End:
 	-12th Screen:
 		-Jump over the boxes to the West and talk to the NPC.  Buy the Star chest for 400 coins.
 		-Use the star and kill all the Geckit's here.
+		-Note this is a fantastic room to farm for xp.
 	-13th Screen:
 		-Dont bother purchasing trampoline
 	-14th Screen:
@@ -793,10 +801,6 @@ Land's End:
 	-16th Screen:
 		-Grab chest for Frog Coin/Coins
 	-17th Screen:
-		-EQUIP:
-			-Mario: Safety Ring
-		-Jump into the green floating cloud to fight the miniboss Mokura.  Hit it with Jump and then Jump/Attack
-			-This might be a random spawn, reload area until you get it if you want.
 		-EQUIP:
 			-Mario: Jump Shoes
 			-Mallow: Safety Ring
@@ -829,8 +833,7 @@ Monstro Town:
 			-Bowser: Spiked Chomp
 	-Enter the fifth door and rest
 	-Drop into the hole to the SE to save
-	-Enter the sixth door and jump in the SW corner for a Frog Coin
-	-Go back and up the stairs and into the J door
+	-Go up the stairs and into the J door
 	-Talk with Jagger
 		-Mario: Jump
 		-Mallow: Shocker
@@ -841,130 +844,61 @@ Monstro Town:
 		-Mario: Attack Scarf
 		-Mallow: Super Suit
 	-Talk with Jinx
+		-Mario: Jump
+		-Mallow: Attack
+		-Geno: Geno Boost, then Attack
+		-Bowser: Attack
+		-Peach: Attack
+	-Note the following two battles might not be possible yet without Super Suit and Attack Scarf
+	-Talk with Jinx
+		-Mario: Jump
+		-Mallow: Attack
+		-Geno: Geno Boost, then Attack
+		-Bowser: Attack
+		-Peach: Attack
+	-Swap Bowser 
+	-Talk with Jinx
+		-Note to switch to Peach and Ult if you need to revive Mario
+		-Mario: Jump
+		-Mallow: Attack
+		-Geno: Geno Boost, then Attack
+		-Bowser: Attack
+		-Peach: Attack
+	-This final fight earns you the Jinx Belt
+	-Enter the door near the save and jump in the SW corner for a Frog Coin
+	-Menu > Map > Yo'ster Isle
 
-Mario strategy - Be sure you have the Amulet equipped, and then just hammer
-away with Jump. Jinx in this fight is basically just Jagger except superior in
-every way. He uses Jinxed 2/3 of the time ordinarily and 1/3 of the time as a
-counter, and that's pretty much the same thing as Terrapunch except running off
-a higher stat. He also uses Triple Kick 1/3 of the time as an ordinary attack,
-and that's twice as powerful as Jinxed. It's possible to win with just Jump and
-some Max Mushroom use, but using a Bracer or a Yoshi-Ade before you begin
-attacking really simplifies the fight.
+Yo'ster Isle:
+	-Run to the "GOAL" and inteact between the "O" and "A" for the Boo Flag
+	-Menu > Map > Rose Town
 
-Mallow strategy - Open the fight with either a Yoshi-Ade or a Bracer ->
-Energizer combo. Afterwards, just go all out with that Ribbit Stick (or better
-weapon if you fight him later). Heal with HP Rain if your health ever gets even
-remotely low, and focus on getting those crucial timed defense commands. You
-should be able to take him down if you just continue with this plan; just don't
-take any chances when it comes to using HP Rain.
+Rose Town:
+	-Interact behind the wooden flower here for the Greaper Flag
+	-Menu > Map > Tadpole Pond
 
-Geno strategy - Open the fight with Geno Boost and then go all out on Jinx with
-physical attacks. You will probably have to heal once or twice depending on how
-well you time your defense and how often Jinx counters your attack. If you are
-having problems with your physical attack missing, feel free to use Geno Beam
-instead. The damage output is slightly lower, but it never misses. Either way,
-keep at it, and Jinx will go down quickly and easily!
+Tadpole Pond 4:
+	-Talk to Frogfucious and give him the Cricket Jam
+	-Go East and stand on grey stone to play (movements from top):
+		-4-3-2-1-5-2-1-0
+		-The second set you do doesn't matter
+	-Menu > Map > Mario's Pad
 
-Bowser strategy - Alas, Jinx is immune to fear. Well, the bright side is that
-the plan becomes really simple. The use of Energizers, Bracers, and Yoshi-Ade
-is really up to you, but the more of those you conserve, the more Max Mushrooms
-you will consume. If you open the fight with a Yoshi-Ade, it's very simple to
-take down Jinx before needing to heal even once so if you wanted to get through
-this fight without using anything, you'd just need that one freebie. The Bracer
-and Energizer are lesser forms of that with both serving the purpose of
-improving the ratio of your damage to Jinx's damage. If you're only going to
-use one of them, stick with the Bracer. Well, regardless of what you choose to
-do with items, Jinx falls to a good beating with that trusty Spiked Link.
+Mario's Pad 2:
+	-Go into the house and interact with the bed for Dry Bones Flag
+	-Menu > Map > Monstro Town
 
-Toadstool strategy - Her fight goes exactly like Mallow's does. You have to use
-the Yoshi-Ade (or Bracer and Energizer), and then you just go nuts with her
-physical. It takes a pretty long time, but you are very safe if you play
-conservatively via liberal use of Therapy.
+Monstro Town 2:
+	-Enter the door to the right of the Item Shop and go to bed for Ghost Medal
+	-EQUIP
+		-Mario: Attack Scarf (it got replaced by Ghost Medal)
+	-Take the trampoline to the West
 
-
-
-
-
-The last door leads to Jinx's dojo. Here, you can fight a series of four
-progressively difficult optional bosses, and if you beat them all, you win the
-Jinx Belt, a very good accessory. This will be very useful for some characters,
-but other characters have a very hard time with this series of bosses. Jinx has
-his own section in the FAQ. I would advise that everyone defeat Jagger and the
-first Jinx fight now. Mario should fight the second Jinx fight as well. If you
-are determined about it, Mario can win the final Jinx fight, and Geno and
-Bowser can win the second Jinx fight. Those will all be fairly resource
-draining if you do them now, but they'll be really simple if you wait until
-after Nimbus Land. If you're really up for a challenge, do them now, but I
-would wait. Well, to be fair, "very lucky" could win you the Mario fight fairly
-easily, and Bowser's fight isn't too bad. I'd really recommend against messing
-with Geno's fight at all, but it is indeed winnable. Don't even begin to think
-about pressing onward at all with Mallow or Toadstool right now; they don't
-stand a chance.
-
-Either way, before we head to Bean Valley, we have some side questing to do.
-Go through the only remaining door in Monstro Town to approach the exit. Before
-you leave, jump around in the western corner of the exit area to find a hidden
-chest with a frog coin. Now make your way to Yo'ster Isle.
-
-First of all, press "A" while standing between the letters O and A in the word
-GOAL to find The Big Boo Flag. Wow, that has to be the most awkward sentence in
-the FAQ grammatically, and there's no way around it. Anyway, while you're here,
-you might want to do some item restocking. Get some Yoshi-Ade if you don't have
-any, and if you need more Max Mushrooms, get the Yoshi Cookies you'll need to
-do the harvesting. Of course, Geno can ignore the Yoshi-Ade, and Mallow/
-Toadstool can ignore the Max Mushrooms.
-
-Next head on over to Rose Town. Business here is short and sweet. Check behind
-the large wooden flower that is the entrance sign to find the Greaper Flag.
-Exit Rose Town and head on over to Tadpole Pond.
-
-First of all, speak with Frogfucius to trade in your Cricket Jam for 10 frog
-coins. Hey, that's a great trade! Also, you can now play the final song for
-Toadofsky. If you are interested in finishing this side quest, the melody is:
-
--4-3-2-1-5-2-1-0
-
-This will let you buy Kerokerocola for the low price of 200 coins a piece.
-Ouch! Well, strictly speaking, they do render all standard HP and FP healing
-items obsolete so it only makes sense that they would cost this much. If you
-want to buy them, feel free, but note that this will quickly force you to
-harvest coins at Booster Hill. Also, as you move later in the game, the use
-of a Bracer becomes vital in nearly every boss fight. Yoshi-Ade work as a
-superior alternative to Bracers, but you really don't need Yoshi-Ade very often
-at all. Bracers are easier to get since 2 frog coins is a cheaper price than
-10 Yoshi Cookies, and you have to reset the game several times to get Yoshi-Ade
-most of the time anyway. For my strategies, I will use Bracer over Yoshi-Ade
-whenever possible. If you use Yoshi-Ade, you'll just win faster. Obviously,
-Geno does not need to worry about any of this, and Toadstool should make sure
-that she has her typical bounty of Energizers. On that note, Mallow and Bowser 
-will need an Energizer if they don't have any Yoshi-Ade as well. I know that
-they are not used to carrying them, but there's a boss fight in Nimbus Land
-which is much less difficult for them if they have an Energizer.
-
-The next stop is Mario's Pad. Examine your bed to find the Dry Bones Flag. Hey,
-that's all of them! Now would be the time to head on your way back to Monstro
-Town to collect your reward. If you have 50 frog coins, now would be a good
-time to stop by Seaside Town to buy a Scrooge Ring. Of course, that does
-depend on your character. Obviously it's a fairly useless item for Bowser.
-Mallow and Geno will really want to get it fairly soon. Mario doesn't have much
-need of it unless you are a massive fan of doing insane numbers of Ultra Jumps
-to quickly finish generic encounters. Toadstool doesn't need it for quite a
-while, but she'll find it handy to have at the end of the game. If you don't
-quite have 50 frog coins because you decided to wait on frog coin harvesting,
-don't worry about it at all. Before you have to do even a small amount of extra
-fighting, you'll have another good shot at getting this.
-
-Once back in Monstro Town, sleep in the bed to get the Ghost Medal. Watch out
-as it's automatically equipped on Mario. Save and then head back into Belome
-Temple, and then work backward toward the surface. Once you reach the elevator
-that led you down to Belome, stop and try doing the fortune thing until you are
-told that Belome is not accepting visitors past his bedtime. Take the elevator
-back down and speak with Belome. He'll eat the Temple Key, and you'll get the
-items behind him. You will acquire 8 frog coins, 4 Flowers, a Fire Bomb, a
-Max Mushroom, and a Royal Syrup. That's not bad at all. By the way, at this
-point I had 86 FP. Your FP count should be pretty similar to that if you want
-to hit 99 FP by the end of the game without abusing Mushroom Boy. Regardless
-of how you stand, continue your trip back toward the surface.
+Belome's Temple 2:
+	-Follow the linear path back up the platform elevator, exit to the SW and then come back to the elevator screen
+	-Keep hitting the tongue for a new fortune until you get one about not accepting visitors past his bedtime
+	-Take the platform elevator
+	-Give golden Belome the key
+	-Collect 8 Frog Coins, 4 Flowers, a Fire Bomb, a Max Mushroom, and a Royal Syrup
 
 The 100 coin shortcut really pays off as an investment right now, but if you
 are cheap, there's nothing really wrong with going the long way. Once you're
@@ -996,9 +930,6 @@ new area to begin the next dungeon.
 
 
 	Monstro Town
-		Talk to 3 musty fears
-		Super Suit / Attack Scarf
-		Get Temple Key
 		Ride platform back up and down to get the Fire Bomb/Rock Candy/Frog Coins/Flowers/other items
 	
 	AFTER TROOPA PIN
