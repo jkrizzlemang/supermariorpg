@@ -202,14 +202,13 @@ Tadpole Pond:
 	-(Back on) 1st Screen:
 		-Go to West
 		-Buy 2 Tadpola Cola
-		-Buy 2 Sleepy Bombs, 1 Energizer
 
 Rose Way
 	-COMBAT:
 		-Crook - (Always attack these first for the coins) Attack, Thunderbolt
-		-Shy Guy - Jump, Thunderbolt
-		-Starslap - Attack, Thunderbolt
-		-Arachne - Jump, Thunderbolt
+		-Shy Guy - Jump, Attack
+		-Starslap - (2 or more) Thunderbolt (less than 2) Attack, 
+		-Arachne - Jump, Attack
 		-Snapdragon - Run if there are too many.  Otherwise, Jump, Attack
         -First Screen:
 		-Ride 1st platform and switch
