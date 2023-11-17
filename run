@@ -35,9 +35,9 @@ Mario's Pad 2:
 
 Mushroom Way:
 	-COMBAT:
-		-Goomba: untimed attack
-		-Sky Troopa: untimed Jump/timed Attack at level 2
-		-Spikey: avoid, otherwise two timed attacks
+		-Goomba (1XP) - untimed attack
+		-Sky Troopa - untimed Jump/timed Attack at level 2
+		-Spikey (1XP) - avoid, otherwise two timed attacks
 	-First screen:
 		-Fight everything, only using Jump on the Sky Troopas, grab both chests and save toad
 	-Second screen:
@@ -69,9 +69,9 @@ Mushroom Kingdom:
 
 Bandit's Way:
 	-COMBAT:
-		-Goomba - untimed Attack
+		-Goomba (1XP) - untimed Attack
 		-Sky Troopa - Avoid, otherwise Jump and Thunderbolt
-		-Spikey - Mario timed attack. Mallow Thunderbolt.
+		-Spikey (1XP) - Avoid, otherwise Mario Jump. Mallow Thunderbolt.
 		-Frogog - Jump and then Attack or Thunderbolt
 		-K-9 - Avoid, Jump or Thunderbolt
 	-Note: Head back to Mario's Pad to heal/restore FP if you need to
