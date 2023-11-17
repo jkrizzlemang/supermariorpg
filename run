@@ -35,9 +35,9 @@ Mario's Pad 2:
 
 Mushroom Way:
 	-COMBAT:
-		-Goomba (1XP) - untimed attack
-		-Sky Troopa (1XP) - untimed Jump/timed Attack at level 2
-		-Spikey (1XP) - avoid, otherwise two timed attacks
+		-Goomba - untimed attack
+		-Sky Troopa - untimed Jump/timed Attack at level 2
+		-Spikey - avoid, otherwise two timed attacks
 	-First screen:
 		-Fight everything, only using Jump on the Sky Troopas, grab both chests and save toad
 	-Second screen:
@@ -69,28 +69,30 @@ Mushroom Kingdom:
 
 Bandit's Way:
 	-COMBAT:
-		-Goomba (1XP) - untimed Attack
-		-Sky Troopa (1XP) - Avoid, otherwise Jump and Thunderbolt
-		-Spikey (1XP) - Avoid, otherwise Mario Jump. Mallow Thunderbolt.
-		-Frogog (3XP) - Jump and then Attack or Thunderbolt
-		-K-9 (2XP) - Avoid, Jump or Thunderbolt
+		-K-9 - Avoid, otherwise Jump/Attack
+		-Spikey - Jump/Attack
+		-Goomba - untimed Attack
+		-Sky Troopa - Jump/Attack
+		-Frogog - Jump/Attack
+		
 	-Note: Head back to Mario's Pad to heal/restore FP if you need to
 	-First Screen:
 		-Take South path and save
 	-Second Screen:
 		-Follow platforms over to East side		
-		-Jump off spinning flower facing East for Croaka Cola
+		-Jump off spinning flower facing towards purple flower for Croaka Cola
 	-Third Screen:
-		-(is xp worth grinding here?)
+		-Fight any Goombas here and use up your FP on Jump only
 		-Chest in upper-right corner is a full heal
 	-Fourth Screen:
 		-Chest is a Star chest.  Grab it and run into as many K-9s on screen as possible
 		-Afterwards, rotate platforms to the other chest for Flower
 	-Fifth Screen:
 		-Ignore chest for now
-		-Chase Croco around and get him twice
-		-If you are missing any FP/Health, grab the chest at the starting area
-		-Chase Croco and get him again
+		-Spend the rest of your FP with Jump on the enemies here.  Grind further if you're about to level.
+		-Leave the area and come back for the autosave
+		-Grab the chest at the starting area for a full heal
+		-Chase Croco around
 		-CROCO 1:
                 	-Mario uses Fire Orb once, then Jumps for rest
 			-Mallow Thunderbolts (attacks in remake?), otherwise defends/heals/honey syrups
