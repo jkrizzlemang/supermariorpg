@@ -35,9 +35,9 @@ Mario's Pad 2:
 
 Mushroom Way:
 	-COMBAT:
-		-Goomba - untimed attack
-		-Sky Troopa - untimed Jump/timed Attack at level 2
-		-Spikey - avoid, otherwise two timed attacks
+		-Goomba - untimed attack (1S)
+		-Sky Troopa - untimed Jump (1S) / timed Attack (1S) at level 2
+		-Spikey - avoid, otherwise Attack (2S)
 	-1st screen:
 		-Fight everything, only using Jump on the Sky Troopas, grab both chests and save toad
 	-2nd screen:
@@ -53,7 +53,8 @@ Mushroom Way:
 		-Rush to end.  Avoid all the Spikey's.  If you fight before the boss, don't use any FP.
 		-HAMMER BROS:
 			-Timed Jump x3
-	
+                        -If you miss the first timed Jump, Jump on the other Bro afterwards
+
 Mushroom Kingdom: 
 	-Equip hammer
 	-Go to Inn and save
@@ -71,8 +72,8 @@ Bandit's Way:
 	-COMBAT:
 		-K-9 - Avoid, otherwise Jump/Attack
 		-Spikey - Jump/Attack
-		-Goomba - untimed Attack
-		-Sky Troopa - Jump/Attack
+		-Goomba - untimed Attack (1S)
+		-Sky Troopa - untimed Jump (1S) / Attack
 		-Frogog - Jump/Attack
 		
 	-Note: Head back to Mario's Pad to heal/restore FP if you need to
@@ -100,16 +101,16 @@ Bandit's Way:
 
 Mushroom Kingdom 2:
 	-COMBAT:
-		-Shyster - Can slowly farm Mario Jump power here or Thunderbolt
-	-Note that all combat here should be done having Mario use untimed Jump and Mallow defending.
+		-Shyster - untimed Jump (1S) / Thunderbolt (1S at ?)
+        -Note that all combat here should be done having Mario use untimed Jump and Mallow defending.
 	-Note to follow this item priority:
 		-If you are out of FP for Jump and you have 2 FP left, use a Honey Syrup.  Otherwise, refill it with a Flower Jar first, then Flower Tabs.
 	-Defeat Shyster chasing mushroom guard
 	-Defeat Shyster chasing blue citizen, talk afterwards and give wallet back for Flower Tab.
 	-Defeat Shyster jumping against the house to West
+        -Defeat Shyster jumping in front of woman
 	-Defeat Shysters downstairs and upstairs in big house in upper left for Flower Tab.
-	-Go to Item Shop and buy Antidote Pin
-		-Equip to Mallow.
+	-Go to Item Shop and buy Antidote Pin (don't Equip)
 	-Go into and out of the Inn to autosave.
 	-Go to castle, save the Toad immediately, go left and defeat all enemies and talk to Toad (choose "You Bet") for Flower Tab.
         -Talk to the older Toad by the bed here at any time to full heal and then save.
@@ -125,7 +126,7 @@ Mushroom Kingdom 2:
 	-Note that technically you could stay here and spam jump infinitely using the older Toad to refresh your FP.  Not necessary.
 	-Go out to the main room and follow the path where the Shysters are constantly spawning.
 	-CLAYMORTON: (480 HP, should have 15 FP)
-		-Mario Jump on Claymorton (technically if you can hit a 50+ Super Jump chain, it's stronger)
+		-Mario Jump on Claymorton only
 		-Mallow Thunderbolt on the first turn, Thunderbolt when Shysters are out, otherwise Defend/Heal
 	-Leave the castle.
 	-Talk to Item Shop owner
@@ -133,7 +134,7 @@ Mushroom Kingdom 2:
 Kero Sewers:
 	-COMBAT:
 		-Mallow Thunderbolts when it makes sense FP-wise, otherwise:
-		-Rat Funk - Attack
+		-Rat Funk - Jump/Attack
 		-Boo - Jump/Attack
 		-Shadow - Jump
 		-Hobgoblin - Jump
@@ -248,8 +249,8 @@ Rose Town:
 
 Forest Maze: 
 	-COMBAT:
-		-Wiggler - Avoid, otherwise Jump, Thunderbolt
-		-Amanita - Attack (shouldn't need to Thunderbolt)
+		-Wiggler - Avoid, otherwise Jump, Attack
+		-Amanita - Jump/Attack, Thunderbolt
 		-Rat Funk - Attack, Thunderbolt
 		-Buzzer - Attack, Thunderbolt
 		-Octolot - Jump, Thunderbolt
