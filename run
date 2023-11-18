@@ -376,11 +376,26 @@ Moleville:
 
 Mole Mines:
 	-COMBAT:
-		-Crook - (Kill every one of these you see) Jump, Thunderbolt, Geno Beam
-		-Magmite - Jump, Thunderbolt, Geno Beam
-		-Bob-Omb - Jump, Thunderbolt, Geno Beam (alternatively just defend)
-		-Magma Bubble - Attack
-		-Cluster - Jump, Attack, Geno Beam
+		-Crook
+			-Mario: Jump (1S), Attack (1S)
+			-Mallow: Thunderbolt (1S), Attack (1S)
+			-Geno: Attack (1S), Geno Beam (1S)
+		-Magmite
+			-Mario: Jump (1S)
+			-Mallow: Thunderbolt (1S)
+			-Geno: Geno Beam (1S)
+		-Bob-Omb
+			-Mario: Jump (1S), Attack (2S)
+			-Mallow: Thunderbolt (2S), Attack (2S)
+			-Geno: Geno Beam (1S), Attack (2S)
+		-Lava Bubble
+			-Mario: Jump (1S), Attack (1S)
+			-Mallow: Attack (1S)
+			-Geno: Attack (1S)
+		-Cluster
+			-Mario: Jump (1S), Attack (2S)
+			-Mallow: Thunderbolt (1S), Attack (2S)
+			-Geno: Geno Beam (1S), Attack (3S)
 		-Enigma - Jump, Attack, Geno Beam
 	-1st Screen:
 		-Jump on the moles shoulders and continue forward
