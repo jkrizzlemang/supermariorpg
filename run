@@ -498,7 +498,10 @@ Booster Tower:
 			-Mario: Jump (1), Attack (2)
 			-Mallow: Thunderbolt (8), Attack (2)
 			-Geno: Attack (4), Geno Beam (2)
-		-Spookum - Jump, Thunderbolt, Attack
+		-Spookum
+			-Mario: Jump (1), Attack (2)
+			-Mallow:  Attack (2), Thunderbolt (2)
+			-Geno: Attack (1), Geno Beam (1)
 		-Rob-Omb - Jump, Attack
 		-Remo Con - Jump, Attack
 		-Orb User - Jump, Attack
@@ -506,54 +509,55 @@ Booster Tower:
 		-Blaster - Jump, Attack
 		-Fireball - Jump, Attack
 	-Note that if you run out of FP here, use a Flower Box or Flower Tab.
-        -First Screen:
+        -1st Screen:
 		-EQUIP
 			-Bowser: Work Pants, Wake-Up Pin
+	-2nd Screen:
 		-Go up the stairs on the left
-	-Second Screen:
+	-3rd Screen:
         	-At the top of the stairs, the first black tile against the Western wall has a hidden Frog Coin chest
-        -Third Screen:
+        -4th Screen:
 		-Follow the track into the alcove on the right for a Flower Tab
-	-Fourth Screen:
+	-5th Screen:
         	-Kill all the Rob-Ombs here.
 		-Take the middle exit and jump down beneath the chest to hopefully catapult back up for Masher.
         	-EQUIP
                 	Mario: Masher
-	-Fifth Screen:
+	-6th Screen:
 		-Hit the green button
-	-Sixth Screen:
+	-7th Screen:
         	-Follow the linear path until you get to a save point.
-	-Ninth Screen:
+	-8th Screen:
 		-Save
-	-10th Screen:
+	-9th Screen:
 		-Interact with the portraits in the following order from left to right: 6, 5, 3, 1, 2, 4
 		-Open Key Door
-	-11th Screen:
+	-10th Screen:
 		-Jump up to the Chain Chomp
         	-EQUIP
 	                Bowser: Chain Chomp
-	-12th Screen:
+	-11th Screen:
 		-Grab the chest at the top for a full heal
 		-Jump onto the plank with the Thwomp
-	-13th Screen:
+	-12th Screen:
         	-Jump in the SW corner for a Frog Coin
 		-Jump up the platforms and jump in the alcove for another Frog Coin
-	-14th Screen:
+	-13th Screen:
 		-Collect 9 coins, 4 Frog Coins, and Room key.
 		-Open Key Door and chest for Zoom Shoes
 		-Take W exit
+	-14th Screen:
+		-Linear
 	-15th Screen:
 		-Linear
 	-16th Screen:
-		-Linear
-	-17th Screen:
 		-Grind the Chain Chomp here until your whole party is at least level 9 and Mallow is level 10.
-	-18th Screen:
+	-17th Screen:
 		-Jump in the SE corner near the door for a full heal.
 		-Jump up the platforms and jump on top of the chest and jump for Goodie Bag
 		-Grab the chest for a Frog Coin
 		-Save
-	-19th Screen:
+	-18th Screen:
 		-Try to leave through the SW door and then win the Amulet by staying hidden (if you get caught, reload):
                 -(From bottom) Avoid 3rd curtain, then stand behind it
                 -(From bottom) 1st, 2nd, 1st, 1st, 1st, 1st, run to 4
