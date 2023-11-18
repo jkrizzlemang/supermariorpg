@@ -254,7 +254,7 @@ Forest Maze:
 			-Mallow: Thunderbolt (2S), Attack (3S)
 		-Amanita
 			-Mario: Jump (1S), Attack (1S)
-			-Mallow: Thunderbolt (1S), Attack (1S)
+			-Mallow: Thunderbolt (1S), Attack (2S)
 		-Rat Funk
 			-Mario: Jump (1S), Attack (1S)
 			-Mallow: Thunderbolt (1S), Attack (1S)
@@ -292,22 +292,20 @@ Forest Maze:
 		-Go NW, SW, SW, NW.
 		-Enter the stump and open the furthest West chest last for a Frog Coin, 3 Flowers and a full heal.
 			-Note that we got these specific items because of our exact actions in Rose Town
-	-Leave and exit SW to reset
-        -Go SE, NE, NE, SE, NE, NW
-	-EQUIP
-		Mario: Jump Shoes
-	-Full Heal using Mallows HP Rain
-	-Use Flower Tab
-	-Save
-	-Bowyer
-                Note: Always use Tadpola Cola after Static Electricity
-		While Nothing is Locked: Geno Attack, Jump, Attack
-		While A is locked: Geno Beam, Jump, Defend/Heal
-		While Y is locked: Attack
+		-Leave and exit SW to reset
+        	-Go SE, NE, NE, SE, NE, NW
+	-10th Screen:
+		-Full Heal using Mallows HP Rain
+		-Use Flower Tab
+		-Save
+		-Bowyer
+                	Note: Always use Tadpola Cola after Static Electricity
+			While Nothing is Locked: Geno Attack, Jump, Attack
+			While A is locked: Geno Beam, Jump, Defend/Heal
+			While Y is locked: Attack
 
 Rose Town 2:
         -Visit Inn and talk to Gaz for Finger Shot
-	-Note that you can use this Inn to heal for free now in addition to Mario's Pad
 	-Go to NW house (jump on mans head), go upstairs and hit the green button and collect a hidden chest on the Northern post of the bed for Frog Coin
 	-Talk to man and tell him the treasures aren't okay and that you got carried away to get a Frog Coin
 	-Go to Shop and buy Fearless Pin
