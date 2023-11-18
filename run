@@ -494,29 +494,43 @@ Booster Tower:
 			-Mario: Jump (1), Attack (4)
 			-Mallow: Thunderbolt (4), Attack (6)
 			-Geno: Attack (4), Geno Beam (2)
+			-Bowser: Attack (2), Terrorize (10)
 		-Jester
 			-Mario: Jump (1), Attack (2)
 			-Mallow: Thunderbolt (8), Attack (2)
 			-Geno: Attack (4), Geno Beam (2)
+			-Bowser: Attack (2), Terrorize (30)
 		-Spookum
 			-Mario: Jump (1), Attack (2)
 			-Mallow:  Attack (2), Thunderbolt (2)
 			-Geno: Attack (1), Geno Beam (1)
+			-Bowser: Attack (1), Terrorize (2)
 		-Rob-Omb
 			-Mario: Jump (1), Attack (1)
 			-Mallow:  Attack (2), Thunderbolt (1)
 			-Geno: Attack (1), Geno Beam (1)
+			-Bowser: Attack (1), Terrorize (2)
 		-Dollox
 			-Mario: Jump (1), Attack (2)
 			-Mallow:  Attack (2), Thunderbolt (2)
 			-Geno: Geno Beam (1), Attack (2) 
+			-Bowser: Attack (1), Terrorize (3)
 		-Orb User
 			-Mario: Jump (1), Attack (1)
 			-Mallow:  Thunderbolt (1), Attack (2)
 			-Geno: Attack (1), Geno Beam (1)
-		-Chain Chomp - Jump, Thunderbolt, Geno Beam, Attack
+			-Bowser: Attack (1), Terrorize (2)
+		-Chain Chomp
+			-Mario: Jump (1), Attack (3)
+			-Mallow:  Thunderbolt (1), Attack (5)
+			-Geno: Geno Beam (1), Attack (2)
+			-Bowser: Attack (2), Terrorize (11)
 		-Blaster - Jump, Attack
-		-Fireball - Jump, Attack
+		-Lava Blubble
+			-Mario: Jump (1), Attack (1)
+			-Mallow: Attack (1), Thunderbolt (1)
+			-Geno: Attack (1), Geno Beam (1)
+			-Bowser: Attack (1), Terrorize (1)
 	-Note that if you run out of FP here, use a Flower Box or Flower Tab.
         -1st Screen:
 		-EQUIP
