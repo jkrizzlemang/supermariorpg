@@ -472,11 +472,14 @@ Booster Pass:
 			-Mario: Jump (1S), Attack (2S)
 			-Mallow: Attack (3S), Thunderbolt (2S)
 			-Geno: Attack (1S), Geno Beam (1S)
-		-Artichoker
+		-Artichoker - Avoid, otherwise:
 			-Mario: Jump (1S)
 			-Mallow: Thunderbolt (4S)
 			-Geno: Attack (3S)
-		-Lakitu - Avoid, othewrise Jump, Thunderbolt, Attack
+		-Lakitu - Avoid, otherwise:
+			-Mario: Jump (1S)
+			-Mallow: Attack (3S)
+			-Geno: Attack (2S)
         -1st Screen:
 		-Interact with the second Artichoke here for a Frog Coin
         	-Head all the way NW and jump on the Artichoke for a hidden Flower chest
