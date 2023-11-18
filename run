@@ -502,9 +502,18 @@ Booster Tower:
 			-Mario: Jump (1), Attack (2)
 			-Mallow:  Attack (2), Thunderbolt (2)
 			-Geno: Attack (1), Geno Beam (1)
-		-Rob-Omb - Jump, Attack
-		-Remo Con - Jump, Attack
-		-Orb User - Jump, Attack
+		-Rob-Omb
+			-Mario: Jump (1), Attack (1)
+			-Mallow:  Attack (2), Thunderbolt (1)
+			-Geno: Attack (1), Geno Beam (1)
+		-Dollox
+			-Mario: Jump (1), Attack (2)
+			-Mallow:  Attack (2), Thunderbolt (2)
+			-Geno: Geno Beam (1), Attack (2) 
+		-Orb User
+			-Mario: Jump (1), Attack (1)
+			-Mallow:  Thunderbolt (1), Attack (2)
+			-Geno: Attack (1), Geno Beam (1)
 		-Chain Chomp - Jump, Thunderbolt, Geno Beam, Attack
 		-Blaster - Jump, Attack
 		-Fireball - Jump, Attack
@@ -519,7 +528,6 @@ Booster Tower:
         -4th Screen:
 		-Follow the track into the alcove on the right for a Flower Tab
 	-5th Screen:
-        	-Kill all the Rob-Ombs here.
 		-Take the middle exit and jump down beneath the chest to hopefully catapult back up for Masher.
         	-EQUIP
                 	Mario: Masher
