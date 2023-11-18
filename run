@@ -464,9 +464,18 @@ Mole Mines:
 
 Booster Pass:
 	-COMBAT:
-		-Spikester - Jump, Thunderbolt, Attack
-		-Carroboscis - Jump, Thunderbolt, Attack
-		-Artichoker - Jump, Thunderbolt, Attack
+		-Spikester
+			-Mario: Jump (1S), Attack (2S)
+			-Mallow: Thunderbolt (1S)
+			-Geno: Attack (1S), Geno Beam (1S)
+		-Carroboscis
+			-Mario: Jump (1S), Attack (2S)
+			-Mallow: Attack (3S), Thunderbolt (2S)
+			-Geno: Attack (1S), Geno Beam (1S)
+		-Artichoker
+			-Mario: Jump (1S)
+			-Mallow: Thunderbolt (4S)
+			-Geno: Attack (3S)
 		-Lakitu - Avoid, othewrise Jump, Thunderbolt, Attack
         -1st Screen:
 		-Interact with the second Artichoke here for a Frog Coin
