@@ -250,23 +250,23 @@ Rose Town:
 Forest Maze: 
 	-COMBAT:
 		-Wiggler - Avoid, otherwise:
-			-Mario: Jump (1S), Attack (2S)
-			-Mallow: Thunderbolt (2S), Attack (3S)
+			-Mario: Jump (1), Attack (2)
+			-Mallow: Thunderbolt (2), Attack (3)
 		-Amanita
-			-Mario: Jump (1S), Attack (1S)
-			-Mallow: Thunderbolt (1S), Attack (2S)
+			-Mario: Jump (1), Attack (1)
+			-Mallow: Thunderbolt (1), Attack (2)
 		-Rat Funk
-			-Mario: Jump (1S), Attack (1S)
-			-Mallow: Thunderbolt (1S), Attack (1S)
+			-Mario: Jump (1), Attack (1)
+			-Mallow: Thunderbolt (1), Attack (1)
 		-Buzzer
-			-Mario: Jump (1S), Attack (1S)
-			-Mallow: Thunderbolt (1S), Attack (1S)
+			-Mario: Jump (1), Attack (1)
+			-Mallow: Thunderbolt (1), Attack (1)
 		-Octolot
-			-Mario: Jump (1S), Attack (2S)
-			-Mallow: Thunderbolt (2S), Attack (2S)
+			-Mario: Jump (1), Attack (2)
+			-Mallow: Thunderbolt (2), Attack (2)
 		-Guerrilla
-			-Mario: Jump (1S), Attack (3S)
-			-Mallow: Thunderbolt (3S), Attack (3S)
+			-Mario: Jump (1), Attack (3)
+			-Mallow: Thunderbolt (3), Attack (3)
 	-1st Screen:
 		-Grab Mushroom
 		-Jump in SW corner for Croaka Cola
@@ -323,19 +323,19 @@ Moleville:
 Pipe Vault:
 	-COMBAT:
 		-Goomba
-			-Any: untimed Attack (1S)
+			-Any: untimed Attack (1)
 		-Spikey
-			-Any: untimed Attack (1S)
+			-Any: untimed Attack (1)
 		-Frogog
-			-Any: Attack (1S)
+			-Any: Attack (1)
 		-Lava Bubble - Attack
-			-Mario: Attack (1S), Jump (2S)
-			-Mallow: Attack (2S)
-			-Geno: Attack (1S)
+			-Mario: Attack (1), Jump (2)
+			-Mallow: Attack (2)
+			-Geno: Attack (1)
 		-Piranha Plant
-			-Mario: Jump (1S), Attack (2S)
-			-Mallow: Attack (2S)
-			-Geno: Attack (2S), Geno Beam (2S)
+			-Mario: Jump (1), Attack (2)
+			-Mallow: Attack (2)
+			-Geno: Attack (2), Geno Beam (2)
 		-Shy Ranger - Always runs away
         -Note it's just best to avoid all combat here, xp-wise.
 	-1st Screen:
@@ -377,29 +377,29 @@ Moleville:
 Mole Mines:
 	-COMBAT:
 		-Crook
-			-Mario: Jump (1S), Attack (1S)
-			-Mallow: Thunderbolt (1S), Attack (1S)
-			-Geno: Attack (1S), Geno Beam (1S)
+			-Mario: Jump (1), Attack (1)
+			-Mallow: Thunderbolt (1), Attack (1)
+			-Geno: Attack (1), Geno Beam (1)
 		-Magmite
-			-Mario: Jump (1S)
-			-Mallow: Thunderbolt (1S)
-			-Geno: Geno Beam (1S)
+			-Mario: Jump (1)
+			-Mallow: Thunderbolt (1)
+			-Geno: Geno Beam (1)
 		-Bob-Omb
-			-Mario: Jump (1S), Attack (2S)
-			-Mallow: Thunderbolt (2S), Attack (2S)
-			-Geno: Geno Beam (1S), Attack (2S)
+			-Mario: Jump (1), Attack (2)
+			-Mallow: Thunderbolt (2), Attack (2)
+			-Geno: Geno Beam (1), Attack (2)
 		-Lava Bubble
-			-Mario: Jump (1S), Attack (1S)
-			-Mallow: Attack (1S)
-			-Geno: Attack (1S)
+			-Mario: Jump (1), Attack (1)
+			-Mallow: Attack (1)
+			-Geno: Attack (1)
 		-Cluster
-			-Mario: Jump (1S), Attack (2S)
-			-Mallow: Thunderbolt (1S), Attack (2S)
-			-Geno: Geno Beam (1S), Attack (3S)
+			-Mario: Jump (1), Attack (2)
+			-Mallow: Thunderbolt (1), Attack (2)
+			-Geno: Geno Beam (1), Attack (3)
 		-Enigma
-			-Mario: Jump (1S), Attack (3S)
-			-Mallow: Attack (3S)
-			-Geno: Attack (2S), Geno Beam (2S)
+			-Mario: Jump (1), Attack (3)
+			-Mallow: Attack (3)
+			-Geno: Attack (2), Geno Beam (2)
 	-1st Screen:
 		-Jump on the moles shoulders and continue forward
 	-2nd Screen:
@@ -465,21 +465,21 @@ Mole Mines:
 Booster Pass:
 	-COMBAT:
 		-Spikester
-			-Mario: Jump (1S), Attack (2S)
-			-Mallow: Thunderbolt (1S)
-			-Geno: Attack (1S), Geno Beam (1S)
+			-Mario: Jump (1), Attack (2)
+			-Mallow: Thunderbolt (1)
+			-Geno: Attack (1), Geno Beam (1)
 		-Carroboscis
-			-Mario: Jump (1S), Attack (2S)
-			-Mallow: Attack (3S), Thunderbolt (2S)
-			-Geno: Attack (1S), Geno Beam (1S)
+			-Mario: Jump (1), Attack (2)
+			-Mallow: Attack (3), Thunderbolt (2)
+			-Geno: Attack (1), Geno Beam (1)
 		-Artichoker - Avoid, otherwise:
-			-Mario: Jump (1S)
-			-Mallow: Thunderbolt (4S)
-			-Geno: Attack (3S)
+			-Mario: Jump (1)
+			-Mallow: Thunderbolt (4)
+			-Geno: Attack (3)
 		-Lakitu - Avoid, otherwise:
-			-Mario: Jump (1S)
-			-Mallow: Attack (3S)
-			-Geno: Attack (2S)
+			-Mario: Jump (1)
+			-Mallow: Attack (3)
+			-Geno: Attack (2)
         -1st Screen:
 		-Interact with the second Artichoke here for a Frog Coin
         	-Head all the way NW and jump on the Artichoke for a hidden Flower chest
@@ -490,8 +490,14 @@ Booster Pass:
 
 Booster Tower:
 	-COMBAT:
-		-Snifit - Avoid, otherwise Jump, Thunderbolt, Attack
-		-Jester - Jump, Attack
+		-Snifit - Avoid, otherwise:
+			-Mario: Jump (1), Attack (4)
+			-Mallow: Thunderbolt (4), Attack (6)
+			-Geno: Attack (4), Geno Beam (2)
+		-Jester
+			-Mario: Jump (1), Attack (2)
+			-Mallow: Thunderbolt (8), Attack (2)
+			-Geno: Attack (4), Geno Beam (2)
 		-Spookum - Jump, Thunderbolt, Attack
 		-Rob-Omb - Jump, Attack
 		-Remo Con - Jump, Attack
