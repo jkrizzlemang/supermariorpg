@@ -396,7 +396,10 @@ Mole Mines:
 			-Mario: Jump (1S), Attack (2S)
 			-Mallow: Thunderbolt (1S), Attack (2S)
 			-Geno: Geno Beam (1S), Attack (3S)
-		-Enigma - Jump, Attack, Geno Beam
+		-Enigma
+			-Mario: Jump (1S), Attack (3S)
+			-Mallow: Attack (3S)
+			-Geno: Attack (2S), Geno Beam (2S)
 	-1st Screen:
 		-Jump on the moles shoulders and continue forward
 	-2nd Screen:
@@ -426,7 +429,7 @@ Mole Mines:
         	-If you are below 12 FP, use a Flower Tab
 		-Wait for Croco to enter whatever room you are in and then fight him
         	-CROCO 2
-			Mario: Jump (Fire Orb is stronger, but we're still farming Jump)
+			Mario: Jump (Fire Orb is slightly stronger, but we're still farming Jump)
 			Mallow: Attack/Heal/Revive
 			Geno: Attack/Revive
 		-Whatever room you are in, go left until you see the traintracks with a door.  Enter it.
@@ -456,7 +459,7 @@ Mole Mines:
 			Note: Ignore the Bombs
 			Mario: Jump
                 	Mallow: Attack
-                	Geno: Geno Boost self and then Attack
+                	Geno: Geno Boost Mario and then Attack
         -Minecart section doesn't matter, if you took your hands off the controller for 5 minutes you'd only lose 80 coins, which is 4 resets of the Rose Way farm)
 
 Booster Pass:
