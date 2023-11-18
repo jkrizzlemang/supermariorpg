@@ -307,10 +307,8 @@ Forest Maze:
 Rose Town 2:
         -Visit Inn and talk to Gaz for Finger Shot
 	-Go to NW house (jump on mans head), go upstairs and hit the green button and collect a hidden chest on the Northern post of the bed for Frog Coin
-	-Talk to man and tell him the treasures aren't okay and that you got carried away to get a Frog Coin
+	-Talk to man and tell him the treasures aren't okay (bottom option) and that you got carried away (top option) to get a Frog Coin 
 	-Go to Shop and buy Fearless Pin
-	-EQUIP
-                Geno: Finger Shot, Fearless Pin
 
 Pipe Vault:
 	-Skip this area temporarily
@@ -318,17 +316,26 @@ Pipe Vault:
 Moleville:
 	-Go to Item Shop and buy Punch Glove, Cymbals, and 4 Work Pants (yes 4)
 	-EQUIP
-		-Mario: Punch Glove, Work Shirt, Jump Shoes
+		-Mario: Punch Glove, Work Pants
 		-Mallow: Cymbals, Work Pants, Fearless Pin
 		-Geno: Finger Shot, Work Pants, Fearless Pin
 
 Pipe Vault:
 	-COMBAT:
-		-Goomba - untimed Attack
-		-Spikey - Jump/Attack
-		-Frogog - Attack/Thunderbolt
-		-Sparky - Attack
-		-Piranha Plant - Jump, Thunderbolt, Geno Beam
+		-Goomba
+			-Any: untimed Attack (1S)
+		-Spikey
+			-Any: untimed Attack (1S)
+		-Frogog
+			-Any: Attack (1S)
+		-Lava Bubble - Attack
+			-Mario: Attack (1S), Jump (2S)
+			-Mallow: Attack (2S)
+			-Geno: Attack (1S)
+		-Piranha Plant
+			-Mario: Jump (1S), Attack (2S)
+			-Mallow: Attack (2S)
+			-Geno: Attack (2S), Geno Beam (2S)
 		-Shy Ranger - Always runs away
         -Note it's just best to avoid all combat here, xp-wise.
 	-1st Screen:
@@ -349,7 +356,7 @@ Pipe Vault:
 	-(Back at) 4th Screen:
 		-Enter next pipe
 	-6th Screen:
-		-Play the minigame and TIE the score needed twice for a Flower Tab and Flower Jar (can do more for Frog Coins, but not worth it).  Really easy if you bounce off one goomba to another for two to four points each time.
+		-Play the minigame and TIE the score needed for a Flower Tab (can do more for Frog Coins, but not worth it).  Really easy if you bounce off one goomba to another for two to four points each time.
 	-(Back at) 4th Screen:
 		-Enter next pipe
 	-7th Screen:
