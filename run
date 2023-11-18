@@ -249,12 +249,24 @@ Rose Town:
 
 Forest Maze: 
 	-COMBAT:
-		-Wiggler - Avoid, otherwise Jump, Attack
-		-Amanita - Jump/Attack, Thunderbolt
-		-Rat Funk - Attack, Thunderbolt
-		-Buzzer - Attack, Thunderbolt
-		-Octolot - Jump, Thunderbolt
-		-Guerrilla - Jump, Thunderbolt
+		-Wiggler - Avoid, otherwise:
+			-Mario: Jump (1S), Attack (2S)
+			-Mallow: Thunderbolt (2S), Attack (3S)
+		-Amanita
+			-Mario: Jump (1S), Attack (1S)
+			-Mallow: Thunderbolt (1S), Attack (1S)
+		-Rat Funk
+			-Mario: Jump (1S), Attack (1S)
+			-Mallow: Thunderbolt (1S), Attack (1S)
+		-Buzzer
+			-Mario: Jump (1S), Attack (1S)
+			-Mallow: Thunderbolt (1S), Attack (1S)
+		-Octolot
+			-Mario: Jump (1S), Attack (2S)
+			-Mallow: Thunderbolt (2S), Attack (2S)
+		-Guerrilla
+			-Mario: Jump (1S), Attack (3S)
+			-Mallow: Thunderbolt (3S), Attack (3S)
 	-1st Screen:
 		-Grab Mushroom
 		-Jump in SW corner for Croaka Cola
