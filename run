@@ -654,11 +654,31 @@ Tadpole Pond 2:
 
 Star Hill:
 	-COMBAT:
-		-Tropher - Jump, Attack
-		-Gecko - Jump, Attack
+		-Thropher
+			-Mario: Jump (1), Attack (1)
+			-Mallow:  Attack (2), Shocker (2), Thunderbolt (5)
+			-Geno: Attack (1), Geno Beam (1)
+			-Bowser: Attack (1), Terrorize (4)
+			-Peach: Attack (2)
+		-Gecko
+			-Mario: Jump (1), Attack (1)
+			-Mallow:  Attack (2), Shocker (2), Thunderbolt (4)
+			-Geno: Attack (1), Geno Beam (1)
+			-Bowser: Attack (1), Terrorize (4)
+			-Peach: Attack (2)
 		-Pulsar - Geno Beam, Defend
-		-Mastadoom - Use a Pure Water or Jump, Attack
-		-Sackit - Jump, Attack
+		-Mastadoom
+			-Mario: Jump (1), Attack (3)
+			-Mallow:  Attack (4), Shocker (4), Thunderbolt (14)
+			-Geno: Attack (2), Geno Beam (2)
+			-Bowser: Attack (2), Terrorize (36)
+			-Peach: Attack (5)
+		-Sackit
+			-Mario: Jump (1), Attack (2)
+			-Mallow:  Attack (2), Shocker (1), Thunderbolt (2)
+			-Geno: Attack (2), Geno Beam (1)
+			-Bowser: Attack (2), Terrorize (4)
+			-Peach: Attack (3)
 	-Note to just avoid all combat here if possible
         -Interact with flower to the right and then left and go through Star door
 	-Pretty linear, interact with flowers to open star gates:
@@ -671,22 +691,47 @@ Seaside Town:
         -Go upstairs and buy Experience Booster
 	-EQUIP
 		-Peach: Exp. Booster
-	-My personal recommendation here would be to Menu > Map > Rose Way and farm the coin boxes on the next screen until you have 1425 coins (doing just the South path back and forth takes about 20 minutes).
-	-Once you have 1425 coins, enter the bottom door of Item Shop
+	-My personal recommendation here would be to Menu > Map > Rose Way and farm the coin boxes on the next screen until you have 1450 coins (doing just the South path back and forth takes about 20 minutes).
+	-Once you have 1450 coins, enter the bottom door of Item Shop
         -Buy 3 Fire Bombs, 3 Ice Bombs (original is 8 Ice Bombs and 8 Fright Bombs)
 
 Sea:
 	-COMBAT:
-		-Zeostar - Jump, Thunderbolt, Attack
-		-Bloober - Jump, Thunderbolt, Attack
-		-Leuko - Jump, Attack
-		-Crusty - Jump, Thunderbolt, Attack
-		-Mr. Kipper - Jump, Thunderbolt, Attack
+		-Zeostar
+			-Mario: Jump (1), Attack (2)
+			-Mallow:  Attack (2), Shocker (1), Thunderbolt (2)
+			-Geno: Attack (1), Geno Beam (1)
+			-Bowser: Attack (1), Terrorize (2)
+			-Peach: Attack (2)
+		-Bloober
+			-Mario: Jump (1), Attack (1)
+			-Mallow:  Attack (2), Shocker (1), Thunderbolt (2)
+			-Geno: Attack (1), Geno Beam (1)
+			-Bowser: Attack (1), Terrorize (3)
+			-Peach: Attack (2)
+		-Leuko - Avoid, otherwise:
+			-Mario: Jump (2), Attack (2)
+			-Mallow:  Attack (3), Shocker (5), Thunderbolt (25)
+			-Geno: Attack (2), Geno Beam (3)
+			-Bowser: Attack (2), Terrorize (44)
+			-Peach: Attack (3)
+		-Crusty
+			-Mario: Jump (1), Attack (40)
+			-Mallow:  Thunderbolt (1), Shocker (1), Attack (40)
+			-Geno: Attack (2), Geno Beam (1)
+			-Bowser: Attack (2), Terrorize (3)
+			-Peach: Attack (40)
+		-Mr. Kipper
+			-Mario: Jump (1), Attack (2)
+			-Mallow:  Attack (2), Thunderbolt (2), Shocker (1)
+			-Geno: Attack (1), Geno Beam (1)
+			-Bowser: Attack (1), Terrorize (3)
+			-Peach: Attack (2)
 	-First Screen:
 		-Purchase Sailor Dress
 		-EQUIP
 			-Peach: Sailor Dress
-			-Bowser: EXP Booster
+			-Bowser: Hurly Glove
 		-Exit SE
 	-Second Screen:
 		-Grab Star chest and kill as many as possible
