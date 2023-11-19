@@ -748,16 +748,52 @@ Sea:
 		-Enter whirlpool and then enter the pipe on the Sunken Ship
 
 Sunken Ship:
+	-Mario 11, Mallow 11, Geno 10, Bowser 10, Peach 11
 	-COMBAT:
-	-Dry Bones - Jump, Thunderbolt, Geno Beam, Terrorize, Sleepy Time
-	-Greaper - Jump, Shocker, Attack
-	-Reacher - Jump, Shocker, Geno Beam, Terrorize
-	-Alley Rat - Jump, Thunderbolt, Attack
-	-Gorgon - Jump, Thunderbolt, Attack
-	-Straw Head - Jump, Thunderbolt, Attack
-	-Mr. Kipper - Jump, Thunderbolt, Attack
-	-Zeostar - Jump, Thunderbolt, Attack
-
+	-Dry Bones
+		-Any damaging Special instakills him
+	-Greaper
+		-Mario: Jump (1), Attack (2)
+		-Mallow:  Attack (2), Thunderbolt (2), Shocker (1)
+		-Geno: Attack (1), Geno Beam (1)
+		-Bowser: Attack (1), Terrorize (4)
+		-Peach: Attack (2)
+	-Reacher
+		-Mario: Jump (1), Attack (4)
+		-Mallow:  Thunderbolt (1), Shocker (1, Attack (6)
+		-Geno: Attack (2), Geno Beam (1)
+		-Bowser: Attack (2), Terrorize (3)
+		-Peach: Attack (9)
+	-Alley Rat
+		-Mario: Jump (1), Attack (1)
+		-Mallow:  Attack (2), Thunderbolt (2), Shocker (1)
+		-Geno: Attack (1), Geno Beam (1)
+		-Bowser: Attack (1), Terrorize (2)
+		-Peach: Attack (2)
+	-Gorgon
+		-Mario: Jump (1), Attack (3)
+		-Mallow:  Attack (4), Thunderbolt (2), Shocker (1)
+		-Geno: Attack (2), Geno Beam (2)
+		-Bowser: Attack (2), Terrorize (28)
+		-Peach: Attack (6)
+	-Straw Head
+		-Mario: Jump (1), Attack (2)
+		-Mallow:  Attack (3), Thunderbolt (2), Shocker (1)
+		-Geno: Attack (1), Geno Beam (1)
+		-Bowser: Attack (1), Terrorize (3)
+		-Peach: Attack (3)
+	-Mr. Kipper
+		-Mario: Jump (1), Attack (1)
+		-Mallow:  Attack (2), Thunderbolt (2), Shocker (1)
+		-Geno: Attack (1), Geno Beam (1)
+		-Bowser: Attack (1), Terrorize (3)
+		-Peach: Attack (2)
+	-Zeostar
+		-Mario: Jump (1), Attack (1)
+		-Mallow:  Attack (2), Thunderbolt (2), Shocker (1)
+		-Geno: Attack (1), Geno Beam (1)
+		-Bowser: Attack (1), Terrorize (2)
+		-Peach: Attack (2)
 	-First Screen:
 		-Go NW
 	-Second Screen:
