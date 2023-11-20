@@ -971,7 +971,7 @@ Land's End:
 			-Geno: Geno Beam (3), Attack (4)
 			-Bowser: Attack (5), Terrorize (12)
 			-Peach: Attack (80)
-		-Shy Away
+		-Beezo
 			-Mario: Jump (1), Attack (2)
 			-Mallow:  Attack (2), Thunderbolt (9), Shocker (2)
 			-Geno: Attack (1), Geno Beam (3)
@@ -991,33 +991,34 @@ Land's End:
 			-This might be a random spawn, reload area until you get it if you want.
 		-EQUIP:
 			-Mario: Jump Shoes
-	-First Screen:
+	-1st Screen:
 		-EQUIP
 			-Mallow: Safety Ring
 		-Take cannon, turn around and jump on platform.  Jump straight North for hidden chest with Red Essence
-	-Second Screen:
+	-2nd Screen:
 		-Run past cannon and jump at wall in line with the cannon for a hidden platform
 		-Take cannon and jump at left side of South corner of hole for another hidden platform
 		-Take cannon again to land on the second hidden platform.  Ride it to jump and grab a chest for Frog Coin
 		-Take cannon again and jump to platform.  Jump in the Western corner for Croaka Cola
-	-Third Screen:
+	-3rd Screen:
 		-Linear.
-	-Fourth Screen:
+	-4th Screen:
 		-Save
 		-Follow the bottom edge until you find a row of three flowers.  Jump from the far flower to the second flower for a hidden chest with Frog Coin
 		-Continue East
-	-Fifth Screen:
+	-5th Screen:
 		-Go to the left of the cave entrance for a Flower Tab
 		-Jump into cave entrance
-	-Sixth Screen:
+	-6th Screen:
+		-Fight all the Gecko enemies you see here
 		-Jump off boxes for chest with Frog Coin
 		-Jump in North alcove where the Chow is for hidden chest with Frog Coin
 		-Follow the path for a full heal chest
 		-Jump on the trampoline
-	-Seventh Screen:
+	-7th Screen:
 		-Jump left across the top for a chest with Cricket Jam
 		-Backtrack all the way to the save point (either the way you came, or Menu > Map > Land's End and work your way back)
-	-(Back to) Fourth Screen:
+	-(Back to) 4th Screen:
 		-Use the jump flowers to leave to the NE
 	-Eighth Screen:
 		-This is the Sky Bridge repeatable minigame.  Can do the Expert course for one Frog Coin
@@ -1032,8 +1033,9 @@ Land's End:
 		-Next chest is a Star chest.  Run through and drop down into the hole.
 	-12th Screen:
 		-Jump over the boxes to the West and talk to the NPC.  Buy the Star chest for 400 coins.
-		-Use the star and kill all the Geckit's here.
-		-Note this is a fantastic room to farm for xp.
+		-Jump on the trampoline to trigger an autosave and then go back down.
+		-Use the star and kill all the Geckit's here (reload the autosave if you didn't kill everything here)
+		-Note this is a fantastic room to farm for xp on a zone reload.
 	-13th Screen:
 		-Purchase the Trampoline here for 100 coins
 	-14th Screen:
@@ -1045,9 +1047,6 @@ Land's End:
 	-16th Screen:
 		-Grab chest for Frog Coin/Coins
 	-17th Screen:
-		-EQUIP:
-			-Mario: Jump Shoes
-			-Mallow: Safety Ring
 		-Grab first chest for 150 coins
 		-Jump on top of chest and jump for hidden chest with Frog Coin
 		-On the bottom floor, jump in the North alcove for a hidden chest with Frog Coin
@@ -1056,21 +1055,31 @@ Land's End:
 		-Hit the tongue and if you don't get a note about "hungry", reload the area and try again.
 		-Once you get "hungry", take the platform
 	-19th Screen:
+		-Restore FP/Heal if you need to.
+		-EQUIP:
+			-Mario: Safety Badge
+		-Linear
+	-20th Screen:
 		-Belome:
 			-Note: completely ignore the clones
 			-Mario: Jump
 			-Mallow: Shocker
-			-Geno: Geno Boost, then Attack
+			-Geno: Geno Boost Mario, then Attack
 			-Bowser: Attack
 			-Peach: Attack
 		-Press green switch
+	-21st Screen:
+		-EQUIP
+			-Mario: Jump Shoes
 		-Talk to rat and enter pipe
 
 Monstro Town:
+-Mario 15, Mallow 15, Geno 14, Bowser 14, Peach 18
 	-Enter the first door, talk to the NPC, head upstairs and talk to the star and come back downstairs
 	-Enter the second door and talk to Chow.  If you completed 30 Super Jumps youll get the Attack Scarf.  If you completed 100 Super Jumps you'll get the Super Suit.  Both of these are extremely powerful.
 		-EQUIP:
-			-Mario: Super Suit, Jump Shoes
+			-Mario: Attack Scarf
+			-Mallow: Super Suit
 	-Talk to the Thwomp seven times and go outside to collect Temple Key
 	-Enter the fourth door and purchase the Spiked Chomp
 		-EQUIP:
