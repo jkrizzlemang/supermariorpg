@@ -1,5 +1,8 @@
 SMRPG 100% Route
 
+
+Rewrite notes: alphabetize enemies, indicate whether they're worth grinding, closer summarize enemy tactics, include all levels at beginning, give character overviews as we encounter them
+
 Level Ups:	pick SP for Mario except 6,9,12,15 (attack)
 		pick SP for Mallow always
 		pick SP for Peach always
@@ -1194,24 +1197,41 @@ Bean Valley 2:
 			-Geno: Attack (1), Geno Beam (1)
 			-Bowser: Attack (1), Terrorize (3)
 			-Peach: Attack (2)
+		-Fink Flower
+			-Mario: Jump (1), Attack (1)
+			-Mallow:  Attack (2), , Shocker (3), Snowy (3), Thunderbolt (10)
+			-Geno: Attack (1), Geno Beam (5)
+			-Bowser: Attack (1), Terrorize (40)
+			-Peach: Attack (1)
 		-Heavy Troopa (xp)
 			-Mario: Jump (1), Attack (6)
 			-Mallow:  Shocker (2), Thunderbolt (3), Snowy (2), Attack (7)
 			-Geno: Attack (2), Geno Beam (2)
 			-Bowser: Attack (3), Terrorize (4)
 			-Peach: Attack (4)
-		-Stinger
-			-Mario: Jump (1), Attack (1)
-			-Mallow:  Attack (1), Thunderbolt (1), Shocker (1), Snowy (1)
-			-Geno: Attack (1), Geno Beam (1)
-			-Bowser: Attack (1), Terrorize (1)
-			-Peach: Attack (1)
 		-Octovader
 			-Mario: Jump (1), Attack (2)
 			-Mallow:  Attack (2), Snowy (2), Thunderbolt (7), Shocker (3)
 			-Geno: Attack (1), Geno Beam (2)
 			-Bowser: Attack (2), Terrorize (10)
 			-Peach: Attack (2)
+		-Stinger
+			-Mario: Jump (1), Attack (1)
+			-Mallow:  Attack (1), Thunderbolt (1), Shocker (1), Snowy (1)
+			-Geno: Attack (1), Geno Beam (1)
+			-Bowser: Attack (1), Terrorize (1)
+			-Peach: Attack (1)
+	-1st Screen:
+		-Enter right pipe
+	-2nd Screen:
+		-Push up against the West wall and jump for hidden chest with Frog Coin
+		-Enter left pipe
+	-3rd Screen:
+		-Go down and enter pipe
+	-4th Screen:
+		-Grab chest for Flower
+	-(Back to) 3rd Screen:
+		-
 
 
 
