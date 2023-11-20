@@ -750,50 +750,50 @@ Sea:
 Sunken Ship:
 	-Mario 11, Mallow 11, Geno 10, Bowser 10, Peach 11
 	-COMBAT:
-	-Dry Bones
-		-Any damaging Special instakills him
-	-Greaper
-		-Mario: Jump (1), Attack (2)
-		-Mallow:  Attack (2), Thunderbolt (1), Shocker (1)
-		-Geno: Attack (1), Geno Beam (1)
-		-Bowser: Attack (1), Terrorize (4)
-		-Peach: Attack (2)
-	-Reacher
-		-Mario: Jump (1), Attack (4)
-		-Mallow:  Thunderbolt (1), Shocker (1), Attack (6)
-		-Geno: Attack (2), Geno Beam (1)
-		-Bowser: Attack (2), Terrorize (3)
-		-Peach: Attack (9)
-	-Alley Rat
-		-Mario: Jump (1), Attack (1)
-		-Mallow:  Attack (2), Thunderbolt (2), Shocker (1)
-		-Geno: Attack (1), Geno Beam (1)
-		-Bowser: Attack (1), Terrorize (2)
-		-Peach: Attack (2)
-	-Enigmax
-		-Mario: Jump (1), Attack (3)
-		-Mallow:  Attack (4), Thunderbolt (2), Shocker (1)
-		-Geno: Attack (2), Geno Beam (2)
-		-Bowser: Attack (2), Terrorize (28)
-		-Peach: Attack (6)
-	-Straw Head
-		-Mario: Jump (1), Attack (2)
-		-Mallow:  Attack (3), Thunderbolt (2), Shocker (1)
-		-Geno: Attack (1), Geno Beam (1)
-		-Bowser: Attack (1), Terrorize (3)
-		-Peach: Attack (3)
-	-Mr. Kipper
-		-Mario: Jump (1), Attack (1)
-		-Mallow:  Attack (2), Thunderbolt (2), Shocker (1)
-		-Geno: Attack (1), Geno Beam (1)
-		-Bowser: Attack (1), Terrorize (3)
-		-Peach: Attack (2)
-	-Zeostar
-		-Mario: Jump (1), Attack (1)
-		-Mallow:  Attack (2), Thunderbolt (2), Shocker (1)
-		-Geno: Attack (1), Geno Beam (1)
-		-Bowser: Attack (1), Terrorize (2)
-		-Peach: Attack (2)
+		-Dry Bones
+			-Any damaging Special instakills him
+		-Greaper
+			-Mario: Jump (1), Attack (2)
+			-Mallow:  Attack (2), Thunderbolt (1), Shocker (1)
+			-Geno: Attack (1), Geno Beam (1)
+			-Bowser: Attack (1), Terrorize (4)
+			-Peach: Attack (2)
+		-Reacher
+			-Mario: Jump (1), Attack (4)
+			-Mallow:  Thunderbolt (1), Shocker (1), Attack (6)
+			-Geno: Attack (2), Geno Beam (1)
+			-Bowser: Attack (2), Terrorize (3)
+			-Peach: Attack (9)
+		-Alley Rat
+			-Mario: Jump (1), Attack (1)
+			-Mallow:  Attack (2), Thunderbolt (2), Shocker (1)
+			-Geno: Attack (1), Geno Beam (1)
+			-Bowser: Attack (1), Terrorize (2)
+			-Peach: Attack (2)
+		-Enigmax
+			-Mario: Jump (1), Attack (3)
+			-Mallow:  Attack (4), Thunderbolt (2), Shocker (1)
+			-Geno: Attack (2), Geno Beam (2)
+			-Bowser: Attack (2), Terrorize (28)
+			-Peach: Attack (6)
+		-Straw Head
+			-Mario: Jump (1), Attack (2)
+			-Mallow:  Attack (3), Thunderbolt (2), Shocker (1)
+			-Geno: Attack (1), Geno Beam (1)
+			-Bowser: Attack (1), Terrorize (3)
+			-Peach: Attack (3)
+		-Mr. Kipper
+			-Mario: Jump (1), Attack (1)
+			-Mallow:  Attack (2), Thunderbolt (2), Shocker (1)
+			-Geno: Attack (1), Geno Beam (1)
+			-Bowser: Attack (1), Terrorize (3)
+			-Peach: Attack (2)
+		-Zeostar
+			-Mario: Jump (1), Attack (1)
+			-Mallow:  Attack (2), Thunderbolt (2), Shocker (1)
+			-Geno: Attack (1), Geno Beam (1)
+			-Bowser: Attack (1), Terrorize (2)
+			-Peach: Attack (2)
 	-First Screen:
 		-Go NW
 	-Second Screen:
@@ -908,20 +908,75 @@ Seaside Town 2:
 	-Leave this small zone and go south to the first house to talk to the Elder and get a Flower Box
 	-Enter the first door of the Item shop on the left, say yes to needing an explanation and then pay the 150 coin fee
 	-Enter the second door of the Item shop on the left, purchase Ribbit Stick, Double Punch, and Parasol
+		-EQUIP
+			-Mallow: Ribbit Stick
+			-Geno: Double Punch
+			-Peach: Parasol
 	-Enter the North house and talk to the Elder
+	-System > To World Map
 		
 Land's End:
 	-COMBAT:
-		-Stinger - Jump, Thunderbolt, Attack
-		-Fink Flower - Jump, Attack
-		-Octovader - Jump, Attack
-		-Chow - Attack
-		-Shogun - Jump, Thunderbolt, Geno Beam, Terrorize, Attack
-		-Geckit - Jump, Thunderbolt, Attack
-		-Spinthra - Jump, Thunderbolt, Attack
-		-Chewy - Thunderbolt, Attack
-		-Kriffid - Jump, Thunderbolt, Attack
-		-Shy Away - Jump, Attack
+		-Stinger
+			-Mario: Jump (1), Attack (1)
+			-Mallow:  Attack (2), Thunderbolt (1), Shocker (1)
+			-Geno: Attack (1), Geno Beam (1)
+			-Bowser: Attack (1), Terrorize (1)
+			-Peach: Attack (2)
+		-Fink Flower
+			-Mario: Jump (2), Attack (2)
+			-Mallow:  Attack (2), Thunderbolt (200), Shocker (4)
+			-Geno: Attack (1), Geno Beam (7)
+			-Bowser: Attack (1), Terrorize (40)
+			-Peach: Attack (2)
+		-Octovader
+			-Mario: Jump (2), Attack (2)
+			-Mallow:  Attack (2), Thunderbolt (10), Shocker (4)
+			-Geno: Attack (2), Geno Beam (3)
+			-Bowser: Attack (2), Terrorize (20)
+			-Peach: Attack (3)
+		-Chow
+			-Mario: Jump (1), Attack (2)
+			-Mallow:  Attack (2), Thunderbolt (2), Shocker (1)
+			-Geno: Attack (1), Geno Beam (1)
+			-Bowser: Attack (1), Terrorize (2)
+			-Peach: Attack (2)
+		-Shogun
+			-Mario: Jump (1), Attack (3)
+			-Mallow:  Attack (3), Thunderbolt (3), Shocker (1)
+			-Geno: Attack (2), Geno Beam (1)
+			-Bowser: Attack (2), Terrorize (5)
+			-Peach: Attack (4)
+		-Geckit
+			-Mario: Jump (1), Attack (1)
+			-Mallow:  Attack (2), Thunderbolt (1), Shocker (1)
+			-Geno: Attack (1), Geno Beam (1)
+			-Bowser: Attack (1), Terrorize (2)
+			-Peach: Attack (2)
+		-Spinthra
+			-Mario: Jump (1), Attack (3)
+			-Mallow:  Attack (4), Thunderbolt (4), Shocker (2)
+			-Geno: Attack (2), Geno Beam (2)
+			-Bowser: Attack (2), Terrorize (7)
+			-Peach: Attack (4)
+		-Chewy
+			-Mario: Jump (1), Attack (2)
+			-Mallow:  Attack (2), Thunderbolt (3), Shocker (1)
+			-Geno: Attack (1), Geno Beam (1)
+			-Bowser: Attack (1), Terrorize (8)
+			-Peach: Attack (3)
+		-Kriffid
+			-Mario: Jump (2), Attack (20)
+			-Mallow:  Attack (32), Thunderbolt (6), Shocker (3)
+			-Geno: Geno Beam (3), Attack (4)
+			-Bowser: Attack (5), Terrorize (12)
+			-Peach: Attack (80)
+		-Shy Away
+			-Mario: Jump (1), Attack (2)
+			-Mallow:  Attack (2), Thunderbolt (9), Shocker (2)
+			-Geno: Attack (1), Geno Beam (3)
+			-Bowser: Attack (1), Terrorize (28)
+			-Peach: Attack (2)
 
 	-Note that there is a random spawn in this whole map that looks like a green cloud and makes a noise.  If you wish to fight it:
 		-EQUIP:
