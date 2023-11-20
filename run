@@ -977,6 +977,12 @@ Land's End:
 			-Geno: Attack (1), Geno Beam (3)
 			-Bowser: Attack (1), Terrorize (28)
 			-Peach: Attack (2)
+		-Ribbite
+			-Mario: Jump (1), Attack (2)
+			-Mallow:  Attack (2), Thunderbolt (4), Shocker (2)
+			-Geno: Attack (1), Geno Beam (2)
+			-Bowser: Attack (1), Terrorize (6)
+			-Peach: Attack (2)
 
 	-Note that there is a random spawn in this whole map that looks like a green cloud and makes a noise.  If you wish to fight it:
 		-EQUIP:
@@ -986,13 +992,12 @@ Land's End:
 		-EQUIP:
 			-Mario: Jump Shoes
 	-First Screen:
-		-Swap Peach out for Mallow
 		-EQUIP
 			-Mallow: Safety Ring
 		-Take cannon, turn around and jump on platform.  Jump straight North for hidden chest with Red Essence
 	-Second Screen:
 		-Run past cannon and jump at wall in line with the cannon for a hidden platform
-		-Take cannon and jump straight NE from hidden platform for another hidden platform
+		-Take cannon and jump at left side of South corner of hole for another hidden platform
 		-Take cannon again to land on the second hidden platform.  Ride it to jump and grab a chest for Frog Coin
 		-Take cannon again and jump to platform.  Jump in the Western corner for Croaka Cola
 	-Third Screen:
@@ -1006,7 +1011,7 @@ Land's End:
 		-Jump into cave entrance
 	-Sixth Screen:
 		-Jump off boxes for chest with Frog Coin
-		-Jump in North alcove for hidden chest with Frog Coin
+		-Jump in North alcove where the Chow is for hidden chest with Frog Coin
 		-Follow the path for a full heal chest
 		-Jump on the trampoline
 	-Seventh Screen:
