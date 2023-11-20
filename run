@@ -638,7 +638,7 @@ Marrymore 2:
 Mushroom Kingdom 3:
 	-EQUIP
 		-Mario: Work Pants, Jump Shoes
-		-Mallow: Work Pants
+		-Mallow: Work Pants, Zoom Shoes
 		-Geno: Booster's Charm
 	-Talk to blue Toad that you gave the Wallet to for a Frog Coin
 	-Go to the Castle and follow Linear story
@@ -754,13 +754,13 @@ Sunken Ship:
 		-Any damaging Special instakills him
 	-Greaper
 		-Mario: Jump (1), Attack (2)
-		-Mallow:  Attack (2), Thunderbolt (2), Shocker (1)
+		-Mallow:  Attack (2), Thunderbolt (1), Shocker (1)
 		-Geno: Attack (1), Geno Beam (1)
 		-Bowser: Attack (1), Terrorize (4)
 		-Peach: Attack (2)
 	-Reacher
 		-Mario: Jump (1), Attack (4)
-		-Mallow:  Thunderbolt (1), Shocker (1, Attack (6)
+		-Mallow:  Thunderbolt (1), Shocker (1), Attack (6)
 		-Geno: Attack (2), Geno Beam (1)
 		-Bowser: Attack (2), Terrorize (3)
 		-Peach: Attack (9)
@@ -770,7 +770,7 @@ Sunken Ship:
 		-Geno: Attack (1), Geno Beam (1)
 		-Bowser: Attack (1), Terrorize (2)
 		-Peach: Attack (2)
-	-Gorgon
+	-Enigmax
 		-Mario: Jump (1), Attack (3)
 		-Mallow:  Attack (4), Thunderbolt (2), Shocker (1)
 		-Geno: Attack (2), Geno Beam (2)
@@ -833,9 +833,6 @@ Sunken Ship:
 			-Bowser: Keep Terrorize up then Attack (left to right)
 			-Peach: Attack (right to left)
 	-11th Screen:
-		-EQUIP
-			-Mallow: Zoom Shoes
-			-Geno: Booster's Charm
 		-Linear
 	-12th Screen:
 		-Jump up and through top door
@@ -862,8 +859,7 @@ Sunken Ship:
 	-18th Screen:
 		-Grab chest for full heal
 		-Save
-		-The next chest contains a miniboss, WHUHOH.  This is a great place to farm the 100 Super Jumps.
-			-The strategy I used was to let Hidon summon Goommbas and then Super Jump off the rightmost Goomba.  Watch Mario's shadow and when it is between the Goomba and the jump counter, hit jump again.  Good luck!
+		-The next chest contains a miniboss, WHUHOH.  This is a great place to farm the 100 Super Jumps. (do in Mushroom Way on Spikey with no Jump Shoes instead)
 			-Jump, Attack
 		-Leave screen and come back for Hidon chest to refresh to coin chest
 	-19th Screen:
@@ -888,14 +884,14 @@ Sunken Ship:
 			-Note do not kill all four of the adds, leave one alive
 			-Mario: Jump
 			-Mallow: Shocker
-			-Geno: Geno Boost, Geno Beam (Attack is stronger, but we don't want to kill the lone add)
+			-Geno: Geno Boost Mario, then Geno Beam (Attack is stronger, but we don't want to kill the lone add with Splash damage)
 			-Bowser: Attack (Heal/Defend if only one add left, we don't want to kill it)
 			-Peach: Attack (Heal/Defend if only one add left, we don't want to kill it)
 		-Menu > Map > Seaside Town
 
 Seaside Town 2:
+	-Mario 12, Mallow 12, Geno 11, Bowser 12, Peach 13
 	-Hand over the Star immediately (rewards a Flower Box later)
-	-Swap Mallow out for Bowser
 	-EQUIP
 		-Peach: Work Pants, Safety Ring
 	-Save
@@ -904,9 +900,9 @@ Seaside Town 2:
 		-Note to never move the cursor, it will always target the real Yaridovich
 		-On Bowser's first turn, use the ultimate, then swap him out for Peach when able
 		-Mario: Jump/Super Jump
+		-Mallow: Shocker/Heal Single Target
+		-Geno: Geno Boost Mario, then Attack
 		-Peach: Heal/Attack
-		-Geno: Geno Boost, then Attack
-		-Mallow: Shocker
 		-Bowser: Attack
 	-Grab the Shed Key
 	-Leave this small zone and go south to the first house to talk to the Elder and get a Flower Box
