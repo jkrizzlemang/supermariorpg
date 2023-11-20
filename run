@@ -1077,15 +1077,14 @@ Monstro Town:
 -Mario 15, Mallow 15, Geno 14, Bowser 14, Peach 18
 	-Enter the first door, talk to the NPC, head upstairs and talk to the star and come back downstairs
 	-Enter the second door and talk to Chow.  If you completed 30 Super Jumps youll get the Attack Scarf.  If you completed 100 Super Jumps you'll get the Super Suit.  Both of these are extremely powerful.
-		-EQUIP:
-			-Mario: Attack Scarf
-			-Mallow: Super Suit
 	-Talk to the Thwomp seven times and go outside to collect Temple Key
 	-Enter the fourth door and purchase the Spiked Chomp
-		-EQUIP:
-			-Bowser: Spiked Chomp
 	-Enter the fifth door and rest
 	-Drop into the hole to the SE to save
+	-EQUIP:
+		-Mallow: Super Suit
+		-Mario: Jump Shoes
+		-Bowser: Spiked Chomp
 	-Go up the stairs and into the J door
 	-Talk with Jagger
 		-Mario: Jump
@@ -1093,20 +1092,22 @@ Monstro Town:
 		-Geno: Geno Boost, then Attack
 		-Bowser: Keep Terrorize up, then Attack
 		-Peach: Attack
+	-EQUIP:
+		-Mario: Attack Scarf
+		-Mallow: Super Suit
 	-Talk with Jinx
 		-Mario: Jump
 		-Mallow: Attack
-		-Geno: Geno Boost, then Attack
+		-Geno: Geno Boost Mario, then Attack
 		-Bowser: Attack
 		-Peach: Attack
 	-Note the following two battles might not be possible yet without Super Suit and Attack Scarf
 	-Talk with Jinx
 		-Mario: Jump
 		-Mallow: Attack
-		-Geno: Geno Boost, then Attack
+		-Geno: Geno Boost Mario, then Attack
 		-Bowser: Attack
 		-Peach: Attack
-	-Swap Bowser 
 	-Talk with Jinx
 		-Note to switch to Peach and Ult if you need to revive Mario
 		-Mario: Jump
@@ -1114,7 +1115,8 @@ Monstro Town:
 		-Geno: Geno Boost, then Attack
 		-Bowser: Attack
 		-Peach: Attack
-	-This final fight earns you the Jinx Belt
+	-EQUIP:
+		-Mario: Jinx Belt
 	-Enter the door near the save and jump in the SW corner for a Frog Coin
 	-Menu > Map > Yo'ster Isle
 
@@ -1152,29 +1154,7 @@ Belome's Temple 2:
 	-Backtrack through the temple all the way to where you purchased the 100 coin trampoline
 	-Take the trampline
 	-Take the North exit
-	-
-
-This will lead you to a cliff with a
-bit of a minigame. You just have to climb shell to shell. Success at all will
-open the road to Bean Valley. If you get under twelve seconds, you can win the
-Troopa Pin which is a great accessory. Note that if you are doing Mallow or
-Toadstool's challenge that you must win the Troopa Pin or else the Axem Rangers
-will become quite complicated. You can scale the cliff as often as you like,
-and a good time after winning the Troopa Pin will result in you winning five
-frog coins. In my opinion, this is the best way to harvest frog coins in the
-game; if you want the Scrooge Ring and don't have it, make sure you have 50
-frog coins before leaving. Once you are finished here, exit via the obvious
-path on the top of the cliff.
-
-This puts you back on the overworld. Go buy the Scrooge Ring now if that's your
-plan. If that Kerokerocola harvesting by using Yoshi Cookies on Shy Ranger that
-only Geno sounded cool and if you're doing Mario, Mallow, or Toadstool's
-challenge, you could go and join in now. The Troopa Pin's 20 speed in
-combination with the 5 speed you get from the Work Pants is enough to let all
-of them outspeed Shy Ranger. Sadly, Bowser is still just a bit too slow. Poor
-Bowser will never be fast enough. Once you're finished with all that, enter the
-new area to begin the next dungeon.
-
+	-Climb the turtle shells under 11 seconds for the Troopa Medal.  You can repeat this under 11 seconds as many times as you want for 1 Frog Coin.
 
 
 	Buy Mystery Egg/Buy B'Tub Ring GET FROG COIN IN MARRYMORE
