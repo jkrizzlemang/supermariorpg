@@ -1501,43 +1501,42 @@ Nimbus Land 2:
 Bowser's Keep:
 	-Mario 18, Mallow 18, Geno 18, Peach 20, Bowser 21
 	-COMBAT
-		-Mario: Attack Star Cruster and Gu Goomba, otherwise Jump
-		-Mallow: Attack Forkies and Gu Goomba, Shocker single target, Snowy AOE
+		-Mario: Attack Star Cruster and Pro Goomba, otherwise Jump
+		-Mallow: Attack Forkies and Pro Goomba, Shocker single target, Snowy AOE
 		-Geno: Attack
 		-Bowser: Attack
 		-Peach: Psych Bomb Star Cruster, otherwise Attack
+	-1st Screen:
+		-Fight everything
+	-2nd Screen:
+		-Fight everything
+	-3rd Screen:
+		-Fight everything
+	-4th Screen:
+		-Fight everything
+		-When you get to a crossroad, go left for a chest with a full heal
+	-5th Screen:
+		-Save.
+		-Ignore Croco
+	-6th Screen:
+		-If the door you open has a number of tries and moving platforms:
+			-1st Room: Jump from platform to platform, on the last platform ride it all the way up for a Croaka Cola
+			-2nd Room: Jump on the cannonball and use reversed controls to grab all the chests and coins for Pick Me Up, two Flowers, a Max Mushroom, and a Rock Candy
+			-3rd Room: Loot the chests to get two Flowers, a Royal Syrup, a Pick Me Up, a Fire Bomb, and a Croaka Cola
+			-4th Room: Loot the chest for Sonic Cymbals
+			-EQUIP
+				-Mallow: Sonic Cymbals
+		-If the door you open has troopa statues:
+			-Fight 12 battles in a row
+			-Loot chest for Drill Claw
+			-EQUIP
+				-Bowser: Drill Claw
 
-Mallow and Geno can clean up here with the Scrooge Ring. The first three
-enemies on that list are very weak, and none of the latter enemies are very
-threatening themselves. Bowser has a somewhat awkward time leveling up here
-since all the weak enemies run away from him. You should level up to level 18
-in the first section of Bowser's Keep. If you fight more, Toadstool can join in
-the Scrooge Ring fun with Psych Bomb. Mario and Bowser should use the Jinx Belt
-here to make slaying the enemies as easy as possible, but Jump Shoes for Mario
-or the Safety Ring for Bowser would simplify dealing with that annoying Star
-Cruster. Toadstool should use the Jinx Belt if she has it, but if she does not,
-she can go with the Rare Scarf or Safety Ring.
-
-This place is pretty linear for a while. Just progress forward. There's a chest
-near the end of this linear area with a Mushroom so don't feel bad about eating
-through your FP here. You'll eventually come to a room with a save point and
-Croco. Croco has some stuff to sell you that you almost certainly don't need,
-but the save point is handy. Once you're ready, press onward to the dreaded 6
-door section of Bowser's Keep.
-
-Okay, there are two of each type of course - puzzle, action, and battle. Battle
-is easily the hardest set of rooms in this challenge so, if you can, you
-probably want to avoid the battle rooms. However, Geno and Bowser have the
-misfortune of having their ultimate weapons at the end of battle rooms.
+Geno and Bowser have the ultimate weapons at the end of battle rooms.
 Therefore, I'd suggest that Mario, Mallow, and Toadstool do the two action and
 two puzzle rooms while Geno and Bowser do both the actions, one of the puzzles,
 and the battle room needed for their item. If you want to do a battle room with
 the others for experience, drop a puzzle room for it.
-
-You can easily scout the rooms by running in and seeing how the room starts.
-The order of the rooms is random, but it was decided when you created your
-file. You can abuse the save point to quickly scout the rooms and decide which
-rooms to do.
 
 Action Rooms:
 
@@ -1580,28 +1579,6 @@ You get the Super Slap, Toadstool's second best weapon. You already have the
 Frying Pan so this is a pretty pointless piece of equipment. The damage is less
 random than it is with the Frying Pan, but that's not enough to justify the
 lower power.
-
-Action 2 - moving platforms (Sonic Cymbals)
-
-You just jump from platform to platform. This is so mind numbingly easy; my
-only hint to help you complete it is to not jump into the lava. You can ride
-the final platform up really high to a chest with a Kerokerocola. Be sure to do
-that as it's a really quality item.
-
-The second room here is just insultingly easy. Don't hit the Bob-Ombs. Ride the
-cannonballs with reversed controls. Get the chests for a Pick Me Up, two
-Flowers, a Max Mushroom, and a Rock Candy. Go into the door.
-
-The last section here is also simple, but the jumping and maneuvering can be
-somewhat tricky. I suggest you avoid falling into the lava. Also, loot the
-chests to get two Flowers, a Royal Syrup, a Pick Me Up, a Fire Bomb, and a
-Kerokerocola. Yeah, for being so easy, these action rooms sure have nice loot.
-
-Once you've completed this series of rooms, you get Mallow's best weapon, the
-Sonic Cymbals. It's really nice that Mallow gets a break like this. You go to a
-room with such good items dispersed throughout it that you would want to do it
-even if there was no prize at the end. At the end, you get the one item that
-Mallow wants most.
 
 Puzzle Rooms:
 
@@ -1664,14 +1641,6 @@ there are 21 coins left. Yes, that's right. You have a forced loss, but Dr.
 Topper isn't smart enough. Take one coin at a time until he makes a mistake,
 and then force him into a losing position.
 
-The next room is one of those puzzles in which you have to hit a series of
-switches which alter the state of all the switches around them. That is, if you
-hit a switch that is up, it will make any other switches around it that are up
-go down. Any switches around it that are down will go up. It's a 4X4 grid, and
-if you just jump around randomly, you should win it without too much
-difficulty. That's how I've always won it, but a logical analysis of the
-situation could probably let you win faster.
-
 The last part of this is ball solitaire. If I did a bad job explaining the
 last puzzle, I'll do an even worse job with this. Dr. Topper explains the
 rules fairly well, though he neglects to mention that you use "A" to kick the
@@ -1685,87 +1654,6 @@ That's the end of the second puzzle room. You get a Rock Candy for your
 efforts.
 
 Battle Rooms:
-
-These are fairly draining rooms. You have to fight twelve battles in a row, and
-then you get either Geno or Bowser's best weapon as your prize. The experience
-you get from one of these rooms is really valuable, but you don't get a chance
-to heal before the next boss. If you let yourself get too worn down here, it
-will make things harder. Of course, there is a save point before the next boss.
-If your pride can take it, you could just die to the boss and abuse the instant
-full heal. Also, you can see a few enemies here that had otherwise disappeared
-from the world which can be handy for Yoshi Cookie purposes.
-
-Battle 1 - Terra Cotta battle (Drill Claw)
-
-I'm going to write this primarily assuming that you are doing Bowser's SCC
-since he's the only one I really recommend it for. If you want to do just one
-battle room with Mario, this is the one to do. Do not do this room with Mallow
-or Toadstool under any circumstance.
-
-First battle: 4 Terra Cotta
-
-Equip your Jinx Belt and just use physical attacks. They flee from Bowser.
-
-Second battle: 2 Oerlikon, 1 Star Cruster
-
-Equip the Jinx Belt and open with a barrage of physicals to take out the two
-Oerlikons. You will probably kill the Star Cruster with another physical, but
-save him for last because he'll put you to sleep if he survives.
-
-Third battle: 1 Sackit, 2 Big Bertha
-
-The Big Bertha are the big threat here. Keep your Jinx Belt on for this one.
-Bowser should open with Terrorize for sure and then use Bowser Crush to end the
-battle. Mario, if he's doing this, should use Jump on the Big Berthas. You can
-Yoshi Cookie the Sackit for a Max Mushroom if you want; he is the same enemy
-from Star Hill.
-
-Fourth battle: 2 Chow, 1 Forkies
-
-Stick with your Jinx Belt for some more fun. The Chow easily go down to
-physicals, but the Forkies will take a few hits. Mario can use Jump on the
-Forkies to speed it up a bit.
-
-Fifth battle: 1 Alley Rat, 2 Armored Ant
-
-The Jinx Belt comes to the rescue here. The Alley Rat is very weak, and the two
-Armored Ants can be inflicted with fear. Terrorize works well here as it kills
-the Alley Rat outright and inflicts fear on both Armored Ants which makes them
-easy targets for your physicals. Mario can do it even easier with Jump.
-
-Sixth battle: 3 Bloober, 1 Star Cruster
-
-Bloobers are very weak by this point in the game. A blast of Poison Gas should
-be enough to finish off all three Bloobers and prepare the Star Cruster to die
-to a single Jinx Belt boosted physical.
-
-Seventh battle: 4 Stinger
-
-Equip the Troopa Pin before the battle and open with Terrorize. You'll kill
-them all without taking a hit. If you're worried about missing with Terrorize
-and then getting nailed with Fungispike, use Bowser Crush.
-
-Eighth battle: 2 Geckit, 1 Chained Kong
-
-Keep your Troopa Pin equipped so you can open this up with a stronger
-Terrorize. It will kill the two Geckits and leave the Chained Kong ready to be
-beaten easily with some physicals.
-
-Ninth battle: 1 Rob-Omb, 2 Big Bertha
-
-This is pretty much the exact same as the third battle. The Terrorize to Bowser
-Crush combo is the safe way to deal with this. I'd equip the Jinx Belt just in
-case Blazer comes into play. Being nailed with instant death is always bad.
-
-Tenth battle: 4 Vomer
-
-Use Terrorize once.
-
-Eleventh battle: 2 Magmus, 2 Pulsar
-
-Equip the Safety Ring so the Pulsar can do absolutely nothing to you. Some
-basic physicals will be enough to take out the Magmus, and then a physical a
-piece will take out the Pulsar.
 
 Twelfth battle: 1 Chester
 
@@ -1802,83 +1690,6 @@ except replace Star Rain with Psych Bomb.
 
 Hmm, that last fight was quite a bit harder than the others, wasn't it? Well,
 now you've won, and you have the Drill Claw as your valuable prize!
-
-Battle 2 - Gu Goomba battle (Star Gun)
-
-Whereas the last one assumed you were using Bowser, this one assumes you are
-using Geno. After all, this is where his Star Gun is! If you want to do just
-one battle room with either Mallow or Toadstool, this is the one to do. Mario
-should stick to the first one.
-
-First battle: 5 Gu Goomba
-
-Equip the Troopa Pin and then use Geno Blast. If you want to conserve FP, just
-use a physical on each one of them down the line or use a Scrooge Ring combo of
-Geno Boost to Geno Blast.
-
-Second battle: 2 Malakoopa, 1 Tub-O-Troopa
-
-Equip the Troopa Pin and go all out with physicals. The two Malakoopas should
-die in single hits, but the Tub-O-Troopa will take a bit more of a beating.
-
-Third battle: 2 The Big Boo, 2 Orbison
-
-The Scrooge Ring is your friend here. One touch of Geno Blast will wipe out the
-entire group.
-
-Fourth battle: 5 Sling Shy
-
-One touch of a Scrooge Ring cheapened Geno Blast is all you need here.
-
-Fifth battle: 2 Chewy, 2 Shy Away
-
-Open with a Scrooge Ring'd Geno Blast to take out the two Chewy enemies. Next,
-use a physical a piece to finish off the Shy Away.
-
-Sixth battle: 1 Mr. Kipper, 2 Muckle
-
-Hey, it's another chance at some Ice Bombs! If you have some Yoshi Cookies, it
-would be a fine idea to use them on the Muckle. Otherwise, just equip your
-Safety Ring and use physicals. Mr. Kipper is no threat, but he should go first.
-The Muckle can do absolutely nothing to someone with the Safety Ring equipped.
-
-Seventh battle: 2 Amanita, 1 Orbison
-
-Haha, in case you forgot, Amanita is the mushroom enemy from the Forest Maze.
-Yeah, this fight is nearly unloseable. A Scrooge Ring'd blast from Geno Blast
-is enough to end it instantly, but if you want to be conservative, physicals
-will work just as well. I'd go with the former option just because Orbison is
-annoying with the healing.
-
-Eighth battle: 2 Greaper, 1 Glum Reaper
-
-Glum Reaper is a scary enemy that you ordinarily would only see in the final
-dungeon. Well, the most important thing here is preventing him from ever
-getting a turn so equip your Troopa Pin and open with a physical aimed right at
-the Glum Reaper. This should kill, and then you can use physicals to take out
-the Greapers who seem to do a lot less damage than they were doing back on the
-Sunken Ship.
-
-Ninth battle: 3 Pyrosphere
-
-Mallow loves this fight because of Snowy. You should be able to kill them in
-one round with Geno if you equip the Work Pants and Troopa Pin before the fight
-and then use Geno Blast.
-
-Tenth battle: 3 Lakitu
-
-Equip the Safety Ring and get ready for a really easy fight. These are enemies
-from back on Booster Pass. They were really strong at the time, but now they
-are just sad. A physical attack per each Lakitu is all you need.
-
-Eleventh battle: 2 Zeostar, 2 Shaman
-
-Equip the Safety Ring for this one, and then rely on your physicals. Target
-the Shaman enemies first as their Diamond Saw still really hurts. The Zeostar
-are not a serious threat and can be dealt with once the Shaman threat is
-eliminated.
-
-Twelfth battle: 6 Shaman
 
 This is a scary fight. Open with Geno Boost and then go down the line with
 physicals. Hope your Safety Ring protects you well; 6 Diamond Saw attacks in a
