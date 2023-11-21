@@ -1443,82 +1443,62 @@ Nimbus Castle
 			-Geno: Attack
 			-Bowser: Attack
 			-Peach: Attack
+	-(Back at) 2nd Screen:
+		-Save
+	-3rd Screen:
+		-Head Northwest
+	-4th Screen:
+		-Jump down and grab the box for a Flower
+	-5th Screen:
+		-Linear
+	-6th Screen:
+		-Head Northeast
+	-(Back at) 3rd Screen:
+		-Head Northeast
+	-7th Screen:
+		-Linear
+	-8th Screen:
+		-Grab the chest for a full heal
+	-9th Screen:
+		-Enter the East door and follow the linear path for a chest with a Flower and then return here
+		-Grab chest in Northwest corner for a Flower
+		-Enter the Western door (not path)
+	-10th Screen:
+		-Linear
+	-11th Screen:
+		-Walk to where the Jawful is stabbing and enter the darkness.  Head Left and then Jump for a chest with a Frog Coin
+		-Another hidden chest is basically right where Jawful is standing.  Jump for a hidden chest with a Frog Coin
+	-12th Screen:
+		-Talk to the NPC to the left of the door for a key
+		-Talk to the NPC in a blue jacket for a Flower Jar
+		-Save
+		-Follow the linear path back to the main hall
+	-13th Screen:
+		-Fight the Big Troopa
+		-Enter the door behind it
+	-14th Screen:
+		-Interact with the egg
+		-SHELLY
+			-Use attacks only
+		-BIRDO
+			-Mario: Jump
+			-Mallow: Shocker
+			-Geno: Geno Boost Mario, then Attack
+			-Bowser: Attack
+			-Peach: Attack
+		-Grab the Castle Key
+	-15th Screen:
+		-Fight the Pinwheel
+		-Jump on top of the treasure chest and jump for a hidden chest with Frog Coin
+	-16th Screen:
+		-Head Northeast
+	-17th Screen:
+		-Fight the Big Troopa
+	-18th Screen:
+		-
 
 
-
-
-To start, you might want to find the exit. Heading southwest one screen leads
-to the entrance hall. Southwest again leads out, but the western door in the
-middle of the room leads down a hall toward a chest with a Flower. If, instead
-of heading southwest from the room in which you are "destatued", you head
-northwest, you'll end up in the upper part of the same room. The correct way
-to go is northeast; you'll go through some halls and end in a room with a
-convenient healing Mushroom. The room after that is the main hallway. The chest
-in the northwest corner contains another Flower, and the eastern door leads to
-a chest with another Flower. The western door leads to a narrow hall room that
-actually has two hidden chests in it. One of them is in the void, and you must
-run into the wall in front of where the Jawful is stabbing at it. The other is
-just right next to the Jawful on more solid ground. These chests contain frog
-coins which are always nice to have.
-
-The room beyond this has some NPCs with which you can speak. Doing so and
-generally giving positive responses nets you a Castle Key and a Flower Jar.
-Head back to the main hall and unlock the door behind the Heavy Troopa to enter
-a room with a giant egg. Predictably, this leads to a boss fight. If you have
-the Jinx Belt, be sure to equip it. Otherwise, go with the Rare Scarf. If you
-are willing to take a statistical hit in the interest of cheapness, the Ghost
-Medal could be used.
-
-Boss 16 - Birdo
-
-Mario strategy - Open the fight with a barrage of physicals to defeat Shelley,
-and then set in with your choice of Jump, Super Jump, or Ultra Jump on Birdo.
-Birdo does not have much HP so this should go fairly quickly and easily. Birdo
-could hurt you very, very badly, but he likely won't live long enough to do it.
-If you are having trouble, using a Bracer before you defeat Shelley fully
-trivializes this fight.
-
-Mallow strategy - Start the fight with a Bracer for sure, and using an
-Energizer on top of that (or just using a Yoshi-Ade in the first place) would
-be wise. Birdo is surprisingly strong. Afterward, conserve your FP by taking
-out Shelley with physicals. When Birdo arrives, blast it with Shocker over and
-over again. You will likely need to heal with HP Rain quite a bit, and you'll
-quite possibly run out of FP before it ends and have to use a Syrup. However,
-if you just keep at it, you should prevail.
-
-Geno strategy - As always, open the fight with Geno Boost. Next you have to
-destroy Shelley. Since it doesn't fight back at all, just use your basic
-physical attacks until it falls. Once Birdo reveals itself, you should continue
-with the same plan. Basic physical attacks do more damage and will take it down
-eventually. Birdo is pretty powerful so you'll likely need to do some healing
-before this is over. However, Birdo's very low 777 HP makes this easier than it
-might be otherwise.
-
-Bowser strategy - Like so many other bosses, Birdo is immune to fear. Open the
-fight with a Bracer as you can't afford to take totally undefended hits from
-Birdo at any point. However, after you've hit Birdo three times, he'll start
-using his "strong" egg attack. If you are under the effects of the "Defend"
-command, these will bounce off you and become Eggberts. Attack the Eggberts to
-do 80 damage to Birdo. Yes, this is a rather slow fight, and Birdo can hurt you 
-very badly. If you managed to get the Jinx Belt earlier, though I doubt you
-did, this will be much easier. You also could use an Energizer to allow your
-physical attacks to become more efficient than the Eggberts which really lets
-you beat Birdo a lot faster and consume fewer Max Mushrooms. You certainly
-don't have to, but it would be a really good idea. You do have that time with
-Shelley in which you can do anything with no penalty after all.
-
-Toadstool strategy - Start things off with a Bracer, and then hack away at
-Shelly with physicals. You have no hope of defeating Birdo with your basic
-physical attacks even when under the effects of an Energizer. You can either
-use Ice Bombs and Rock Candies to take him down or use the special gimmick in
-this fight. If you have attacked Birdo three times, he'll start to use his
-one egg shot. If you used the defend command on the turn before, being hit by
-this will generate an Eggbert. Attacking the Eggbert will cause it to detonate
-on Birdo for 80 damage. Birdo has 777 HP so you'll have to detonate 10 Eggbert
-on it. Therapy will be pivotal in surviving long enough to do this.
-
-Okay, unless you were using Mario, that was a good deal harder than you likely
-expected. However, we still have a good deal of dungeon left. Snag the Castle
+ Snag the Castle
 Key 2 and unlock the next door. Hop onto the hopefully already opened chest in
 this room and jump to find a hidden chest containing a frog coin. Rush ahead
 past the door with the Heavy Troopa to see a lovely scene with Valentina. Hmm,
