@@ -1374,7 +1374,62 @@ Nimbus Land
 	-Talk to Garro
 
 Nimbus Castle
-
+	-Mario 16, Mallow 16, Geno 16, Bowser 17, Peach 18
+	-COMBAT
+		-Birdy (xp)
+			-Mario: Jump (1), Attack (1)
+			-Mallow:  Shocker (1), Thunderbolt (2), Snowy (1), Attack (2)
+			-Geno: Attack (1), Geno Beam (1), Geno Blast (1)
+			-Bowser: Attack (1), Terrorize (2)
+			-Peach: Attack (1)
+		-Big Troopa (xp)
+			-Mario: Jump (1), Attack (2)
+			-Mallow:  Shocker (2), Thunderbolt (3), Snowy (2), Attack (4)
+			-Geno: Attack (2), Geno Beam (2), Geno Blast (1)
+			-Bowser: Attack (1), Terrorize (2)
+			-Peach: Attack (1)
+		-Bluebird
+			-Mario: Jump (1), Attack (1)
+			-Mallow:  Shocker (3), Thunderbolt (9), Snowy (3), Attack (2)
+			-Geno: Attack (1), Geno Beam (6), Geno Blast (4)
+			-Bowser: Attack (1), Terrorize (40)
+			-Peach: Attack (1)
+		-Pinwheel
+			-Mario: Jump (1), Attack (1)
+			-Mallow:  Snowy (1), Shocker (2), Thunderbolt (4), Attack (2)
+			-Geno: Attack (1), Geno Beam (1), Geno Blast (1)
+			-Bowser: Attack (1), Terrorize (5)
+			-Peach: Attack (1)
+		-Muckle
+			-Mario: Jump (1), Attack (1)
+			-Mallow:  Snowy (2), Shocker (2), Thunderbolt (4), Attack (2)
+			-Geno: Attack (1), Geno Beam (3), Geno Blast (2)
+			-Bowser: Attack (1), Terrorize (7)
+			-Peach: Attack (2)
+		-Jawful
+			-Mario: Jump (1), Attack (3)
+			-Mallow:  Snowy (2), Shocker (2), Thunderbolt (3), Attack (7)
+			-Geno: Attack (3), Geno Beam (2), Geno Blast (2)
+			-Bowser: Attack (2), Terrorize (4)
+			-Peach: Attack (3)
+		-Shaman
+			-Mario: Jump (1), Attack (1)
+			-Mallow:  Attack (1), Snowy (2), Shocker (2), Thunderbolt (6)
+			-Geno: Attack (1), Geno Beam (4), Geno Blast (3)
+			-Bowser: Attack (1), Terrorize (30)
+			-Peach: Attack (1)
+		-Orbison
+			-Mario: Jump (1), Attack (1)
+			-Mallow: Thunderbolt (1), Attack (15), Snowy (1), Shocker (1)
+			-Geno: Attack (1), Geno Beam (1), Geno Blast (1)
+			-Bowser: Attack (1), Terrorize (2)
+			-Peach: Attack (1)
+		-Sling Shy
+			-Mario: Jump (1), Attack (1)
+			-Mallow: Thunderbolt (1), Attack (2), Snowy (1), Shocker (1)
+			-Geno: Attack (1), Geno Beam (1), Geno Blast (1)
+			-Bowser: Attack (1), Terrorize (2)
+			-Peach: Attack (1)
 	-1st Screen:
 		-Linear
 	-2nd Screen:
@@ -1391,32 +1446,7 @@ Nimbus Castle
 
 Enemies:
 
-Birdy - He's no different than he was in Bean Valley. Treat him the same way.
-Heavy Troopa - He's also unchanged from Bean Valley. Magic is still the best
-option if your character has it.
-Bluebird - They're the opposite of the Birdy enemies. Ice does nothing to them,
-and they have much better magic defense than physical defense. Everyone should
-simply smash them with physical attacks.
-Pinwheel - Magic tends to work well, but watch out for their thunder immunity.
-Their HP is very poor, and they are not strong. Make them a low priority.
-Muckle - Everyone except Mario should focus on them with physical attacks.
-Mario should continue to use his superb Jump. The Safety Ring totally nullifies
-them.
-Jawful - Magic is a good idea here as it does much more damage. They won't
-attack until you wake them up, and even then, they can be put back to sleep by
-Toadstool. Alas, Bowser cannot inflict them with fear.
-Shaman - Watch out! These are the powerhouses of Nimbus Land. Be really sure
-that you have the Safety Ring equipped before engaging them so only Diamond Saw
-can hurt you. Physical attacks are definitely the way to go against them, but
-Toadstool can think about opening her fights with Mute.
-Orbison - These guys are just plain tedious to fight. Mario gets a quick win
-with Jump, and Geno can put up a decent showing with Geno Beam. Bowser can use
-Terrorize to increase his damage output, but these guys are really resistant to
-physicals. Unless you are in the mood for a long and boring fight, Mallow and
-Toadstool should just run.
-Sling Shy - It's all about magic here, and that can include Bowser somewhat as
-inflicting fear on them makes them beyond useless. They do have a few status
-effects, but you protected yourself, right?
+
 
 If you didn't pick up on it, the Safety Ring is a great investment here. There
 are some ice immunities running around, and that really limits Mallow's ability
