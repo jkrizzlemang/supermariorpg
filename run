@@ -1284,125 +1284,419 @@ Grate Guy's Casino 2:
 	-Menu > Map > Mario's Pad if you need to heal
 	
 Bean Valley 2:
+	-COMBAT:
+		-Chomp Chomp
+			-Mario: Jump (1), Attack (3)
+			-Mallow:  Thunderbolt (1), Shocker (1), Snowy (1), Attack (3)
+			-Geno: Attack (1), Geno Beam (1)
+			-Bowser: Attack (2), Terrorize (3)
+			-Peach: Attack (2)
+		-Birdy (xp)
+			-Mario: Jump (1), Attack (3)
+			-Mallow:  Shocker (1), Thunderbolt (2), Snowy (1), Attack (2)
+			-Geno: Attack (1), Geno Beam (1)
+			-Bowser: Attack (1), Terrorize (3)
+			-Peach: Attack (2)
+		-Chewy
+			-Mario: Jump (1), Attack (1)
+			-Mallow:  Attack (1), Thunderbolt (2), Shocker (1), Snowy (1)
+			-Geno: Attack (1), Geno Beam (1)
+			-Bowser: Attack (1), Terrorize (4)
+			-Peach: Attack (1)
+		-Fink Flower
+			-Mario: Jump (1), Attack (1)
+			-Mallow:  Attack (2), , Shocker (3), Snowy (3), Thunderbolt (10)
+			-Geno: Attack (1), Geno Beam (5)
+			-Bowser: Attack (1), Terrorize (40)
+			-Peach: Attack (1)
+		-Big Troopa (xp)
+			-Mario: Jump (1), Attack (6)
+			-Mallow:  Shocker (2), Thunderbolt (3), Snowy (2), Attack (7)
+			-Geno: Attack (2), Geno Beam (2)
+			-Bowser: Attack (3), Terrorize (4)
+			-Peach: Attack (4)
+		-Octovader
+			-Mario: Jump (1), Attack (2)
+			-Mallow:  Attack (2), Snowy (2), Thunderbolt (7), Shocker (3)
+			-Geno: Attack (1), Geno Beam (2)
+			-Bowser: Attack (2), Terrorize (10)
+			-Peach: Attack (2)
+		-Stinger
+			-Mario: Jump (1), Attack (1)
+			-Mallow:  Attack (1), Thunderbolt (1), Shocker (1), Snowy (1)
+			-Geno: Attack (1), Geno Beam (1)
+			-Bowser: Attack (1), Terrorize (1)
+			-Peach: Attack (1)
 	-Menu > Map > Bean Valley
 	-Retrace your steps back to the save point and save.
-	-
+	-Exit to the North
+	-6th Screen:
+		-SMILAX
+			-Mario: Jump, Ultra Jump if you can hit 13+
+			-Mallow: Snowy
+			-Geno: Geno Boost Mario, then Attack
+			-Bowser: Attack
+			-Peach: Attack
+		-Interact with the note and take the seed
+		-Enter the pipe
+	-7th Screen
+		-Hit the block twice
+	-8th Screen
+		-Climb the vine and grab the Frog Coin
+	-9th Screen
+		-Grab the chest for a Flower
+		-Climb the left vine and jump at the top for a Frog Coin
+		-Climb up for another Frog Coin
+	-10th Screen
+		-Climb the middle vine, then the right vine and jump to the middle vine
+		-Climb to the top and jump to reveal a hidden platform
+		-Use the platform to jump to the left vine and climb up
+	-11th Screen
+		-Grab a chest with a Frog Coin and a chest with Defense Scarf
+		-Drop down the hole between the two chests
+	-12th Screen
+		-Grab both chests for 2 Flowers
+	-13th Screen
+		-Take the trampoline
+	-14th Screen
+		-Take the left trampoline
+
+Nimbus Land
+	-Go to the Item Shop and purchase Mega Glove, Sticky Glove, Hand Cannon, War Fan, Fluffy Shirt, Fluffy Pants (unless you have Super Suit), Fluffy Cape, and Fluffy Dress
+	-EQUIP
+		Mario: Mega Glove, Fluffy Shirt
+		Mallow: Sticky Glove, Fluffy Pants (unless you have Super Suit)
+		Geno: Hand Cannon, Fluffy Cape
+		Peach: War Fan, Fluffy Dress
+	-Jump on top of the boxes and jump on the North box for a hidden chest with a Frog Coin
+	-Menu > Map > Mario's Pad if you need to heal
+	-Enter the house North of the Item Shop and inspect the statue of Mallow
+	-Talk to Garro
+
+Nimbus Castle
 
 
-After that, exit to the northeast to see a bit of a
-scene and begin the fight. Be absolutely sure that you have your Safety Ring
-equipped for this one.
+Your first choice in here is whether to fight Dodo or not. You can win the very
+easy minigame and avoid the fight or just get hit and fight. The reward for
+winning the minigame is the useless Feather accessory. The fight itself is very
+easy with minimal rewards. Really, it doesn't matter a whole lot either way. I
+personally like to win the minigame since the Feather, while useless, is one of
+a kind. Again, it's all up to you. If you want to do the fight, having the
+Safety Ring equipped would be helpful but isn't really mandatory for non-
+Toadstool characters. If being muted ruins your strategy, just smashing Dodo
+with physical attacks will tend to produce positive results.
 
-Boss 15 - Smilax
+Optional Boss 6 - Dodo
 
-Mario strategy - The way Smilax is divided does him no favors; a fully powered
-Jump will OHKO the smaller Smilax monsters. That being said, start the fight
-with a barrage of Jumps until Megasmilax and Megasmilax alone is left. After
-that, you can focus on him with your choice of Jump, Super Jump, or Ultra Jump.
-Since you're only using specials, (Mega)Smilax never counterattacks and only
-has a chance to hit you once between your turns which gives you more than
-enough healing opportunities. The fact that so many of this boss's attacks, as
-well as his impressive array of status effects, are blocked by the Safety Ring
-just makes it easier. Don't expect a great deal of resistance as you flatten
-this boss.
+Mario strategy - Jump wins before Dodo can really do anything. He only has 800
+HP and has limited damage output potential.
 
-Mallow strategy - It's Snowy's time to shine! Both Smilax and Megasmilax are
-weak to ice, and the smaller Smilax monsters only have 200 HP. Start the fight
-with Snowy, and then use a physical to finish off the first Smilax bulb. Six
-Snowies later, you'll be in a one on one with Megasmilax. Snowy will do more
-than your physical, but it costs a lot of FP, and it's not a whole lot more.
-It's up to you how you will attack; do keep in mind that Megasmilax has a 1/3
-chance of countering your physical attack with a physical attack of his own.
-You will likely need to use some Maple Syrup, but the fight should be neither
-long nor difficult. It's just too bad that more bosses aren't multipart and
-weak to ice like this.
+Mallow strategy - Shocker fries Dodo quickly and easily. He might do somewhat
+decent damage with Multistrike, but you have HP Rain for that.
 
-Geno strategy - Open with Geno Boost, and then use two physical attacks to take
-out the small Smilax monster. When Shy Away creates two more, eliminate them
-with a pair of Geno Blasts. Another pair of Geno Blasts will eliminate the trio
-of Smilax, and then the real boss will appear. Again, two Geno Blasts will work
-to kill the smaller Smilax monsters, and then you'll be free to focus on
-Megasmilax with a barrage of physical attacks. The Safety Ring does indeed keep
-you very safe during this fight; you will probably only need to heal once
-during this fight. The only real threat is that all parts of this boss have a
-1/3 chance of countering physical attacks with their own physical attack. Don't
-be surprised when it happens.
+Geno strategy - Open with Geno Boost and then move in on Dodo with Geno Beam.
+He can counter your physicals with his own physicals, and why not keep it as
+simple as possible?
 
-Bowser strategy - Everything here is immune to fear, and you otherwise have no
-shortcuts to help you out. Just go all out with the physical attacks; it's all
-you can do. Once Megasmilax appears, take out his minions first. Be wary that
-any physical attack you use has a 1/3 chance of being countered by a physical
-attack. Bowser's physical defense serves you well in such a situation, but
-just be aware of it so you don't wait too long to heal. The Safety Ring does
-a fantastic job of negating most of the bad stuff that can happen to you in
-this fight; it's ultimately just a simple slugfest in which you have a massive
-advantage.
+Bowser strategy - Dodo can be inflicted with fear so open the fight with
+Terrorize. Dodo's 100 defense isn't bad, but his 800 HP is very poor for this
+stage of the game. Bowser's defenses render Dodo's attacking options inferior.
+Your Spiked Link should smash him nicely.
 
-Toadstool strategy - The use of an Energizer in this fight is optional; this
-fight isn't too tedious without it, but it's long enough so that you might want
-to use it. The Bracer is also optional, and that comes down to how confident
-you are with timed defense. Megasmilax can kill you in two hits with his
-physical, and he has a 1/3 chance of countering your physicals with his
-physical. That means that he could, hypothetically, kill you from full health
-before you get a turn unless you have a Bracer up. Of course, if you just use
-timed defense, you can endure. You have plenty of opportunities to attack from
-full health as Smilax likes to use spells that are totally blocked by the
-Safety Ring. You'll also note that everything here is weak to ice, but
-save any Ice Bombs for the last stage of the fight. Shortening the portion of
-the fight that involves Megasmilax is nice after all. Really, this fight isn't
-very hard. Both buffing items shorten the fight and make it easier, but you can
-fairly easily win without either of them. As is usual with Toadstool, it's a
-matter of spamming Therapy and slowly whittling down the enemy's HP with your
-weak physical for a long and boring fight that you are pretty much guaranteed
-to win eventually.
+Toadstool strategy - Unsurprisingly, she's again the only character who might
+have trouble with a fight. You really do need to have the Safety Ring equipped
+for this fight as getting muted is devastating. Dodo's 100 defense stat is a
+bit high for comfort, but at least you just got a new weapon. You'll probably
+want to use an Energizer to speed this up. Of course, Therapy is amazing
+protection; you will only die if you get careless. Also, I really wouldn't
+recommend wasting good attacking items on this fight, but Dodo is weak to fire.
+If you have a massive stock of Fire Bombs (they really aren't hard to harvest),
+they'll produce quite positive results.
 
-Now that Shy Away has told us that someone does not want us to go to Nimbus
-Land, the course of action is clear. We really have to go to Nimbus Land. After
-all, it's a rule in video games that you always must do something if you are
-told not to do it or otherwise informed that someone does not want you to do
-it.
+You can run to the next room, get the Feather if you decided to win the
+minigame, and then save. The room afterward removes your statue disguise if you
+still have it, and you have to deal with generic enemies from here on.
 
-You'll see a note drift down from the sky as well. Examining it reveals a
-"Seed". This is one of the two items needed to get the Lazy Shell weapon and
-armor. The Lazy Shell armor is easily the most broken item in the game and is
-banned with very good reason. The Lazy Shell weapon is Mario's ultimate weapon
-and is fair game in his challenge. If you're doing Mario's challenge, be sure
-to pick up the Seed. Otherwise, you really don't need it, though it sells for a
-lot, and the Lazy Shell items themselves could be sold for a lot. You might
-also just want completion. Whatever you do, head through the pipe, hit the
-block a few times, and climb into the clouds.
+Enemies:
 
-On the first screen, just climb up. Grab the 30 coins and frog coin if you want
-them. The second screen is more interesting. The easily accessible chest
-contains a very valuable Flower; be sure to snag it. Since we want to obtain
-the Rare Scarf, we're going to have to jump to the left vine that has the frog
-coin hovering near it. This is somewhat difficult. You will need to hold down
-and left and do a running jump off the middle plant. The timing is somewhat
-precise, but you can try until you succeed. After that, climb to the middle
-vine, jump to reveal a hidden yellow platform, and leap from that to reach the
-left vine so you can ascend another screen. Up here, you'll discover two
-chests. One has a frog coin, and the other has the precious Rare Scarf
-accessory. This useful thing boosts defense and magic defense by 15 each; it's
-a great accessory for Mallow and Toadstool when you don't need the Safety Ring.
+Birdy - He's no different than he was in Bean Valley. Treat him the same way.
+Heavy Troopa - He's also unchanged from Bean Valley. Magic is still the best
+option if your character has it.
+Bluebird - They're the opposite of the Birdy enemies. Ice does nothing to them,
+and they have much better magic defense than physical defense. Everyone should
+simply smash them with physical attacks.
+Pinwheel - Magic tends to work well, but watch out for their thunder immunity.
+Their HP is very poor, and they are not strong. Make them a low priority.
+Muckle - Everyone except Mario should focus on them with physical attacks.
+Mario should continue to use his superb Jump. The Safety Ring totally nullifies
+them.
+Jawful - Magic is a good idea here as it does much more damage. They won't
+attack until you wake them up, and even then, they can be put back to sleep by
+Toadstool. Alas, Bowser cannot inflict them with fear.
+Shaman - Watch out! These are the powerhouses of Nimbus Land. Be really sure
+that you have the Safety Ring equipped before engaging them so only Diamond Saw
+can hurt you. Physical attacks are definitely the way to go against them, but
+Toadstool can think about opening her fights with Mute.
+Orbison - These guys are just plain tedious to fight. Mario gets a quick win
+with Jump, and Geno can put up a decent showing with Geno Beam. Bowser can use
+Terrorize to increase his damage output, but these guys are really resistant to
+physicals. Unless you are in the mood for a long and boring fight, Mallow and
+Toadstool should just run.
+Sling Shy - It's all about magic here, and that can include Bowser somewhat as
+inflicting fear on them makes them beyond useless. They do have a few status
+effects, but you protected yourself, right?
 
-Jumping down through the hole between the chests will land you on a small
-platform with two chests, each containing Flowers. Aren't you glad that we're
-taking this route instead of the normal, easy one? Jumping down again will send
-you on a more continuous falling path until you're in a small room with two
-marshmallow men and a trampoline. Take the trampoline and then the normal
-trampoline (not the warp one) in the next room to arrive in Nimbus Land, the
-final town in the game. After a brief scene in which you discover the shocking
-coincidence that there's a lost prince of the cloud people named Mallow, you
-can explore the town. Hmm, yes, a lost prince of the cloud people named Mallow
-is definitely a coincidence. All those bird enemies don't mean anything, and
-this bird woman named Valentina who wanted to keep you out of Nimbus Land seems
-trustworthy when she says that the fat bird is Mallow. There's definitely not
-any rule of video games in which no shared names are coincidence.
+If you didn't pick up on it, the Safety Ring is a great investment here. There
+are some ice immunities running around, and that really limits Mallow's ability
+to use the Scrooge Ring + Snowy combination. Geno still does very well with the
+Scrooge Ring + Geno Blast combination. Also, even more than in most areas, you
+can really influence what you fight by what types of enemies you encounter. You
+will only fight Shaman if you attack a Shaman group. Birdy and Bluebird groups
+only contain that specific type of bird with a chance of a Heavy Troopa or two.
+The Pinwheel groups are by far the best to harvest experience as they only
+contain Pinwheel, Muckle, and Sling Shy. The Safety Ring reduces the threat of
+all three to nearly zero. Don't attack Sling Shy groups at all unless you are
+doing Mario's challenge; these are very likely to contain the frustrating
+Orbison.
 
+Also, look out for Yoshi Cookie opportunities here. This is probably the single
+best place in the game to harvest items with Yoshi Cookies. The enemies here
+disappear permanently after you finish the dungeon; do not miss this
+opportunity! Muckles yield Ice Bombs, and they are the only enemy which gives
+them up via a Yoshi Cookie. These will be very handy against the Czar Dragon so
+be sure to pick up a few if you are doing Toadstool's challenge. Jawful gives
+the extremely, extremely valuable Rock Candy item. This is your last chance to
+make sure that you have two Rock Candies for the Axem Rangers. Mallow and
+Toadstool are not getting past the Axem Rangers boss fight without these items;
+be absolutely sure you have two Rock Candies before leaving Nimbus Land. Even
+if you're doing someone else's challenge, you would be wise to take this chance
+to get some Rock Candies. Geno and Bowser will be finding them awesome against
+Jinx, among other uses. They're just an amazing item, and there's no reason not
+to take advantage of this. Anyone who uses FP can rejoice at the opportunity to
+harvest Royal Syrup from Shaman and Orbison. You've been able to get them from
+Shoguns in Land's End for a while, but these are much easier enemies to find in
+large groups.
+
+Birdy and Heavy Troopa will always be available to fight in Bean Valley. All
+other enemies here disappear permanently, excluding some cameos in the 6 Door
+Section of Bowser's Keep. In the excitement of all this, don't forget your
+level. Level 17 is our target for the Czar Dragon boss fight which is still
+decently far away. Hitting level 16 here would be a good idea, but it's not
+really mandatory.
+
+To start, you might want to find the exit. Heading southwest one screen leads
+to the entrance hall. Southwest again leads out, but the western door in the
+middle of the room leads down a hall toward a chest with a Flower. If, instead
+of heading southwest from the room in which you are "destatued", you head
+northwest, you'll end up in the upper part of the same room. The correct way
+to go is northeast; you'll go through some halls and end in a room with a
+convenient healing Mushroom. The room after that is the main hallway. The chest
+in the northwest corner contains another Flower, and the eastern door leads to
+a chest with another Flower. The western door leads to a narrow hall room that
+actually has two hidden chests in it. One of them is in the void, and you must
+run into the wall in front of where the Jawful is stabbing at it. The other is
+just right next to the Jawful on more solid ground. These chests contain frog
+coins which are always nice to have.
+
+The room beyond this has some NPCs with which you can speak. Doing so and
+generally giving positive responses nets you a Castle Key and a Flower Jar.
+Head back to the main hall and unlock the door behind the Heavy Troopa to enter
+a room with a giant egg. Predictably, this leads to a boss fight. If you have
+the Jinx Belt, be sure to equip it. Otherwise, go with the Rare Scarf. If you
+are willing to take a statistical hit in the interest of cheapness, the Ghost
+Medal could be used.
+
+Boss 16 - Birdo
+
+Mario strategy - Open the fight with a barrage of physicals to defeat Shelley,
+and then set in with your choice of Jump, Super Jump, or Ultra Jump on Birdo.
+Birdo does not have much HP so this should go fairly quickly and easily. Birdo
+could hurt you very, very badly, but he likely won't live long enough to do it.
+If you are having trouble, using a Bracer before you defeat Shelley fully
+trivializes this fight.
+
+Mallow strategy - Start the fight with a Bracer for sure, and using an
+Energizer on top of that (or just using a Yoshi-Ade in the first place) would
+be wise. Birdo is surprisingly strong. Afterward, conserve your FP by taking
+out Shelley with physicals. When Birdo arrives, blast it with Shocker over and
+over again. You will likely need to heal with HP Rain quite a bit, and you'll
+quite possibly run out of FP before it ends and have to use a Syrup. However,
+if you just keep at it, you should prevail.
+
+Geno strategy - As always, open the fight with Geno Boost. Next you have to
+destroy Shelley. Since it doesn't fight back at all, just use your basic
+physical attacks until it falls. Once Birdo reveals itself, you should continue
+with the same plan. Basic physical attacks do more damage and will take it down
+eventually. Birdo is pretty powerful so you'll likely need to do some healing
+before this is over. However, Birdo's very low 777 HP makes this easier than it
+might be otherwise.
+
+Bowser strategy - Like so many other bosses, Birdo is immune to fear. Open the
+fight with a Bracer as you can't afford to take totally undefended hits from
+Birdo at any point. However, after you've hit Birdo three times, he'll start
+using his "strong" egg attack. If you are under the effects of the "Defend"
+command, these will bounce off you and become Eggberts. Attack the Eggberts to
+do 80 damage to Birdo. Yes, this is a rather slow fight, and Birdo can hurt you 
+very badly. If you managed to get the Jinx Belt earlier, though I doubt you
+did, this will be much easier. You also could use an Energizer to allow your
+physical attacks to become more efficient than the Eggberts which really lets
+you beat Birdo a lot faster and consume fewer Max Mushrooms. You certainly
+don't have to, but it would be a really good idea. You do have that time with
+Shelley in which you can do anything with no penalty after all.
+
+Toadstool strategy - Start things off with a Bracer, and then hack away at
+Shelly with physicals. You have no hope of defeating Birdo with your basic
+physical attacks even when under the effects of an Energizer. You can either
+use Ice Bombs and Rock Candies to take him down or use the special gimmick in
+this fight. If you have attacked Birdo three times, he'll start to use his
+one egg shot. If you used the defend command on the turn before, being hit by
+this will generate an Eggbert. Attacking the Eggbert will cause it to detonate
+on Birdo for 80 damage. Birdo has 777 HP so you'll have to detonate 10 Eggbert
+on it. Therapy will be pivotal in surviving long enough to do this.
+
+Okay, unless you were using Mario, that was a good deal harder than you likely
+expected. However, we still have a good deal of dungeon left. Snag the Castle
+Key 2 and unlock the next door. Hop onto the hopefully already opened chest in
+this room and jump to find a hidden chest containing a frog coin. Rush ahead
+past the door with the Heavy Troopa to see a lovely scene with Valentina. Hmm,
+yes, after all she's done, she has good reason to call someone else rude. Once
+she flees, proceed through the door in the back.
+
+Save in here and then go to the next room. In here, avoid the enemies and jump
+under the chest that seems out of reach. A platform will appear, and you can
+loot the chest for a valuable Star. Use it to defeat all the enemies in this
+room and the next room, including Dodo. Continuing past that room leads to the
+end of the dungeon.
+
+You'll end up back at the area you fell to after getting the Rare Scarf. Now,
+do not return to Nimbus Land. That will trigger the next boss fight. Instead,
+go, save, and heal. The next boss fight is the Valentina fight which is the
+second exception to the rules. Equip your main character with the Safety Ring
+and place him in the third slot in your party (Mario obviously doesn't move).
+Place Bowser in the second slot and equip him with the Spiked Link, Work Pants,
+and Safety Badge. If you don't have the Safety Badge, use the Wake Up Pin
+instead. If you are doing Bowser's challenge, use Geno instead. If you forgot
+to buy equipment for Geno in Nimbus Land, you can pick some up in Seaside Town,
+but it won't be as good. If you need to restock on Max Mushrooms after the
+Birdo fight, be sure to do so. Valentina's defense stats are poor, but she has
+2000 HP so she can take quite the beating. Once you are totally ready, head
+back to Nimbus Land.
+
+Boss 17 - Valentina
+
+Pre-battle - It's a 1v1, Dodo versus Bowser (maybe Geno). Dodo can be inflicted
+with fear so keeping him in that status would be a good idea and would also
+make this even easier. Geno obviously can't do that. Also, don't use Geno
+Boost with Geno. That would affect the later stages of the fight, and since
+it's not Geno's challenge, that's cheating. Either way, simple physicals wear
+away Dodo's health quickly, and you will likely not need to heal at all.
+
+Mario strategy - Open the fight with a Bracer and then begin your typical
+Jump attack plan against Valentina. A level 16 Mario who has followed the
+rotation and fully maxed Jump will only take 10 hits to bring her down. On that
+note, just ignore Dodo and Bowser when they come back; they aren't really worth
+worrying about. Valentina can inflict decent damage on you, but like most other
+bosses, she doesn't survive long enough to be a really big threat.
+
+Mallow strategy - Open the fight with a Bracer and then move in on Valentina
+with physical attacks. Mallow's high magic defense really shines through in
+this fight as not even Valentina's most powerful spells are very dangerous as
+long as you have that Bracer up. Once you've knocked off 800 of Valentina's HP,
+Dodo and Bowser will return. Neither has much impact on the fight so just
+continue assaulting Valentina with your physical. This is an astoundingly easy
+boss fight as long as you show even minor amounts of caution when it comes to
+healing. HP Rain is nearly infinite here since you aren't using other spells;
+if in doubt, heal!
+
+Geno strategy - Open with Geno Boost and then focus on Valentina with
+physicals. Valentina has some quite potent magic, and the Safety Ring blocks
+only some of it. You'll likely need to do a fair amount of healing in this
+fight. Once you've done over 800 damage to Valentina, Dodo and Bowser will
+return. Leave Bowser to die and ignore Dodo; you can take out Valentina much
+more quickly than Dodo. This fight is more dangerous with Dodo around since a
+Valentina spell + Dodo Multistrike combo is very painful. However, Valentina is
+a foe of limited durability; you should be alright.
+
+Bowser strategy - Open the fight with a Yoshi-Ade. You really don't need the
+Energizer half of it and could get away with just the Bracer, but this way
+helps you conserve Max Mushrooms. After that, go all out with physicals on
+Valentina. Even when Dodo and Geno return, just continue attacking Valentina.
+She doesn't last all that long since her high HP is more than negated by her
+poor defense. With the Bracer effect, Bowser takes her magical assault
+surprisingly well.
+
+Toadstool strategy - Open the fight with a Bracer. You don't need an Energizer
+here, but it does speed it up substantially. I'll leave the issue to your
+discretion. Valentina's defense is quite poor, but her HP is high. She is quite
+random with her damage output. She has a few spells that are negated by your
+Safety Ring, but her others are very powerful, especially Diamond Saw. Once
+you've knocked off 800 HP, Dodo and Bowser return. Bowser must be left to die
+and isn't much help, but Dodo is quite the pain. Multistrike can really hurt
+after all. Luckily, you have nearly limitless healing thanks to Therapy, and
+you can afford to wait to attack until you've had a good round in which little
+bad has happened to you. Valentina's FP isn't infinite either. If you're having
+trouble with this fight, just constantly heal until she's out of FP. Overall,
+it's not really a hard fight, but it is somewhat long and has the easy
+potential for careless mistakes.
+
+Okay, after some touching scenes, you find yourself in the throne room of
+Nimbus Castle. Personally, I would have asked for Geno's autograph, but what do
+I know? Anyway, exit the throne room via the back door and return to the chest
+that used to contain a Star. Now it contains a Flower which will doubtlessly be
+handy for you. This also will be our last FP check as this Flower was the one
+that gave me 99 FP on my test run. Having maxed out FP is a great asset so if
+you aren't there, I hope you're close! I'll continue to point out Flower
+locations to help out those who are lagging.
+
+Return to the throne room and exit it via the normal door. Make your way to the
+room in which Mallow's parents were trapped while Valentina was in charge (also
+known as the only room you didn't enter during your first trip here) and speak
+with the NPCs in here to get a Flower Jar. Return to the main hall and go to
+the spot where there used to be a chest with a Flower in it. The chest is gone,
+but if you jump on that spot, you'll uncover a hidden chest with a frog coin.
+There's only one more hidden chest left if you've been following this guide,
+and it's in the final dungeon. That concludes business in the castle so head
+back to the main body of Nimbus Land.
+
+You can meet up with Croco in the northeastern house here. After discussing the
+finer points of philosophy, he takes off, but he leaves his Signal Ring behind.
+This is a pretty pointless accessory if you've been following this guide
+perfectly, but if you're missing some hidden chests, it will help you find
+them. Also, while outside in Nimbus Land, run along the eastern boundary of the
+city and push against the invisible wall. You should find a place which allows
+you to run out onto thin air, and you can speak with Shy Away here. He is
+quite intimidated by your impressive battle prowess and gives you the
+Fertilizer in exchange for his safety. This is the other item Mario needs to
+get his ultimate weapon. There's nothing stopping you from getting it right now
+actually so let's hop to it!
+
+Return to Rose Town and head to the northeastern boundary of the city. You
+should discover that there's a new exit here which leads to a lone house. Hmm,
+it's funny how this wasn't here before. Anyway, inside, speak with the
+gardener and agree to give up the Seed and Fertilizer. A vine will grow, and
+you can climb it up into the clouds to get the Lazy Shell weapon and armor. The
+weapon is a great treasure for Mario players; it's his ultimate weapon! The
+armor is a banned item; don't even think about using it.
+
+Now would be a good time to return to Jinx. Level 16 has an easier time with
+him than level 14, and everyone except Bowser got an equipment upgrade since
+then. Everyone should be able to beat Jinx 2 now, and Mario will have a fairly
+easy time with Final Jinx. Geno and Bowser can both beat Final Jinx now as
+well, and I'd heavily suggest that you obtain the Jinx Belt now if you're using
+those two characters. It will be helpful in the next dungeon. Let me repeat
+that. Get the Jinx Belt if you are doing Geno or Bowser's challenge. It will be
+helpful in the next dungeon. I'm not sure that I want to go as far as to say
+that it's mandatory, but you are on your own if you are thinking of taking on
+the Axem Rangers without it. As per Mallow and Toadstool, they will need to
+wait to challenge Jinx.
+
+Once you are fully prepared and well stocked on all the items you might need,
+head back to Nimbus Land to the area you fell to out of Nimbus Castle. Speak
+to the guards to access the hot springs. Walk through the exit to fall into the
+next dungeon.
 
 	
 	Nimbus Land
-		Go up alt vines for chests
 		Get all chests in castle
 
 		Shop: Buy Mid Mush, Maple, Pick Me Up, Able Juice
