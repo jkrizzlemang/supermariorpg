@@ -1185,48 +1185,13 @@ Mushroom Way 2:
 Bean Valley 2:
 	-Mario 15, Mallow 15, Geno 14, Bowser 14, Peach 18
 	-COMBAT:
-		-Chomp Chomp
-			-Mario: Jump (1), Attack (3)
-			-Mallow:  Thunderbolt (1), Shocker (1), Snowy (1), Attack (3)
-			-Geno: Attack (1), Geno Beam (1)
-			-Bowser: Attack (2), Terrorize (3)
-			-Peach: Attack (2)
-		-Birdy (xp)
-			-Mario: Jump (1), Attack (3)
-			-Mallow:  Shocker (1), Thunderbolt (2), Snowy (1), Attack (2)
-			-Geno: Attack (1), Geno Beam (1)
-			-Bowser: Attack (1), Terrorize (3)
-			-Peach: Attack (2)
-		-Chewy
-			-Mario: Jump (1), Attack (1)
-			-Mallow:  Attack (1), Thunderbolt (2), Shocker (1), Snowy (1)
-			-Geno: Attack (1), Geno Beam (1)
-			-Bowser: Attack (1), Terrorize (4)
-			-Peach: Attack (1)
-		-Fink Flower
-			-Mario: Jump (1), Attack (1)
-			-Mallow:  Attack (2), , Shocker (3), Snowy (3), Thunderbolt (10)
-			-Geno: Attack (1), Geno Beam (5)
-			-Bowser: Attack (1), Terrorize (40)
-			-Peach: Attack (1)
-		-Heavy Troopa (xp)
-			-Mario: Jump (1), Attack (6)
-			-Mallow:  Shocker (2), Thunderbolt (3), Snowy (2), Attack (7)
-			-Geno: Attack (2), Geno Beam (2)
-			-Bowser: Attack (3), Terrorize (4)
-			-Peach: Attack (4)
-		-Octovader
-			-Mario: Jump (1), Attack (2)
-			-Mallow:  Attack (2), Snowy (2), Thunderbolt (7), Shocker (3)
-			-Geno: Attack (1), Geno Beam (2)
-			-Bowser: Attack (2), Terrorize (10)
-			-Peach: Attack (2)
-		-Stinger
-			-Mario: Jump (1), Attack (1)
-			-Mallow:  Attack (1), Thunderbolt (1), Shocker (1), Snowy (1)
-			-Geno: Attack (1), Geno Beam (1)
-			-Bowser: Attack (1), Terrorize (1)
-			-Peach: Attack (1)
+		-For XP you can farm Birdy and Big Troopa
+		-Note that we've long passed the point of caring about FP (you should be capped at 99 soon if the Flower items have been getting used).  So we're just going to use our strongest moves going forward for the rest of the game:
+		-Mario: Jump
+		-Mallow: Attack on Fink Flower, Shocker on single target, Snowy on AOE
+		-Geno: Attack
+		-Bowser: Attack
+		-Peach: Attack
 	-1st Screen:
 		-Enter right pipe
 	-2nd Screen:
@@ -1265,28 +1230,21 @@ Bean Valley 2:
 				-Jump in the North corner under the stairs for a Frog Coin.
 				-Jump in the Southeast corner that doesn't have the stairs for a hidden chest with Red Essence
 				-Climb the stairs and jump on the platform for a chest with a Frog Coin
-			-North Pipe
+			-North Pipe (optional for 100%)
 				-Defeat the Chomp Chomp
 				-Jump in the West corner near the Chomp Chomp three times for a hidden platform
 				-Take the hidden exit back to the world map to unlock Grate Guy's Casino
 				-On the world Map, go to Grate Guy's Casino
-
-Grate Guy's Casino
-	-Menu > Map > Booster Tower > Top of Tower
-
-Booster Tower 2:
-	-Backtrack through the linear screens until you run into Knife Guy juggling on the stairs
-	-Talk to him and play his minigame.  The only advice I can give is to actually try and follow the yellow ball with your eyes and you'll get the cadence of which hand it's in.  You need to win this 12 TIMES IN A ROW to get the Bright Card
-
-Grate Guy's Casino 2:
-	-Enter the house and talk to Grate Guy
-	-You need to win his simple game 100 times to get the Star Egg
+				-Menu > Map > Booster Tower > Top of Tower
+				-Backtrack through the linear screens until you run into Knife Guy juggling on the stairs
+				-Talk to him and play his minigame.  The only advice I can give is to actually try and follow the yellow ball with your eyes and you'll get the cadence of which hand it's in.  You need to win this 12 TIMES IN A ROW to get the Bright Card
+				-Enter the house and talk to Grate Guy
+				-You need to win his simple game 100 times to get the Star Egg
 	-Menu > Map > Mario's Pad if you need to heal
 	
-Bean Valley 2:
+Bean Valley 3:
 	-COMBAT:
 		-For XP you can farm Birdy and Big Troopa
-		-Note that we've long passed the point of caring about FP (you should be capped at 99 soon if the Flower items have been getting used).  So we're just going to use our strongest moves going forward for the rest of the game:
 		-Mario: Jump
 		-Mallow: Attack on Fink Flower, Shocker on single target, Snowy on AOE
 		-Geno: Attack
