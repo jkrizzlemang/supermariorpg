@@ -1539,40 +1539,59 @@ Nimbus Land 2:
 	-When you land, talk to the NPCs
 	-Hop into the hot spring to full heal then leave to the Southeast
 
-
-
-Okay, this place is intense. The enemies are strong, and it ends with two very
-strong bosses. The good news is that near the end there's a shop that sells the
-excellent fire armor as well as an inn. You don't have to worry about keeping
-in good health for the bosses.
-
-Enemies:
-
-Magmus - Magic is the best way to deal with him. Do watch out as he's immune to
-jump and all status effects so Mario, Bowser, and Toadstool do have to stick to
-boring physical plans.
-Armored Ant - Don't leave him for last or else he'll use Vigor Up!. Magic is
-the way to go with him, and that includes a nice Terrorize from Bowser. Fear
-not only weakens him and hits his low magic defense, but it can negate Vigor
-Up!.
-Oerlikon - He's very similar to Magmus. He's immune to jump and status, but
-he has poor magic defense.
-Chained Kong - Mario can use his magic, but everyone else should stick to the
-physicals here. His magic defense is worse and he is status weak so including
-him in a group Snowy, Geno Blast, or Terrorize isn't a bad idea.
-Vomer - It's just Dry Bones version two. Use any magic to quickly and easily
-destroy him.
-Pyrosphere - Mario and Mallow should definitely use magic to take him down.
-Geno, Bowser, and Toadstool should stick to physicals, but he is weak so
-catching him as a part of a group with Geno Blast isn't a bad idea.
-Stumpet - Hit him hard and fast with magic. Sadly, he is immune to fear and
-sleep so Bowser and Toadstool are very likely to see his powerful attacks that
-he uses every other turn.
-Corkpedite - Kill the Body and ignore it. Sand Storm is quite nasty as always.
-Body - It has a magic defense stat of one. Even Bowser should join in the magic
-assault with Crusher. However, if you have instant death protection equipped,
-it can't hurt you so you don't have to worry about ignoring it. Toadstool
-should flee from these battles if she doesn't have instant death protection.
+Barrel Volcano:
+	-Mario 17, Mallow 17, Geno 17, Bowser 19, Peach 19
+	-COMBAT
+		-Magmus
+			-Mario: Attack
+			-Mallow: Special
+			-Geno: Any
+			-Bowser: Any
+			-Peach: Attack
+		-Armored Ant
+			-Mario: Jump
+			-Mallow: Shocker/Snowy
+			-Geno: Attack/Geno Flash
+			-Bowser: Attack
+			-Peach: Attack
+		-Oerlikon
+			-Mario: Jump/Attack
+			-Mallow: Special
+			-Geno: Any
+			-Bowser: Attack
+			-Peach: Attack/Psych Bomb
+		-Chained Kong
+			-Mario: Jump/Attack
+			-Mallow: Shocker/Snowy
+			-Geno: Any
+			-Bowser: Attack
+			-Peach: Attack/Psych Bomb
+		-Vomer
+			-Any special to instakill (just like Dry Bones)
+		-Pyrosphere
+			-Mario: Jump/Attack
+			-Mallow: Any
+			-Geno: Attack/Geno Flash
+			-Bowser: Attack
+			-Peach: Attack/Psych Bomb
+		-Stumpet
+			-Mario: Jump
+			-Mallow: Shocker/Snowy
+			-Geno: Any
+			-Bowser: Attack
+			-Peach: Attack
+		-Corkpedite
+			-Mario: Jump
+			-Mallow: Shocker/Snowy
+			-Geno: Any
+			-Bowser: Attack
+			-Peach: Attack/Psych Bomb
+		-Corkpedite Body
+			-Mario: Jump
+			-Mallow: Special
+			-Geno: Any
+			-Bowser: Attack
+			-Peach: Attack/Psych Bomb
 
 You will want to reach level 17 by the end of this dungeon. In terms of
 accessories, there are a lot of choices. Almost everything here is weak to ice
