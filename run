@@ -1493,37 +1493,19 @@ World Map
 	-Menu > Map > Nimbus Land
 
 Nimbus Land 2:
-	-Mario 18, Mallow 18, Geno 18, Peach 20, Bowser 21
 	-Go speak with Mallow's parents
-	-
+	-Menu > Map > Nimbus Land
+	-Exit Northwest
+	-Talk to the NPC
 
-Dungeon 19 - Bowser's Keep
-
-Bowser is so satisfied right now. He joined your party on the vague notion that
-he would eventually get his keep back if he worked with you, and it seems like
-it's paying off. Of course, if you're doing his challenge, you should note that
-the only thing you gained from being a member of this party is the ability to
-take the bus home. Anyway, there are enemies here, and they understandably all
-fear Bowser.
-
-Enemies:
-
-Gu Goomba - A nice, quick physical attack will destroy him. They flee from
-Bowser so watch out for that.
-Terra Cotta - Magic destroys them quickly and easily, but they won't last long
-to physical attacks either. These guys also flee from Bowser.
-Malakoopa - Physicals or magic are both fairly viable in quickly destroying
-this. Do note that it's weak to thunder, and it also flees from Bowser.
-Tub-O-Troopa - Remember the Heavy Troopa from Nimbus Land? This is basically
-the same thing. Do note that it's weak to thunder. Use magic if your character
-is that sort of character; use physicals otherwise.
-Forkies - Since they won't move until they're attacked, deal with them last.
-Physicals are the way to go when fighting them.
-Star Cruster - Magic is the way to go here, but watch out for his unusual
-elemental properties. He's immune to jump and weak to ice. He also counters
-physical attacks with Light Ball which will put you to sleep so watch out for
-that. Mario can use Super Flame to help bypass this. Bowser's bypass is
-Crusher.
+Bowser's Keep:
+	-Mario 18, Mallow 18, Geno 18, Peach 20, Bowser 21
+	-COMBAT
+		-Mario: Attack Star Cruster and Gu Goomba, otherwise Jump
+		-Mallow: Attack Forkies and Gu Goomba, Shocker single target, Snowy AOE
+		-Geno: Attack
+		-Bowser: Attack
+		-Peach: Psych Bomb Star Cruster, otherwise Attack
 
 Mallow and Geno can clean up here with the Scrooge Ring. The first three
 enemies on that list are very weak, and none of the latter enemies are very
