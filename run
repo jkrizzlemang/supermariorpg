@@ -1285,48 +1285,13 @@ Grate Guy's Casino 2:
 	
 Bean Valley 2:
 	-COMBAT:
-		-Chomp Chomp
-			-Mario: Jump (1), Attack (3)
-			-Mallow:  Thunderbolt (1), Shocker (1), Snowy (1), Attack (3)
-			-Geno: Attack (1), Geno Beam (1)
-			-Bowser: Attack (2), Terrorize (3)
-			-Peach: Attack (2)
-		-Birdy (xp)
-			-Mario: Jump (1), Attack (3)
-			-Mallow:  Shocker (1), Thunderbolt (2), Snowy (1), Attack (2)
-			-Geno: Attack (1), Geno Beam (1)
-			-Bowser: Attack (1), Terrorize (3)
-			-Peach: Attack (2)
-		-Chewy
-			-Mario: Jump (1), Attack (1)
-			-Mallow:  Attack (1), Thunderbolt (2), Shocker (1), Snowy (1)
-			-Geno: Attack (1), Geno Beam (1)
-			-Bowser: Attack (1), Terrorize (4)
-			-Peach: Attack (1)
-		-Fink Flower
-			-Mario: Jump (1), Attack (1)
-			-Mallow:  Attack (2), , Shocker (3), Snowy (3), Thunderbolt (10)
-			-Geno: Attack (1), Geno Beam (5)
-			-Bowser: Attack (1), Terrorize (40)
-			-Peach: Attack (1)
-		-Big Troopa (xp)
-			-Mario: Jump (1), Attack (6)
-			-Mallow:  Shocker (2), Thunderbolt (3), Snowy (2), Attack (7)
-			-Geno: Attack (2), Geno Beam (2)
-			-Bowser: Attack (3), Terrorize (4)
-			-Peach: Attack (4)
-		-Octovader
-			-Mario: Jump (1), Attack (2)
-			-Mallow:  Attack (2), Snowy (2), Thunderbolt (7), Shocker (3)
-			-Geno: Attack (1), Geno Beam (2)
-			-Bowser: Attack (2), Terrorize (10)
-			-Peach: Attack (2)
-		-Stinger
-			-Mario: Jump (1), Attack (1)
-			-Mallow:  Attack (1), Thunderbolt (1), Shocker (1), Snowy (1)
-			-Geno: Attack (1), Geno Beam (1)
-			-Bowser: Attack (1), Terrorize (1)
-			-Peach: Attack (1)
+		-For XP you can farm Birdy and Big Troopa
+		-Note that we've long passed the point of caring about FP (you should be capped at 99 soon if the Flower items have been getting used).  So we're just going to use our strongest moves going forward for the rest of the game:
+		-Mario: Jump
+		-Mallow: Attack on Fink Flower, Shocker on single target, Snowy on AOE
+		-Geno: Attack
+		-Bowser: Attack
+		-Peach: Attack
 	-Menu > Map > Bean Valley
 	-Retrace your steps back to the save point and save.
 	-Exit to the North
@@ -1376,60 +1341,12 @@ Nimbus Land
 Nimbus Castle
 	-Mario 16, Mallow 16, Geno 16, Bowser 17, Peach 18
 	-COMBAT
-		-Birdy (xp)
-			-Mario: Jump (1), Attack (1)
-			-Mallow:  Shocker (1), Thunderbolt (2), Snowy (1), Attack (2)
-			-Geno: Attack (1), Geno Beam (1), Geno Blast (1)
-			-Bowser: Attack (1), Terrorize (2)
-			-Peach: Attack (1)
-		-Big Troopa (xp)
-			-Mario: Jump (1), Attack (2)
-			-Mallow:  Shocker (2), Thunderbolt (3), Snowy (2), Attack (4)
-			-Geno: Attack (2), Geno Beam (2), Geno Blast (1)
-			-Bowser: Attack (1), Terrorize (2)
-			-Peach: Attack (1)
-		-Bluebird
-			-Mario: Jump (1), Attack (1)
-			-Mallow:  Shocker (3), Thunderbolt (9), Snowy (3), Attack (2)
-			-Geno: Attack (1), Geno Beam (6), Geno Blast (4)
-			-Bowser: Attack (1), Terrorize (40)
-			-Peach: Attack (1)
-		-Pinwheel (xp)
-			-Mario: Jump (1), Attack (1)
-			-Mallow:  Snowy (1), Shocker (2), Thunderbolt (4), Attack (2)
-			-Geno: Attack (1), Geno Beam (1), Geno Blast (1)
-			-Bowser: Attack (1), Terrorize (5)
-			-Peach: Attack (1)
-		-Muckle (xp)
-			-Mario: Jump (1), Attack (1)
-			-Mallow:  Snowy (2), Shocker (2), Thunderbolt (4), Attack (2)
-			-Geno: Attack (1), Geno Beam (3), Geno Blast (2)
-			-Bowser: Attack (1), Terrorize (7)
-			-Peach: Attack (2)
-		-Jawful
-			-Mario: Jump (1), Attack (3)
-			-Mallow:  Snowy (2), Shocker (2), Thunderbolt (3), Attack (7)
-			-Geno: Attack (3), Geno Beam (2), Geno Blast (2)
-			-Bowser: Attack (2), Terrorize (4)
-			-Peach: Attack (3)
-		-Shaman
-			-Mario: Jump (1), Attack (1)
-			-Mallow:  Attack (1), Snowy (2), Shocker (2), Thunderbolt (6)
-			-Geno: Attack (1), Geno Beam (4), Geno Blast (3)
-			-Bowser: Attack (1), Terrorize (30)
-			-Peach: Attack (1)
-		-Orbison
-			-Mario: Jump (1), Attack (1)
-			-Mallow: Thunderbolt (1), Attack (15), Snowy (1), Shocker (1)
-			-Geno: Attack (1), Geno Beam (1), Geno Blast (1)
-			-Bowser: Attack (1), Terrorize (2)
-			-Peach: Attack (1)
-		-Sling Shy (xp)
-			-Mario: Jump (1), Attack (1)
-			-Mallow: Thunderbolt (1), Attack (2), Snowy (1), Shocker (1)
-			-Geno: Attack (1), Geno Beam (1), Geno Blast (1)
-			-Bowser: Attack (1), Terrorize (2)
-			-Peach: Attack (1)
+		-For XP you can farm Birdy, Big Troopa, Pinwheel, Sling Shy and Muckle
+		-Mario: Jump
+		-Mallow: Attack on Shaman, Thunderbolt on Orbison and Sling Shy, Shocker on single target, Snowy on AOE
+		-Geno: Attack on single target, Geno Blast on AOE
+		-Bowser: Attack
+		-Peach: Attack on single target, Psych Bomb on AOE (though probably not worth the FP)	
 	-1st Screen:
 		-Linear
 	-2nd Screen:
@@ -1544,7 +1461,6 @@ Nimbus Land 2:
 Barrel Volcano:
 	-Mario 17, Mallow 17, Geno 17, Bowser 19, Peach 19
 	-COMBAT
-		-Note that we've long passed the point of caring about FP (you should be capped at 99 if the Flower items have been getting used).  So we're just going to use our strongest moves going forward, which makes this section easier:
 		-Mario: Attack on Magmus, Jump on everyone else
 		-Mallow: Shocker on single target, Snowy on AOE
 		-Geno: Geno Beam/Geno Flash on Vomer, Attack on Single Target, Geno Flash on AOE
