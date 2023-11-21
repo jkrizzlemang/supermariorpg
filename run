@@ -38,9 +38,7 @@ Mario's Pad 2:
 
 Mushroom Way:
 	-COMBAT:
-		-Goomba - untimed attack (1S)
-		-Sky Troopa - untimed Jump (1S) / timed Attack (1S) at level 2
-		-Spikey - avoid, otherwise Attack (2S)
+		-Jump/Attack at Level 2 on Sky Troopa, otherwise Attack
 	-1st screen:
 		-Fight everything, only using Jump on the Sky Troopas, grab both chests and save toad
 	-2nd screen:
@@ -55,7 +53,7 @@ Mushroom Way:
 	-3rd screen:
 		-Rush to end.  Avoid all the Spikey's.  If you fight before the boss, don't use any FP.
 		-HAMMER BROS:
-			-Timed Jump x3
+			-Jump x3
                         -If you miss the first timed Jump, Jump on the other Bro afterwards
 
 Mushroom Kingdom: 
@@ -73,12 +71,8 @@ Mushroom Kingdom:
 
 Bandit's Way:
 	-COMBAT:
-		-K-9 - Avoid, otherwise Jump/Attack
-		-Spikey - Jump/Attack
-		-Goomba - untimed Attack (1S)
-		-Sky Troopa - untimed Jump (1S) / Attack
-		-Frogog - Jump/Attack
-		
+		-Mario: Untimed Attack Goomba, otherwise Jump
+		-Mallow: Attack		
 	-Note: Head back to Mario's Pad to heal/restore FP if you need to
 	-1st Screen:
 		-Take South path and save
@@ -104,7 +98,8 @@ Bandit's Way:
 
 Mushroom Kingdom 2:
 	-COMBAT:
-		-Shyster - untimed Jump (1S) / Thunderbolt (1S at ?)
+		-Mario: Untimed Jump
+		-Mallow: Defend, otherwise Thunderbolt on AOE
         -Note that all combat here should be done having Mario use untimed Jump and Mallow defending.
 	-Note to follow this item priority:
 		-If you are out of FP for Jump and you have 2 FP left, use a Honey Syrup.  Otherwise, refill it with a Flower Jar first, then Flower Tabs.
@@ -136,13 +131,8 @@ Mushroom Kingdom 2:
 
 Kero Sewers:
 	-COMBAT:
-		-Mallow Thunderbolts when it makes sense FP-wise, otherwise:
-		-Rat Funk - Jump/Attack
-		-Boo - Jump/Attack
-		-Shadow - Jump
-		-Hobgoblin - Jump
-		-Cheep Cheep - Attack
-
+		-Mario: Jump
+		-Mallow: Attack single target, Thunderbolt AOE
 	-1st Screen:
 		-Follow Mallow into the pipe
 	-2nd Screen:
