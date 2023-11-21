@@ -1544,56 +1544,12 @@ Nimbus Land 2:
 Barrel Volcano:
 	-Mario 17, Mallow 17, Geno 17, Bowser 19, Peach 19
 	-COMBAT
-		-Magmus
-			-Mario: Attack
-			-Mallow: Special
-			-Geno: Any
-			-Bowser: Any
-			-Peach: Attack
-		-Armored Ant
-			-Mario: Jump
-			-Mallow: Shocker/Snowy
-			-Geno: Attack/Geno Flash
-			-Bowser: Attack
-			-Peach: Attack
-		-Oerlikon
-			-Mario: Jump/Attack
-			-Mallow: Special
-			-Geno: Any
-			-Bowser: Attack
-			-Peach: Attack/Psych Bomb
-		-Chained Kong
-			-Mario: Jump/Attack
-			-Mallow: Shocker/Snowy
-			-Geno: Any
-			-Bowser: Attack
-			-Peach: Attack/Psych Bomb
-		-Vomer
-			-Any special to instakill (just like Dry Bones)
-		-Pyrosphere
-			-Mario: Jump/Attack
-			-Mallow: Any
-			-Geno: Attack/Geno Flash
-			-Bowser: Attack
-			-Peach: Attack/Psych Bomb
-		-Stumpet
-			-Mario: Jump
-			-Mallow: Shocker/Snowy
-			-Geno: Any
-			-Bowser: Attack
-			-Peach: Attack
-		-Corkpedite
-			-Mario: Jump
-			-Mallow: Shocker/Snowy
-			-Geno: Any
-			-Bowser: Attack
-			-Peach: Attack/Psych Bomb
-		-Corkpedite Body
-			-Mario: Jump
-			-Mallow: Special
-			-Geno: Any
-			-Bowser: Attack
-			-Peach: Attack/Psych Bomb
+		-Note that we've long passed the point of caring about FP (you should be capped at 99 if the Flower items have been getting used).  So we're just going to use our strongest moves going forward, which makes this section easier:
+		-Mario: Attack on Magmus, Jump on everyone else
+		-Mallow: Shocker on single target, Snowy on AOE
+		-Geno: Geno Beam/Geno Flash on Vomer, Attack on Single Target, Geno Flash on AOE
+		-Bowser: Terrorize on Vomer, otherwise Attack
+		-Peach: Defend on Vomer, Attack on Single Target, Psych Bomb on AOE
 
 Regardless of how you choose to fight your battles, this place is extremely
 linear. Unless you jump down from an elevated place, you never have multiple
