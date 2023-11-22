@@ -1664,3 +1664,37 @@ Weapon World:
 	-SMITHY 2ND FORM
 		-Mario: Jump except on the masked head (has an eye slot), Attack this one
 		-Everyone else: Attack
+	-Sit through credits and save your clear data.
+	-Load clear data.
+	-Map > Menu > Marrymore
+
+Marrymore:
+	-Go to the Inn and talk to the innkeeper
+	-Follow the bellhop upstairs and go to sleep
+	-Leave Marrymore and go to Star Hill
+
+Star Hill:
+	-(From one to the next) Down, Right, Left, Up, Right
+	-Menu > Map > Tadpole Pond
+
+Tadpole Pond:
+	-Talk to Frogfucious
+	-Menu > Map > Monstro Town
+
+Monstro Town:
+	-Backtrack through Belome's Temple
+	-BELOME
+		-Mario: Jump on Belome and Clones, attack the ones that are immune
+		-Everyone Else: Attack
+	-EQUIP
+		-Mallow: Sage Stick
+	-Map > Menu > Moleville
+
+Moleville:
+	-Go into the mine and fight Punchinello
+	-PUNCHINELLO
+		-Some of the bombs face away from the party, leave this alone.
+		-Attack the bombs facing the party to have them turn and face Punchinello.
+		-Don't bother attacking Punchinello directly.  This fight is a slog.
+
+
