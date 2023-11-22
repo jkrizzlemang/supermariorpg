@@ -99,7 +99,7 @@ Bandit's Way:
 Mushroom Kingdom 2:
 	-COMBAT:
 		-Mario: Untimed Jump
-		-Mallow: Defend, otherwise Thunderbolt on AOE
+		-Mallow: Defend
         -Note that all combat here should be done having Mario use untimed Jump and Mallow defending.
 	-Note to follow this item priority:
 		-If you are out of FP for Jump and you have 2 FP left, use a Honey Syrup.  Otherwise, refill it with a Flower Jar first, then Flower Tabs.
@@ -108,7 +108,6 @@ Mushroom Kingdom 2:
 	-Defeat Shyster jumping against the house to West
         -Defeat Shyster jumping in front of woman
 	-Defeat Shysters downstairs and upstairs in big house in upper left for Flower Tab.
-	-Go to Item Shop and buy Antidote Pin (don't Equip)
 	-Go into and out of the Inn to autosave.
 	-Go to castle, save the Toad immediately, go left and defeat all enemies and talk to Toad (choose "You Bet") for Flower Tab.
         -Talk to the older Toad by the bed here at any time to full heal and then save.
@@ -118,16 +117,18 @@ Mushroom Kingdom 2:
 	-Go into the South room and grab the left and middle chests only.
 	-Go to main hall and kill Shyster near doorway.
 	-Enter the door to the North and kill both Shysters.
-	-Go back into the main hall and grind combat using the Jump and FP notes above.
+	-Go back into the main hall and grind combat using Jump
+		-Remember, if you are out of FP for Jump and you have 2 FP left, use a Honey Syrup.  Otherwise, refill it with a Flower Jar first, then Flower Tabs.
 	-Once out of Flower Tabs and FP, go to the East Room and then the South room and the last chest for a full heal.
 	-Note that my untimed Jump with no Jump Shoes on did about 94 damage here by the time I ran out of Flower items and Honey Syrup.  This means I used Jump about 100 out 250 times.
 	-Note that technically you could stay here and spam jump infinitely using the older Toad to refresh your FP.  Not necessary.
 	-Go out to the main room and follow the path where the Shysters are constantly spawning.
-	-CLAYMORTON: (480 HP, should have 15 FP)
-		-Mario Jump on Claymorton only
-		-Mallow Thunderbolt on the first turn, Thunderbolt when Shysters are out, otherwise Defend/Heal
+	-CLAYMORTON:
+		-Mario: Jump on Claymorton
+		-Mallow: Thunderbolt on the first turn, Thunderbolt when Shysters are out, otherwise Defend/Heal
 	-Leave the castle.
 	-Talk to Item Shop owner
+	-Buy Antidote Pin (don't Equip)
 
 Kero Sewers:
 	-COMBAT:
