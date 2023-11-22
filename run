@@ -1156,17 +1156,19 @@ Bean Valley:
 
 Moleville 2:
 	-Go to the Item Shop and talk to the Toad to purchase Lucky Jewel and Mystery Egg
-	-Menu > Map > Mushroom Way
+	-(Optional 100%) Menu > Map > Mushroom Way
 
-Mushroom Way 2:
+(Optional 100%) Mushroom Way 2:
 	-Swap Peach into your party
 	-EQUIP
 		-Peach: Nurture Ring
 	-Get into battles and use the Mystery Egg item with Peach only until it transforms (10 times)
-	-(Not worth) Grind 48 successful Lamb Lure uses to gain Sheep Attack
+	-(Optional 100%) Grind 48 successful Lamb Lure uses to gain Sheep Attack
 	-Swap Peach back out of the party
 	-EQUIP
 		-Peach: Exp Booster
+
+World Map
 	-If you don't have 50 Frog Coins, either farm the Paratrooper Climb minigame, do the Midas River Course, or go to a Wiggler in the Forest Maze Entrance and jump on it 10 times in a row to farm Frog Coins
 	-Once you have 50 Frog Coins, go to Seaside Town and upstairs in the Elder's house to the North to purchase the Flower Ring
 	-EQUIP
@@ -1537,353 +1539,60 @@ Bowser's Keep:
 			-EQUIP
 				-Bowser: Drill Claw
 				-Geno: Star Gun
+	-7th Screen
+		-You'll arrive here automatically after finishing four doors.
+		-Save.
+	-8th Screen
+		-WIZAKOOPA
+			-Mario: Jump
+			-Mallow: Shocker
+			-Geno: Geno Boost Geno, then Attack
+			-Bowser: Attack
+			-Peach: Attack
+		-Enter the left door to find Croco and purchase Hero Shirt, Prince Pants, Star Cape, Heel Shell, and Royal Dress
+		-EQUIP
+			Mario: Hero Shirt
+			Mallow: Prince Pants if not Super Suit
+			Geno: Star Cape
+			Peach: Royal Dress
+		-Full heal with the Wizakoopa
+		-Enter the right door
+	-9th Screen:
+		-Linear
+	-10th Screen:
+		-BOOMER
+			-Mario: Jump
+			-Mallow: Shocker
+			-Geno: Geno Boost Mario, then Attack
+			-Bowser: Attack
+			-Peach: Psych Bomb
+		-EXOR
+			-Mario: Jump on the "Right Eye", then Jump on Exor
+			-Mallow: Snowy if "Left Eye" is up, otherwise Attack Exor
+			-Geno: Geno Boost Mario, then Attack Exor
+			-Bowser: Attack Exor
+			-Peach: Psych Bomb
+		-Take the spring back to the World Map
+	-If you don't have Sonic Cymbals, Star Gun and Drill Claw return to Bowser's Keep and go back to the room with 6 doors and finish them.
+	-(Optional 100%) If you don't have Peach's Super Slap, also go back to the room with 6 doors and finish them.  This is worse than the Frying Pan.
 
-Geno and Bowser have the ultimate weapons at the end of battle rooms.
-Therefore, I'd suggest that Mario, Mallow, and Toadstool do the two action and
-two puzzle rooms while Geno and Bowser do both the actions, one of the puzzles,
-and the battle room needed for their item. If you want to do a battle room with
-the others for experience, drop a puzzle room for it.
+(Optional 100%) Mushroom Kingdom:
+	-Go to the Inn and talk to the NPC in the East corner and purchase the Game for 500 coins
 
-Action Rooms:
-
-Everybody should do both of these. You get Mallow's ultimate weapon at the end
-of one of them, and you get Toadstool's second best weapon at the end of the
-other. The big factor is that these have random other items in them as well
-which are very good themselves, and these are the easiest rooms to complete.
-
-Action 1 - invisible floor (Super Slap)
-
-You're able to fail 9 times, and there's no real penalty for having to try
-again if you fail totally. You should get every chest in this course. You'll
-get a few coins (fairly useless), a Fright Bomb, a Royal Syrup, an Ice Bomb,
-and a Rock Candy. Yeah, that's a better prize alone than either of the puzzle
-rooms. As per a hint about completing this, um, don't fall into the lava. If
-you take too long, the Terrapins will disappear, but it doesn't really matter
-since you can try as much as you want. You can also show the floor again by
-simply jumping, though I find it easier to just expend a try by jumping into
-the lava.
-
-The second room here could be passed very easily if you just follow the
-platforms easily to the exit. However, this would neglect the great items here!
-You can ignore the lower left chest as it contains an illegal Red Essence. The
-upper left one grants you a Flower, and the upper right one has a Fire Bomb.
-The lower right one has a Max Mushroom which could be very handy if you overly
-drained yourself on one of the battle courses. If you need some help actually
-clearing the room, um, stay out of the lava. I should also note a general rule
-of all moving platform areas. They stop moving when Mario is jumping. This
-helps on many challenge areas, but I won't mention it again.
-
-The last room here is somewhat of a remake of the original Donkey Kong. You
-have to run up the ledges while avoiding the barrels. If you stand right next
-to the slightly raised platforms, the barrels can never hit you. This is very
-easy, and it ends when you make contact with DK, er, the Chained Kong. Hey, I
-seem to remember that causing you to die in the original Donkey Kong. A
-faithful remake this is not!
-
-Unfortunately, the final prize here is about as useful as what you have earned.
-You get the Super Slap, Toadstool's second best weapon. You already have the
-Frying Pan so this is a pretty pointless piece of equipment. The damage is less
-random than it is with the Frying Pan, but that's not enough to justify the
-lower power.
-
-Puzzle Rooms:
-
-Everyone should do one of these at least. You have to solve some surprisingly
-difficult puzzles to get a Rock Candy at the end. It's a good item that every
-character can use, and while these rooms require some thought, they aren't any
-harder in this challenge than on a regular play through.
-
-Puzzle 1 - quiz
-
-Next you have to do a barrel counting event. Ugh, this is easily the hardest
-thing in any of the puzzle rooms. You'll never win by mere counting; you have
-to count rows and use multiplication. Even then, you have to think pretty fast
-and have a fairly sharp memory. Well, there are only two times you have to do
-the counting, and the first one isn't that hard. Just do your best.
+(Optional 100%) Mushroom Way:
 
 
 
-Okay, that room is clear, and you're one Rock Candy richer. Don't you feel good
-about yourself?
 
 
-Puzzle 2 - coin game
 
-This starts with a basic coin grabbing game. You can take up to four coins from
-the box. Dr. Topper has the same ability in this regard. You take turns until
-one of you takes the last of the 21 coins. That person loses. The strategy is
-that you always want to take such a number of coins so that there is one more
-coin than is divisible by five on your opponent's turn. The logic is that six
-is the ideal number of coins for it to be on Dr. Topper's second to last turn.
-He can take any number of coins, and then you can reduce the number of coins
-remaining to one which forces you to win. In order to force him to have the
-turn with just 6 coins left, you want him to be the one who has the turn with
-11 coins and then 16 coins and then 21 coins. If you notice, you go first when
-there are 21 coins left. Yes, that's right. You have a forced loss, but Dr.
-Topper isn't smart enough. Take one coin at a time until he makes a mistake,
-and then force him into a losing position.
-
-The last part of this is ball solitaire. If I did a bad job explaining the
-last puzzle, I'll do an even worse job with this. Dr. Topper explains the
-rules fairly well, though he neglects to mention that you use "A" to kick the
-balls. I'll give you the general tip that you should, after kicking a ball, be
-sure that you will be able to get another ball next to it in a future move.
-This puzzle has many possible solutions, and I can't really explain it much
-better than I have. If you just try a few times, you'll probably stumble into
-a winning solution. I wish I could do better, but I can't.
-
-That's the end of the second puzzle room. You get a Rock Candy for your
-efforts.
-
-Battle Rooms:
-
-Twelfth battle: 1 Chester
-
-Okay, I suppose I had better treat him like all other false treasure chest
-enemies. Don't forget to equip your Safety Ring!
-
-Optional Boss 7 - Chester
-
-Mario strategy - Jump will take out Chester very quickly, but it's not an
-instant win like it was all the previous times. Still, it could be worse.
-
-Mallow strategy - Ugh, this is why I told you to not do this room with Mallow.
-Well, you are somewhat better prepared than usual since Star Rain can actually
-hurt him. Star Rain spamming is more or less all you can do here. Physicals are
-not the best plan since Chester can heal himself. Star Rain also takes out
-Bahamutt without too much trouble which is always valuable. A Bracer or Yoshi-
-Ade is probably going to prove nearly mandatory.
-
-Geno strategy - Geno Boost is a nice opener, and then you can set into Chester
-with your physical. It's really nice that he doesn't counter physicals like
-some of the other false treasure chest monsters. His HP is fairly high, and
-he's fairly strong. Just keep at it, and he'll fall. Do note that Bahamutt can
-be killed with Geno Whirl which will help you at the end of the fight.
-
-Bowser strategy - Both Chester and Bahamutt are immune to all status effects so
-all you can really do is go with physicals until they fall. Chester is annoying
-since he can heal himself, and he's very strong. You will probably need a
-Yoshi-Ade at the start of battle to minimize the Max Mushroom waste; you have
-a series of three bosses after this guy to deal with. You should definitely go
-for Chester first as well.
-
-Toadstool strategy - This is pretty much the exact same thing as with Mallow
-except replace Star Rain with Psych Bomb.
-
-Hmm, that last fight was quite a bit harder than the others, wasn't it? Well,
-now you've won, and you have the Drill Claw as your valuable prize!
-
-This is a scary fight. Open with Geno Boost and then go down the line with
-physicals. Hope your Safety Ring protects you well; 6 Diamond Saw attacks in a
-row are more than you can likely handle. Don't use up a valuable Yoshi-Ade with
-Mallow or Toadstool (you can heal more easily), and if you are using Toadstool,
-be absolutely sure to avoid using a group attack Mute. Despite the fact that,
-of all battles, this seems to be the best one for Mute, it will turn on you
-here since using Mute as a group attack against six enemies locks the game.
-Sleepy Time will work fine, of course.
-
-For a victory here, you claim the Star Gun. This is the best weapon Geno gets
-to equip, and it's quite potent. It will come in great handy for the remainder
-of his challenge.
-
-Once you are finished with four of the rooms, you'll fall into a room with a
-save point. Be sure to save and make any necessary preparations for the next
-boss. That would include equipping the Safety Ring.
-
-Boss 20 - Magikoopa
-
-Everybody strategy - Okay, I'm going to approach the strategy here a little
-differently than usual because this fight comes down to abusing a very serious
-bug in Magikoopa's AI. Notably, when his summoned Mezzo Bomb uses Big Bang and
-removes itself from the battle, Magikoopa returns as a valid target but does
-not start taking turns again. That's right, he'll just sit there until you slay
-him. There is no reason to use a single item in this fight. The save point is
-in the room right before this one, and you can AI abuse him until he summons
-Mezzo Bomb as his first summon. However, you might as well try fighting his
-other two summons if he calls them.
-
-Jinx Clone - Jump, Shocker, and Geno Beam are easy wins here. Toadstool should
-use Psych Bomb if she has the FP. Bowser will get some results with Crusher,
-but he's probably best off just sharpening his new Drill Claw on this guy.
-
-Bahamutt - The Safety Ring is bad news for this guy. Jump, Shocker, and Psych
-Bomb are again the answers. Bowser again gets to have fun with the Drill Claw.
-Geno gets to have more fun with Geno Whirl.
-
-Of course, once Mezzo Bomb is summoned, just defend until it detonates. Use
-physicals to take out Magikoopa once he's lost his ability to defend himself;
-his physical defense is quite low after all.
-
-After you stomp him, Magikoopa regains his senses and remembers that he's one
-of Bowser's loyal minions. To make up for his foolish (though quite non-
-threatening) attempt on your lives, he'll heal you fully whenever you speak to
-him, and he summons a chest with an infinite number of coins in it. The chest,
-sadly, only gives on coin at a time so it's a very tedious way to max out your
-money. Still, it's somewhat neat.
-
-Enter the left room after Magikoopa to meet up with Croco again. He's updated
-his wares, and now he's selling the legendary armor! Be sure to buy whatever
-your character specific armor is; even Bowser has some use for this. You can
-also buy some random common items that you probably don't need, and you can max
-out your money once you're finished. Head back and save, and then progress via
-the right door to approach the end of this dungeon.
-
-Just avoid all enemies here unless fighting several Big Berthas sounds like fun
-to you. The next room after this has the next boss. Be sure to keep that Safety
-Ring equipped. I prefer the Heal Shell over the Work Pants for Bowser here.
-
-Boss 21 - Boomer
-
-Mario strategy - Open with a Bracer and then set into Boomer with Jump as long
-as he remains red. He'll take massive damage for a few rounds, and then he'll
-turn blue. That signals the time to start hammering on him with your physical.
-This too will do massive damage. Boomer is an easy boss with anyone; the effect
-just multiplies when you're using a powerhouse like Mario. He won't last long
-at all.
-
-Mallow strategy - Open with a Bracer and then set into Boomer with Shocker as
-long as he is red. Once he turns blue, start using the Sonic Cymbals to strike
-him. It's a very simple to abuse gimmick, and the instant death attack he uses
-to "punish" you for abusing it is blocked by the Safety Ring. You even get
-fully healed after this fight so you don't have to worry about conserving your
-FP. Consider this a bit of a freebie before the next boss.
-
-Geno strategy - Open with Geno Boost and then set into Boomer with Geno Beam.
-As long as Boomer is red, Geno Beam will do massive damage while the Star Gun
-will do lackluster damage. Once he turns blue, switch to using the Star Gun
-since that flips his defense stats. Really, he's a very easy boss. His gimmick
-is not a very hard one to abuse, and his only protection from you exploiting
-his weaker stat is a 1/3 Shaker counter. Shaker is an instant death technique.
-The Safety Ring makes you immune to instant death. You do the math.
-
-Bowser strategy - I suggest opening this fight with a Bracer. You can get away
-without it, but you will conserve Max Mushrooms this way. Use Crusher when
-Boomer is red, and use the Drill Claw when he is blue. He's really not very
-strong, and his Shaker counters can be laughed off with the Safety Ring. I'm
-not sure why they put someone with such a weak gimmick so late in the game; he
-would have been a great boss if only you fought him earlier. It's very possible
-to run out of FP here, but don't worry about it. You get a full heal after the
-fight, and you can just use your physical instead of Crusher at that point.
-Boomer is probably nearly dead by the time you run out of FP.
-
-Toadstool strategy - Open the fight with a Bracer (optional) and then set into
-Boomer with the Frying Pan. You're supposed to use specials against him when
-he's red, but Psych Bomb really won't do much more than your physical. Also, it
-costs 16 FP which isn't very sustainable. Boomer really isn't very strong, and
-you should be able to take him out without serious difficulty. You even get
-fully healed after this fight so don't worry that you're overdoing it with
-Therapy!
-
-After defeating Boomer, you get to ride the chandelier to the top of the keep.
-Time for another boss!
-
-Boss 22 - Exor
-
-Note for the dumb: Read the names of the eyes. "Right Eye" refers to Exor's
-right, not yours.
-
-Mario strategy - Open the fight with a Yoshi-Ade and then take out the Right
-Eye in a single Jump. Yep, he's weak to jump. Keeping him dead for the whole
-fight prevents Dark Star from ever happening. That's pretty cool. Once he's
-gone, attack Exor with Jump, Super Jump, or your physical. Super Jump is
-obviously best if you have insane timing skills, but it's fairly hard so for
-general purposes, you should probably stick to Jump. Your physical will
-actually do a bit better on average, but it's unreliable. Whenever Right Eye
-comes back, kill it in one Jump again. This should be quite simple.
-
-Mallow strategy - Open the fight with a Yoshi-Ade, and then set into the Left
-Eye with physical attacks. Sadly, it is immune to Shocker. Be sure to keep
-well healed early in the fight as Right Eye's Dark Star hurts you very badly.
-He'll run out of FP eventually, but be sure never to destroy the Right Eye.
-That would give him a full FP restoration. This is why Star Rain is a really
-bad idea in this fight. Once Exor is exposed, use physicals to slowly take him
-out. He's immune to Shocker so don't even think about it. This will be a really
-long battle, but it's a foregone conclusion. Their FP to attack is way more
-limited than your FP to heal, and the Safety Ring blocks everything dangerous
-the Left Eye can do along with the majority of the strong spells from Right Eye
-and Neosquid.
-
-Geno strategy - Geno Beam the Right Eye a few times to remove Exor's
-protection. Unfortunately for Exor, this includes his instant death protection.
-Use Geno Whirl on Exor for a quick win. If you think this is "cheap", I think
-you're being absurd and overly difficult. Either way, if you want to win
-another way, just open with Geno Boost and repeatedly kill the Left Eye with
-physicals so you can attack Exor with physicals. Leaving the Right Eye and
-Neosquid alive lets them run out of FP which is very good for you. You don't
-want to see Dark Star very often for sure.
-
-Bowser strategy - Open with a Yoshi-Ade, and then focus on the Left Eye with
-your physicals. Be warned that you absolutely should not go after the Right
-Eye. This fight has a way of dragging on, and parts that you leave alive are
-fairly likely to run out of FP. You definitely want to run the Right Eye out of
-FP as that blocks Dark Star for the rest of the fight. Be sure to keep healed,
-and give Exor a hearty serving of the Drill Claw whenever you get the chance.
-The fight will probably be long, but it really isn't very hard.
-
-Toadstool strategy - Toadstool's fight here is just an easier version of
-Mallow's. Mallow never used his offensive magic so Toadstool doesn't need to
-worry about that. By this point, Toadstool's stats are all around higher than
-his, and she has the excellent Frying Pan. In short, open with a Yoshi-Ade,
-target the Left Eye with physicals, attack Exor when he's exposed with
-physicals, and leave the Right Eye and Neosquid alone so they can run
-themselves out of FP.
-
-With Exor defeated, the path is open to Smithy himself. After Bowser shows you
-how sly he is (hint: not very), you get the chance to enter the final dungeon.
-I personally suggest that you not do that right now. There are seven bosses in
-there. Yes, you heard me right. There are seven. You will want to be fully
-stocked. Take the warp trampoline behind you to return to the overworld map.
-You can come back here whenever you want.
-
-Obviously, physical characters will want lots of Max Mushrooms, but the big
-thing to note is Yoshi-Ade. You will want a very healthy supply of the stuff
-unless you're doing Geno's challenge. Smithy himself is able to use Shredder
-which dispels your stat buffs so you really can't have too many. You'll also
-want to think about mixing in some Kerokerocola. Really, make your inventory
-the "perfect" inventory as the final dungeon is not a friendly place. Also, if
-you are doing Bowser or Geno's challenge, you will want some Sleepy Bombs. The
-Director is a fairly rigorous boss fight for them, and they will help
-immensely. You will probably have to back out of the final dungeon to restock
-again before Smithy so you might as well stock 4-5 of them. You can buy them
-at Tadpole Pond for one frog coin which is quite the bargain. If you're feeling
-really cramped on your inventory, you could get away with fewer. They're really
-just needed for one boss so don't worry about them too much, but your life will
-be easier if you have them.
-
-If you haven't beaten Jinx yet, do it. Everyone should be able to beat final
-Jinx now. Well, Mallow will still have a very hard time with him, but he should
-be beatable with the super equipment you got in Bowser's Keep. If you want to
-delay fighting Jinx until postgame, I won't blame you. However, there's no
-reason to avoid him with Mario, Geno, Bowser, or Toadstool, and the Jinx Belt
-will still be of some use to you. Take him down!
-
-Once you are really sure you are ready, proceed onward.
 
 Barrel Volcano
 
-	Fastest doors are action 1, action 2, quiz, coin
-
 	Use Lamb's Lure 48 times in battle doors.
 
-	XP Booster on Peach for Magikoopa -> Exor
-
-	***Magikoopa
-	Put Mario in Suit, Attack Scarf
-	Peach Work Pants/Troopa Pin (fright bomb first turn)
-	Geno Work Pants Feather
-
-	After Exor:
-	Go back to grab the 3 flags for musty fears
-	Turn in Cricket Jam
-	Get Lazy Shell
-	Get Star Egg
-
 	Buy 'Game' From Mushroom Kingdom
-	Get Frying Pan/Lucky Jewel
 	Sell Bright card in moleville, buy fireworks, shiny stone
-	
-	Equip Mario with XP Booster before buying 800 coin star
-	Have 111 frog coins from Troopa cliff mini game
 	
 	Buy items in Seaside town from Frogfucius' student
 	Buy Beetle Box
