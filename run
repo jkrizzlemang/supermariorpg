@@ -1724,9 +1724,14 @@ Sunken Ship:
 	-Switch Bowser out for Peach
 	-EQUIP
 		-Mario: Super Suit
-		-Peach: Lazy Shell (armor)
+		-Peach: Lazy Shell (armor), Enduring Brooch
+		-Geno: Jinx Belt
 	-Menu > Map > Monstro Town
 
 Monstro Town:
-	-
+	-JINX
+		-Hit timed everything to build the Triple Move gauge and then use it.  Peach should ressurect 
+	-EQUIP
+		-Peach: Feather
+		-Geno: Quartz Charm
 
