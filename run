@@ -1706,6 +1706,27 @@ Booster's Tower:
 		-Once Booster is alone, use Jump and Attacks
 	-EQUIP
 		-Geno: Stella 023
-	-
+	-Menu > Map > Marrymore
 
+Marrymore:
+	-BUNDT
+		-Mario: Jump Bundt
+		-Peach: Sleepy Time, Heal/Attack Bundt
+		-Geno: Geno Boost Mario, then Attack Bundt
+	-Menu > Map > Sunken Ship > Pirate Base
+
+Sunken Ship:
+	-Switch Peach out for Bowser
+	-EQUIP
+		-Mario: Lazy Shell (armor)
+	-JOHNNY
+		-Mario: Jump
+	-Switch Bowser out for Peach
+	-EQUIP
+		-Mario: Super Suit
+		-Peach: Lazy Shell (armor)
+	-Menu > Map > Monstro Town
+
+Monstro Town:
+	-
 
