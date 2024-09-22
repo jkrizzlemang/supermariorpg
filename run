@@ -65,8 +65,8 @@ Mushroom Kingdom:
 
 Bandit's Way:
 	-COMBAT:
-		-Mario: Untimed Attack Goomba, otherwise Jump
-		-Mallow: Attack (save FP for Jump)
+		-Mario: Jump, except untimed Attack Goomba
+		-Mallow: Attack
 	-Note: Head back to Mario's Pad to heal/restore FP if you need to
 	-1st Screen:
 		-Take Southern path and save
@@ -194,11 +194,9 @@ Tadpole Pond:
 
 Rose Way
 	-COMBAT:
-		-Crook - (Always attack these first for the coins) Attack, Thunderbolt
-		-Shy Guy - Jump, Attack
-		-Starslap - (2 or more) Thunderbolt (less than 2) Attack, 
-		-Arachne - Jump, Attack
-		-Snapdragon - Jump, Attack
+		-ALWAYS KILL CROOK FIRST FOR COINS
+                -Mario: Jump
+                -Mallow: Thunderbolt Crooks and 2+ Starslaps, otherwise Attack
         -1st Screen:
 		-Ride 1st platform and switch
 	        -Ride 2nd platform and switch (don't grab full heal mushroom)
@@ -237,24 +235,9 @@ Rose Town:
 
 Forest Maze: 
 	-COMBAT:
-		-Wiggler - Avoid, otherwise:
-			-Mario: Jump (1), Attack (2)
-			-Mallow: Thunderbolt (2), Attack (3)
-		-Amanita
-			-Mario: Jump (1), Attack (1)
-			-Mallow: Thunderbolt (1), Attack (2)
-		-Rat Funk
-			-Mario: Jump (1), Attack (1)
-			-Mallow: Thunderbolt (1), Attack (1)
-		-Buzzer
-			-Mario: Jump (1), Attack (1)
-			-Mallow: Thunderbolt (1), Attack (1)
-		-Octolot
-			-Mario: Jump (1), Attack (2)
-			-Mallow: Thunderbolt (2), Attack (2)
-		-Guerrilla
-			-Mario: Jump (1), Attack (3)
-			-Mallow: Thunderbolt (3), Attack (3)
+                -AVOID WIGGLERS
+                -Mario: Jump
+                -Mallow: Thunderbolt AOE, otherwise Attack
 	-1st Screen:
 		-Grab Mushroom
 		-Jump in SW corner for Croaka Cola
@@ -267,7 +250,7 @@ Forest Maze:
 		-Jump NW of stump for Frog Coin
 	-5th Screen (counting all of these as Fifth Screen):
 		-First stump right row, jump around in bottom alcove for hidden chest with Flower
-		-Second stump left row, jump in North alcove hidden chest with... nothing.
+		-(Optional 100%) Second stump left row, jump in North alcove hidden chest with... nothing.
 		-Far back stump and jump behind Wiggler for Croaka Cola
 		-Jump on Wiggler
 	-6th Screen:
@@ -641,32 +624,10 @@ Tadpole Pond 2:
 	-Leave Marrymore
 
 Star Hill:
-	-COMBAT:
-		-Thropher
-			-Mario: Jump (1), Attack (1)
-			-Mallow:  Attack (2), Shocker (2), Thunderbolt (5)
-			-Geno: Attack (1), Geno Beam (1)
-			-Bowser: Attack (1), Terrorize (4)
-			-Peach: Attack (2)
-		-Gecko
-			-Mario: Jump (1), Attack (1)
-			-Mallow:  Attack (2), Shocker (2), Thunderbolt (4)
-			-Geno: Attack (1), Geno Beam (1)
-			-Bowser: Attack (1), Terrorize (4)
-			-Peach: Attack (2)
-		-Pulsar - Geno Beam, Defend
-		-Mastadoom
-			-Mario: Jump (1), Attack (3)
-			-Mallow:  Attack (4), Shocker (4), Thunderbolt (14)
-			-Geno: Attack (2), Geno Beam (2)
-			-Bowser: Attack (2), Terrorize (36)
-			-Peach: Attack (5)
-		-Sackit
-			-Mario: Jump (1), Attack (2)
-			-Mallow:  Attack (2), Shocker (1), Thunderbolt (2)
-			-Geno: Attack (2), Geno Beam (1)
-			-Bowser: Attack (2), Terrorize (4)
-			-Peach: Attack (3)
+	-COMBAT
+                -Mario: Jump, except Attack Pulsar
+                -Geno: Attack, except Geno Beam Pulsar
+                -Others: Attack
 	-Note to just avoid all combat here if possible
         -Interact with flower to the right and then left and go through Star door
 	-Pretty linear, interact with flowers to open star gates:
@@ -674,7 +635,7 @@ Star Hill:
                  -(From one to the next) Upper right, down, left, left, up-right, up-left
                  -(From one to the next) Down, left, up-right, up-left, down-right, up-right (star), down-right
 
-Seaside Town: 
+Seaside Town:
 	-Go to the North house and talk to the Elder.
         -Go upstairs and buy Experience Booster
 	-EQUIP
@@ -684,37 +645,13 @@ Seaside Town:
         -Buy 3 Fire Bombs, 3 Ice Bombs (original is 8 Ice Bombs and 8 Fright Bombs)
 
 Sea:
+        -PARTY:
+                -Mario, Geno, Bowser
 	-COMBAT:
-		-Zeostar
-			-Mario: Jump (1), Attack (2)
-			-Mallow:  Attack (2), Shocker (1), Thunderbolt (2)
-			-Geno: Attack (1), Geno Beam (1)
-			-Bowser: Attack (1), Terrorize (2)
-			-Peach: Attack (2)
-		-Bloober
-			-Mario: Jump (1), Attack (1)
-			-Mallow:  Attack (2), Shocker (1), Thunderbolt (2)
-			-Geno: Attack (1), Geno Beam (1)
-			-Bowser: Attack (1), Terrorize (3)
-			-Peach: Attack (2)
-		-Leuko - Avoid, otherwise:
-			-Mario: Jump (2), Attack (2)
-			-Mallow:  Attack (3), Shocker (5), Thunderbolt (25)
-			-Geno: Attack (2), Geno Beam (3)
-			-Bowser: Attack (2), Terrorize (44)
-			-Peach: Attack (3)
-		-Crusty
-			-Mario: Jump (1), Attack (40)
-			-Mallow:  Thunderbolt (1), Shocker (1), Attack (40)
-			-Geno: Attack (2), Geno Beam (1)
-			-Bowser: Attack (2), Terrorize (3)
-			-Peach: Attack (40)
-		-Mr. Kipper
-			-Mario: Jump (1), Attack (2)
-			-Mallow:  Attack (2), Thunderbolt (2), Shocker (1)
-			-Geno: Attack (1), Geno Beam (1)
-			-Bowser: Attack (1), Terrorize (3)
-			-Peach: Attack (2)
+                -AVOID LEUKO
+                -Mario: Jump
+                -Geno: Attack, except Geno Beam Crusty
+                -Bowser: Attack
 	-First Screen:
 		-Purchase Sailor Dress
 		-EQUIP
