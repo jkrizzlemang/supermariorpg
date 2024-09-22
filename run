@@ -293,22 +293,10 @@ Moleville:
 
 Pipe Vault:
 	-COMBAT:
-		-Goomba
-			-Any: untimed Attack (1)
-		-Spikey
-			-Any: untimed Attack (1)
-		-Frogog
-			-Any: Attack (1)
-		-Lava Bubble - Attack
-			-Mario: Attack (1), Jump (2)
-			-Mallow: Attack (2)
-			-Geno: Attack (1)
-		-Piranha Plant
-			-Mario: Jump (1), Attack (2)
-			-Mallow: Attack (2)
-			-Geno: Attack (2), Geno Beam (2)
-		-Shy Ranger - Always runs away
-        -Note it's just best to avoid all combat here, xp-wise.
+                -Note it's just best to avoid all combat here, xp-wise.
+	        -Mario: Jump on Piranha Plant, otherwise Attack
+                -Mallow: Attack
+                -Geno: Attack
 	-1st Screen:
 		-Enter pipe
 	-2nd Screen:
@@ -347,6 +335,9 @@ Moleville:
 
 Mole Mines:
 	-COMBAT:
+                -Mario: Jump
+                -Mallow: Thunderbolt AoE, otherwise Attack
+                -Geno: Attack
 		-Crook
 			-Mario: Jump (1), Attack (1)
 			-Mallow: Thunderbolt (1), Attack (1)
