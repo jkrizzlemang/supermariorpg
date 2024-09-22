@@ -594,7 +594,7 @@ Booster Tower:
 Marrymore:
         -Go to the Inn/Shop.
 	-Sell Goodie Bag
-	-Buy Super Hammer, Whomp Glove, Hand Gun, Happy Shirt, Happy Pants, and Nurture Ring
+	-Buy Super Hammer, Whomp Glove, Hand Gun, Happy Shirt, Happy Pants, and (optional 100%) Nurture Ring
 	-EQUIP
 		-Mario: Super Hammer, Happy Shirt
 		-Mallow: Whomp Glove, Happy Pants
@@ -1112,7 +1112,16 @@ Monstro Town:
 	-EQUIP:
 		-Geno: Jinx Belt
 	-Enter the door near the save and jump in the SW corner for a Frog Coin
-	-Menu > Map > Yo'ster Isle
+
+Tadpole Pond 4:
+	-Talk to Frogfucious and give him the Cricket Jam
+	-Go East and stand on grey stone to play (movements from top):
+		-4-3-2-1-5-2-1-0
+		-The second set you do doesn't matter
+
+--------------------‐-------------------------------------------------------------
+(Starting Optional 100%)
+-Menu > Map > Yo'ster Isle
 
 Yo'ster Isle:
 	-Run to the "GOAL" and inteact between the "O" and "A" for the Boo Flag
@@ -1120,14 +1129,7 @@ Yo'ster Isle:
 
 Rose Town:
 	-Interact behind the wooden flower here for the Greaper Flag
-	-Menu > Map > Tadpole Pond
-
-Tadpole Pond 4:
-	-Talk to Frogfucious and give him the Cricket Jam
-	-Go East and stand on grey stone to play (movements from top):
-		-4-3-2-1-5-2-1-0
-		-The second set you do doesn't matter
-	-Menu > Map > Mario's Pad
+	-Menu > Map >TMario's Pad
 
 Mario's Pad 2:
 	-Go into the house and interact with the bed for Dry Bones Flag
@@ -1137,6 +1139,10 @@ Monstro Town 2:
 	-Enter the door to the right of the Item Shop and go to bed for Ghost Medal
 	-EQUIP
 		-Mario: Attack Scarf (it got replaced by Ghost Medal)
+--------------------‐-------------------------------------------------------------
+
+Monstro Town:
+        -Menu > Map > Monstro Town
 	-Take the trampoline to the West
 
 Belome's Temple 2:
@@ -1152,6 +1158,8 @@ Belome's Temple 2:
 	-Climb the turtle shells under 11 seconds for the Troopa Medal.  You can repeat this under 11 seconds as many times as you want for 1 Frog Coin.
 	-Exit to the Northeast
 
+--------------------‐-------------------------------------------------------------
+(Starting Optional 100%)
 Bean Valley:
 	-Menu > Map > Moleville
 
@@ -1159,7 +1167,7 @@ Moleville 2:
 	-Go to the Item Shop and talk to the Toad to purchase Lucky Jewel and Mystery Egg
 	-(Optional 100%) Menu > Map > Mushroom Way
 
-(Optional 100%) Mushroom Way 2:
+Mushroom Way 2:
 	-Swap Peach into your party
 	-EQUIP
 		-Peach: Nurture Ring
@@ -1168,7 +1176,7 @@ Moleville 2:
 	-Swap Peach back out of the party
 	-EQUIP
 		-Peach: Exp Booster
-
+--------------------‐-------------------------------------------------------------
 World Map
 	-If you don't have 50 Frog Coins, either farm the Paratrooper Climb minigame, do the Midas River Course, or go to a Wiggler in the Forest Maze Entrance and jump on it 10 times in a row to farm Frog Coins
 	-Once you have 50 Frog Coins, go to Seaside Town and upstairs in the Elder's house to the North to purchase the Flower Ring
