@@ -11,13 +11,7 @@ Level Ups:
 
 Bowser's Keep:
 	-Note that, for the whole game, Mario's Jump increases power by 1 every 2 times it's used to a certain, invisible, cap.  It takes 250 uses of Jump to max it's power if you want to keep track.  It will only help to stack this early and as often as possible.
-	-1st Screen:
-		-Linear
-	-2nd Screen:
-		-Pick a fight with one of the initial two Terrapins and use untimed Jump.
-		-Forced Terrapin fight, use untimed Jump
-	-3rd Screen:
-		-Linear
+	-Follow the linear path while getting into one unforced fight. Use untimed Jump on everything.
 	-BOWSER:
 		-Untimed Jump once on Bowser
 		-Untimed Jump 2x on KinkLink
@@ -29,7 +23,7 @@ Mario's Pad:
 	-Leave Southeast
 
 Bowser's Keep 2:
-	-Story only
+	-Story
 
 Mario's Pad 2:
 	-Go into Mario's house and talk to Toad
@@ -38,9 +32,9 @@ Mario's Pad 2:
 
 Mushroom Way:
 	-COMBAT:
-		-Jump/Attack at Level 2 on Sky Troopa, otherwise Attack
+		-Jump on Sky Troopa, otherwise Attack
 	-1st screen:
-		-Fight everything, only using Jump on the Sky Troopas, grab both chests and save toad
+		-Fight everything. Grab both chests and save toad
 	-2nd screen:
 		-Kill the Goomba waiting to ambush you
 		-Kill the Sky Troopa
@@ -1231,7 +1225,7 @@ Bean Valley 2:
 				-Jump in the North corner under the stairs for a Frog Coin.
 				-Jump in the Southeast corner that doesn't have the stairs for a hidden chest with Red Essence
 				-Climb the stairs and jump on the platform for a chest with a Frog Coin
-			-North Pipe (optional for 100%)
+			-(Optional 100%) North Pipe
 				-Defeat the Chomp Chomp
 				-Jump in the West corner near the Chomp Chomp three times for a hidden platform
 				-Take the hidden exit back to the world map to unlock Grate Guy's Casino
@@ -1586,17 +1580,19 @@ Bowser's Keep:
 	-If you don't have Sonic Cymbals, Star Gun and Drill Claw return to Bowser's Keep and go back to the room with 6 doors and finish them.
 	-(Optional 100%) If you don't have Peach's Super Slap, also go back to the room with 6 doors and finish them.  This is worse than the Frying Pan.
 
-(Optional 100%) Mushroom Kingdom:
+--------------------‐-------------------------------------------------------------
+(Starting Optional 100%)
+Mushroom Kingdom:
 	-Go to the Inn and talk to the NPC in the East corner and purchase the Game for 500 coins
 
 Moleville 4:
 	-Go to the house above the Item Shop
 	-Talk to the adult NPC and buy Fireworks for 500 coins
 	-Talk to the NPC hiding amongst some boxes just outside this house to get Shiny Stone
-	-(Optional 100%) Menu > Map > Seaside Town
 
-(Optional 100%) Seaside Town
+Seaside Town
 	-Go to the Elder's house and upstairs to purchase Coin Trick, See Ya, and Earlier Times
+--------------------‐-------------------------------------------------------------
 
 Weapon World:
 	-Mario 21, Mallow 21, Geno 21, Bowser 25, Peach 23
@@ -1673,6 +1669,9 @@ Weapon World:
 		-Mario: Jump except on the masked head (has an eye slot), Attack this one
 		-Everyone else: Attack
 	-Sit through credits and save your clear data.
+
+--------------------‐-------------------------------------------------------------
+(Starting Optional 100%)
 	-Load clear data.
 	-Map > Menu > Marrymore
 
@@ -1749,3 +1748,4 @@ Monstro Town:
 		-Geno: Geno Boost Mario, Geno Flash while crystals are up, otherwise Attack
 		-Bowser: Attack
 		-Mallow: Snowy if Fire Crystal is up, Shocker on Earth Crystal, otherwise Heal/Revive/Attack
+--------------------‐-------------------------------------------------------------
